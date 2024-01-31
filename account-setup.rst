@@ -42,9 +42,9 @@ Open the `Ubuntu Pro dashboard <http://ubuntu.com/pro/dashboard>`__. This dashbo
 Ubuntu Pro token
 ~~~~~~~~~~~~~~~~
 
-Here you can see your subscriptions and the **Ubuntu Pro tokens** associated with them. The tokens are required to enable many Ubuntu Pro services. 
+Here you can see your subscriptions and the **Ubuntu Pro tokens** associated with them. The tokens are required to enable many Ubuntu Pro services. When a service requires your token, get it from here.
 
-For more information about the Ubuntu Pro token, client, and active machine count, see `Bitstream services: overview & enablement <link tbc>`_.
+For more information about using the Ubuntu Pro token, client, and active machine count, see `Bitstream services: overview & enablement <link tbc>`_.
 
 
 Add a secondary user
