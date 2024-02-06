@@ -54,21 +54,24 @@ We recommend that all customers with commercial subscriptions have a secondary u
 
 Check *Account users* from the main menu. If a secondary user is not already listed, add one now.
 
------------
-
-
 Canonical Support Portal
 ------------------------
 
-The next customer portal is the `Canonical Support Portal <http://portal.support.canonical.com>`__. The Support Portal is where our Knowledge Base lives - this is a comprehensive repository of troubleshooting and solution articles that is continuously extended and maintained by our technical support experts. On top of our official product documentation on our websites, the KB is your first instance to look for first-hand, verified support documentation for Ubuntu and the software that Canonical has built around Ubuntu. For customers with support contracts, the Support Portal is also of course where you go to open a ticket with our technical support team.
+Open the `Canonical Support Portal <http://portal.support.canonical.com>`__. The Support Portal provides access to our Knowledge Base. If you have a support contract, this is where to raise support tickets.
 
-Once again, we recommend adding at least one secondary user to the Support Portal, to ensure that you do not lose access to your account.
+Add a secondary user
+~~~~~~~~~~~~~~~~~~~~
 
-To add and update Support Portal users, click on the profile icon to the right hand side of the search bar and then click “My account.” Then add new users using the “new user” button as needed - make sure to check the “Active Ubuntu Advantage user” box so that the new contact is enabled as a Support Portal user.
+As before, we recommend adding a secondary user to the portal, to ensure continuity of access.
 
-Finally, note that you can have up to 5 Support Portal users per 500 licenses, up to a maximum of 15. The default limit of 5 users will be applied to all accounts; if you meet the criteria for additional users, please open a ticket with our Support Team to let us know how many additional users you require.
+Open the User menu, and select *My account*. 
 
+..  image:: /images/portal-user-menu.png
+    :alt: The user menu is the last item in the main menu
 
+If a secondary user is not already listed, add one now with the *New user* button. Also select the *Active Ubuntu Pro user* option, so that the new contact is enabled as a Support Portal user.
+
+-----------
 
 
 Landscape
