@@ -64,7 +64,12 @@ Add a secondary user
 
 As before, we recommend adding a secondary user to the portal, to ensure continuity of access.
 
-Check *Account users* from the main menu. If a secondary user is not already listed, add one now. Select the account profile icon, then *My account* > *New user*. Also select the *Active Ubuntu Advantage user* option, so that the new contact is enabled as a Support Portal user.
+Open the User menu, and select *My account*. 
+
+..  image:: /images/portal-user-menu.png
+    :alt: The user menu is the last item in the main menu
+
+If a secondary user is not already listed, add one now with the *New user* button. Also select the *Active Ubuntu Pro user* option, so that the new contact is enabled as a Support Portal user.
 
 -----------
 
