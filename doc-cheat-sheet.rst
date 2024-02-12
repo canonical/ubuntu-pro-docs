@@ -191,6 +191,43 @@ Images
 
    Figure caption
 
+Mermaid diagrams
+----------------
+
+You can create flow diagrams and similar visual elements using Mermaid. The
+`live editor`_ allows you to create and tweak your diagrams, and provides you
+with the code snippet that allows you to include it in your documentation. 
+
+To include a Mermaid diagram, use the following:
+
+.. code::
+
+    .. mermaid::
+        :alt: (optional) allows you to include alt text
+        :align: (optional) options are left, right, or center
+        :caption: (optional) includes a caption
+        :zoom: (optional) allows the figure to be zoomed
+           
+        <Paste your diagram's code input here. Make sure you leave an empty
+        line under `.. mermaid::`, and indent your diagram's code with at
+        least 3 empty spaces as shown here. Anything indented will be included
+        in the diagram.>
+        
+Here's an example:
+
+.. code::
+
+    .. mermaid::
+        :zoom:
+        
+        flowchart TD
+            A[Christmas] -->|Get money| B(Go shopping)
+            B --> C{Let me think}
+            C -->|One| D[Laptop]
+            C -->|Two| E[iPhone]
+            C -->|Three| F[fa:fa-car Car]
+    
+
 Reuse
 -----
 
@@ -266,3 +303,4 @@ A link to a YouTube video:
 
 .. LINKS
 .. _Canonical website: https://canonical.com/
+.. _live editor: https://mermaid.live/
