@@ -1,21 +1,24 @@
 Ubuntu Pro: general account setup
 =================================
 
-This introduction is for:
+Welcome to Ubuntu Pro, for new subscribers and users. 
 
-* direct data centre customers who have purchased a yearly subscription to Ubuntu Pro from Canonical or through a reseller
-* public cloud customers who have purchased a yearly subscription (non-metered) to Ubuntu Pro 
+**Take five-minutes to work through this introduction to the basics of your Ubuntu Pro subscription.** This will ensure that when you need help, you know where to go and how to get it, quickly and efficiently.
 
-Ubuntu Pro customers on a metered plan purchased directly from AWS or Azure should instead refer to:
+..  admonition:: Are you on a metered plan purchased directly from AWS or Azure?
 
-* `Getting started with Ubuntu Pro on AWS <https://ubuntu.com/engage/aws-pro-onboarding>`_
-* `Getting started with Ubuntu Pro on Azure <https://ubuntu.com/engage/azure-pro-onboarding>`_
+    If you're on a metered plan, this document does not apply to you. Instead see: 
+    
+    * `Get started with Ubuntu Pro on AWS <https://ubuntu.com/engage/aws-pro-onboarding>`_
+    * `Get started with Ubuntu Pro on Azure <https://ubuntu.com/engage/azure-pro-onboarding>`_      
 
 
 Ubuntu One
 ----------
 
-Access to the Ubuntu Pro customer portals is mediated through **Ubuntu One Single Sign On**.
+The first thing we need you to do is log in.
+
+Access to the Ubuntu Pro customer portals is mediated through **Ubuntu One Single Sign On**. If you have an Ubuntu One account already, go straight to :ref:`log in to the Ubuntu Pro dashboard <dashboard-log-in>`.
 
 If you do not already have an Ubuntu One account
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -33,6 +36,9 @@ After verifying your email address, you can access the customer portals. There a
 * `Ubuntu Pro dashboard <ubuntu.com/pro/dashboard>`_
 * `Canonical Support Portal <portal.support.canonical.com>`_ 
 * `Landscape <landscape.canonical.com>`_ (additional set-up will be required) 
+
+
+.. _dashboard-log-in:
 
 Ubuntu Pro dashboard
 --------------------
