@@ -20,6 +20,8 @@ The first thing we need you to do is log in.
 
 Access to the Ubuntu Pro customer portals is mediated through **Ubuntu One Single Sign On**. If you have an Ubuntu One account already, go straight to :ref:`log in to the Ubuntu Pro dashboard <dashboard-log-in>`.
 
+.. _create-ubuntu-one-account:
+
 If you do not already have an Ubuntu One account
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -29,14 +31,15 @@ If you don't know the address, ask the person who set up your organisation's Ubu
 
 Go to `Ubuntu One <http://login.ubuntu.com>`_ and select *I do not have an Ubuntu One account*.
 
-Create a new account, using the email address associated with your Ubuntu Pro subscription as the "Preferred email address". 
+Create a new account, using the email address associated with your Ubuntu Pro subscription as the "Preferred email address".
+
+(If you get a message "An Ubuntu One account already exists with this email", please see :ref:`password-reset-problems`.)
 
 After verifying your email address, you can access the customer portals. There are three portals: 
 
 * `Ubuntu Pro dashboard <ubuntu.com/pro/dashboard>`_
 * `Canonical Support Portal <portal.support.canonical.com>`_ 
 * `Landscape <landscape.canonical.com>`_ (additional set-up will be required) 
-
 
 .. _dashboard-log-in:
 
@@ -83,33 +86,14 @@ If a secondary user is not already listed, add one now with the *New user* butto
 Landscape
 ---------
 
-The final customer portal is `Landscape SaaS <http://landscape.canonical.com/>`_, our system management tool. Landscape is largely used by our customers to manage package configurations, package updates and security updates on Ubuntu instances at scale, but it has lots of other functions, too. To learn more about these, head over to `Landscape module <link tbc>`_ on this course.
+You will have received an email message inviting you to activate your Landscape account (Subject: "You have been invited to the Landscape account […]", from ``noreply+landscape@canonical.com``). 
 
-Landscape accounts are not automatically provisioned when a new customer purchases Ubuntu Pro. Instead, we send a Landscape invitation email to the technical contact on the new account, with a link that will activate the Landscape account. This email sometimes lands in spam folders, so if you have not seen it, please check there. If you still cannot find it, or if the link has expired, contact your Account Manager or our Customer Success Team to ask for us to send the email again - you can request contact details for the team via Livechat on any web-page at <ubuntu.com>.
+If you haven't already done so, accept the invitation now and follow the instructions. (If you can't find the message, check your spam filter, and then ask us.)
 
-After activating your Landscape account, you will be able to sign in. You can then add new users under the “Administrators” tab.
+You can always log in to the account at `Landscape SaaS <http://landscape.canonical.com/>`_.
 
-Be aware that you need access to your Landscape SaaS account, even if you are planning to use self-hosted Landscape, because your license.txt files for self-hosted Landscape are downloaded directly from Landscape SaaS.
+Once again, we recommend adding a secondary user to the portal, to ensure continuity of access: *Administrators* > *Invite an administrator*.
 
+------------
 
-
-
-FAQs
-----
-
-1. I’m trying to reset my Ubuntu One password but the reset emails are not arriving. What should I do?
-
-Most of the time, this happens because you have not created an Ubuntu One account. Note that Canonical does not provision Ubuntu One accounts or create usernames and passwords for new Ubuntu Pro users. Try navigating to Ubuntu One, input the email listed against your Ubuntu Pro account and choose “I do not have an Ubuntu One” account. Create a username and password of your choosing. After verifying your email, you should be able to access the Ubuntu Pro portals.
-
-If you have already created an Ubuntu One account and the reset emails are still not arriving and you are a paying customer, contact your Account Manager or the Customer Success Team - our contact details are provided on the Ubuntu Pro welcome email sent after purchase, or navigate to `ubuntu.com <ubuntu.com>`_ and ask for our details using the Livechat service. 
-
-
-2. My colleague added me to one of the Ubuntu Pro portals, but I can’t access any of the other portals. What’s going on?
-
-User access is not integrated across the Ubuntu Pro portals. This means that you need to be added as a new user on every portal to which you require access. Any current administrator on a portal will be able to add new users as needed.
-
-Not sure who is an admin on your account? Contact your procurement team, your Account Manager at Canonical, or Customer Success. If you need help finding contact details, please navigate to any web-page under `ubuntu.com <ubuntu.com>`_ and ask for help using our Livechat service.
-
-3. I tried adding a new user to my account in `Ubuntu One <http://login.ubuntu.com>`_ but they still can’t access any of the Ubuntu Pro portals. How do I fix it?
-
-Ubuntu One is simply a Single Sign On across the Ubuntu websites, including the Ubuntu Pro portals. It is not a user management system for Ubuntu Pro. You can add new users to your Ubuntu Pro account in each customer portal - the `Ubuntu Pro dashboard <http://ubuntu.com/pro/dashboard>`__, `the Support Portal <http://support.canonical.com>`_, and `Landscape <http://landscape.canonical.com>`__. Please ensure that each individual user on your account creates their own Ubuntu One account - these cannot be shared by multiple users, and trying to share them will often trigger errors.
+If you are having problems accessing the portals, please see :ref:`Portal access problems <portal-access-problems>`.
