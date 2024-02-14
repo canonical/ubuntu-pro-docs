@@ -150,6 +150,7 @@ custom_myst_extensions = []
 # sphinx_reredirects, sphinxcontrib.jquery, sphinxext.opengraph
 custom_extensions = [
     'sphinx_tabs.tabs',
+    'sphinxcontrib.mermaid',
     'canonical.youtube-links',
     'canonical.related-links',
     'canonical.custom-rst-roles',
