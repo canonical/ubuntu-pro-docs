@@ -37,9 +37,9 @@ Create a new account, using the email address associated with your Ubuntu Pro su
 
 After verifying your email address, you can access the customer portals. There are three portals: 
 
-* `Ubuntu Pro dashboard <ubuntu.com/pro/dashboard>`_
-* `Canonical Support Portal <portal.support.canonical.com>`_ 
-* `Landscape <landscape.canonical.com>`_ (additional set-up will be required) 
+* `Ubuntu Pro dashboard <https://ubuntu.com/pro/dashboard>`_
+* `Canonical Support Portal <https://support-portal.canonical.com/dashboard>`_ 
+* `Landscape <https://landscape.canonical.com/login/>`_ (additional set-up will be required) 
 
 .. _dashboard-log-in:
 
