@@ -20,6 +20,7 @@ Juju
 Kubernetes
 Kubeflow
 Launchpad
+lifecycle
 LTS
 Makefile
 Mattermost
@@ -37,6 +38,7 @@ reST
 reStructuredText
 RTD
 sosreport
+sosreports
 subdirectories
 subtree
 subfolders
