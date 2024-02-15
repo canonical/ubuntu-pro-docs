@@ -68,6 +68,25 @@ Support case lifecycle
             L --> |No| K
  
 
+How to open a case
+—-------------------------
+
+#. Log in to the `Support Portal <https://support-portal.canonical.com/dashboard>`_.
+#. Search the Canonical Knowledge Base for articles relevant to your case - your issue may already have a solution.
+#. If no solution is available in the Knowledge Base, click the “New ticket” button on the homepage.
+#. Complete the ticket form, paying particular attention to “Description”:
+   #. Include an impact statement: How does the problem affect your organization?
+   #. Summary/description of issue: exact time & date the problem occurred
+   #. Context of issue within your environment
+   #. What Ubuntu versions are affected
+   #. Describe a reproducible test case if applicable
+   #. Any relevant technical information:
+   #. Logs / Error Messages / Screenshots
+   #. Network Diagrams 
+   #. Links to Bugs
+#. Share a sosreport - information on sosreports follows.
+
+
 Sosreports
 -------------
 
