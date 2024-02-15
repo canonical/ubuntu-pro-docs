@@ -67,3 +67,15 @@ Support case lifecycle
             L --> |Yes| I
             L --> |No| K
  
+
+Sosreports
+-------------
+
+Canonical uses sosreports, or "state of system" reports, to diagnose and resolve problems. These comprise system logs and configuration data.
+When you report a problem with your Ubuntu machine, you can generate and send a sosreport from the affected machine straight away.
+
+Refer to the following articles for information on using sosreports:
+
+* `Installing the sosreport tool and generating a sosreport <https://support-portal.canonical.com/knowledge-base/canonical-support-data-collection-sosreport>`_
+* `Sending a sosreport to Canonical <https://support-portal.canonical.com/knowledge-base/sending-files-sts>`_
+* `Sosreports, data and security <https://support-portal.canonical.com/knowledge-base/sosreport-data-security>`_

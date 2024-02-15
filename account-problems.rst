@@ -16,7 +16,7 @@ Follow the instructions at :ref:`create-ubuntu-one-account` *carefully*, then co
 
     Find the original "Welcome to Ubuntu Pro" message we sent you, and contact the Customer Success team with the details provided.
 
-    If you cannot find the welcome message, go to `ubuntu.com <ubuntu.com>`_ and ask for Customer Success contact details using the Livechat service. 
+    If you cannot find the welcome message, go to `https://ubuntu.com/ <https://ubuntu.com/>`_ and ask for Customer Success contact details using the LiveChat service. 
     
 
 .. _portal-access-problems:
