@@ -19,7 +19,7 @@ import datetime
 ############################################################
 
 # Product name
-project = 'Documentation starter pack'
+project = 'Ubuntu Pro'
 author = 'Canonical Group Ltd'
 
 # The title you want to display for the documentation in the sidebar.
@@ -49,7 +49,7 @@ copyright = '%s, %s' % (datetime.date.today().year, author)
 # don't know yet)
 # NOTE: If no ogp_* variable is defined (e.g. if you remove this section) the
 # sphinxext.opengraph extension will be disabled.
-ogp_site_url = 'https://canonical-starter-pack.readthedocs-hosted.com/'
+ogp_site_url = 'https://canonical-ubuntu-pro-docs.readthedocs-hosted.com/'
 # The documentation website name (usually the same as the product name)
 ogp_site_name = project
 # The URL of an image or logo that is used in the preview
@@ -84,7 +84,7 @@ html_context = {
     'mattermost': 'https://chat.canonical.com/canonical/channels/documentation',
 
     # Change to the GitHub URL for your project
-    'github_url': 'https://github.com/canonical/starter-pack',
+    'github_url': 'https://github.com/canonical/ubuntu-pro-docs',
 
     # Change to the branch for this version of the documentation
     'github_version': 'main',
