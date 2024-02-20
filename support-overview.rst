@@ -54,16 +54,19 @@ Support case lifecycle
     :zoom:
     
     flowchart TD
-        A(Customer experiences an issue on a covered machine & troubleshoots)-->B(Customer searches Knowledge Base for resolution)
-        B --> C(Case opened by customer via phone or Support Portal)
-        B --> D{Problem solved?}
-        C --> F(Support Case is triaged and actioned with severity level set appropriately)
+        Start(Customer experiences an issue on a covered machine & troubleshoots)-->Search(Customer searches Knowledge Base for resolution)
+        Search -->  D{Solution found?}
+            D --> |No| Case
+            D --> |Yes| End
+        Case(Case opened by customer via phone or Support Portal)
+        Case --> F(Support Case is triaged and actioned with severity level set appropriately)
         F --> G(Case is assigned to TSE,TAM or DSE)
         G --> H{Problem solved?}
             H --> |Yes| I(Case set to 'Closed - resolved' after customer agreement)
             H --> |No| K(Case escalated to Sustaining Engineering Group)
-        I --> J[Customer  satisfaction survey is sent]
+        I --> J[Customer  satisfaction survey is sent] --> End
         K --> L{Problem solved?}
             L --> |Yes| I
             L --> |No| K
+        End(End)
  
