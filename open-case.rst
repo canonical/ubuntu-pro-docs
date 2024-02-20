@@ -12,7 +12,7 @@ If no solution is available in the Knowledge Base, select **New ticket** button 
 
 Complete the ticket form. Most fields are self-explanatory, but note:
 
-*Description* - include:
+:guilabel:`Description` - include:
 
 * exact time & date the problem occurred
 * what the steps or actions you took
@@ -21,7 +21,7 @@ Complete the ticket form. Most fields are self-explanatory, but note:
 * any other information you think is relevant
 * any logs, error messages, screenshots
 
-*Impact* - tell us how the problem affects your organisation
+:guilabel:`Impact` - tell us how the problem affects your organisation
 
 If you are able to share a *sosreport* (below), this will help us respond faster and more accurately.
 
