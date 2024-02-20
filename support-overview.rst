@@ -67,34 +67,3 @@ Support case lifecycle
             L --> |Yes| I
             L --> |No| K
  
-
-How to open a case
--------------------
-
-#. Log in to the `Support Portal <https://support-portal.canonical.com/dashboard>`_.
-#. Search the Canonical Knowledge Base for articles relevant to your case - your issue may already have a solution.
-#. If no solution is available in the Knowledge Base, click the "New ticket" button on the homepage.
-#. Complete the ticket form, paying particular attention to **Description**:
-    #. Include an impact statement: How does the problem affect your organization?
-    #. Summary/description of issue: exact time & date the problem occurred
-    #. Context of issue within your environment
-    #. What Ubuntu versions are affected
-    #. Describe a reproducible test case if applicable
-    #. Any relevant technical information:
-        #. Logs / Error Messages / Screenshots
-        #. Network Diagrams 
-        #. Links to Bugs
-#. Share a **sosreport** - information on sosreports follows.
-
-
-Sosreports
--------------
-
-Canonical uses sosreports, or "state of system" reports, to diagnose and resolve problems. These comprise system logs and configuration data.
-When you report a problem with your Ubuntu machine, you can generate and send a sosreport from the affected machine straight away.
-
-Refer to the following articles for information on using sosreports:
-
-* `Installing the sosreport tool and generating a sosreport <https://support-portal.canonical.com/knowledge-base/canonical-support-data-collection-sosreport>`_
-* `Sending a sosreport to Canonical <https://support-portal.canonical.com/knowledge-base/sending-files-sts>`_
-* `Sosreports, data and security <https://support-portal.canonical.com/knowledge-base/sosreport-data-security>`_

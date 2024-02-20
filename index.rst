@@ -1,17 +1,23 @@
-Starter pack
-============
+Ubuntu Pro documentation
+========================
 
-This starter pack contains the files you need to quickly set up your Sphinx documentation.
+Get started
+-----------
 
-Before you start, see the information about `Read the Docs at Canonical`_ and the instructions for `How to publish documentation on Read the Docs`_.
+* :doc:`Set up your account <account-setup>`
 
-Then, to start setting up your docs, check the :doc:`ReadMe <readme>` for instructions.
-The `Example product documentation`_ shows how to set up a Diátaxis structure in Sphinx.
+How-to guides
+-------------
 
-For quick help on reST or MyST syntax, see the :file:`doc-cheat-sheet.rst.txt` or :file:`doc-cheat-sheet-myst.md.txt` files in the repository.
-(Open the files in your text editor; the rendered output is not very useful.)
+* :doc:`Open a support case <open-case>`
+* :doc:`Resolve account problems <account-problems>`
 
-More information is available in the `reStructuredText style guide`_.
+Overview
+--------
+
+* :doc:`Support overview <support-overview>`
+* :doc:`Services overview & enablement <services-overview>`
+
 
 .. toctree::
    :hidden:
@@ -19,6 +25,7 @@ More information is available in the `reStructuredText style guide`_.
 
    ReadMe <readme>
    Account set-up <account-setup>
+   Open a support case <open-case>
    Account problems <account-problems>
    Support overview <support-overview>
    Services overview & enablement <services-overview>
