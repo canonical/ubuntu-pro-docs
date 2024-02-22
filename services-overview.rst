@@ -118,6 +118,3 @@ Please refer to our detailed `documentation on how to use the USG <https://ubunt
 If you need to harden Ubuntu systems running either 16.04 LTS or 18.04 LTS, you will need to use an older version of our tooling, the `CIS hardening tool <https://ubuntu.com/security/certifications/docs/16-18/cis>`_. Just as with the USG, the tool also has an audit function, enabling you to monitor the ongoing compliance of Ubuntu instances after hardening is complete.
 
 Please refer to our detailed `documentation on the CIS tool for Ubuntu 16.04 LTS and 18.04 LTS <https://ubuntu.com/security/certifications/docs/16-18/cis>`_. If any questions arise, contact your Account Manager or the Customer Success Team - our contact details are provided on the Ubuntu Pro welcome email sent after purchase, or navigate to <ubuntu.com> and ask for our details using the LiveChat service.
-
-
-
