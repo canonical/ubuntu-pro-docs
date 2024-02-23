@@ -9,6 +9,7 @@ CIS
 CLI
 Ceph
 crypto
+CVE
 dropdown
 Diátaxis
 DISA
@@ -23,6 +24,7 @@ Git
 GitHub
 Grafana
 https
+HWE
 IAM
 installable
 JSON
@@ -46,6 +48,7 @@ NodePort
 observability
 OEM
 OLM
+on-prem
 onwards
 OpenStack
 Permalink

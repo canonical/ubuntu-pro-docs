@@ -70,16 +70,16 @@ The `Ubuntu Livepatch service <https://ubuntu.com/security/livepatch>`_ is desig
 
 Ubuntu's Linux kernel is updated frequently to address security vulnerabilities. You can download and install these security updates in the normal way with Landscape, apt or unattended-upgrades. Installing the new Linux kernel is not enough to keep your system secure, however, as until you reboot you will still be running the vulnerable version of the Linux kernel. The Ubuntu Livepatch service bridges this gap. 
 
-Livepatches are assembled from the source code in the security update repositories; live patches are available for both General Availability (GA) and Hardware Enablement (HWE) kernels, and are provided for up to 10 years, covering the entire standard support and expanded security maintenance window.
+Live patches are assembled from the source code in the security update repositories; live patches are available for both General Availability (GA) and Hardware Enablement (HWE) kernels, and are provided for up to 10 years, covering the entire standard support and expanded security maintenance window.
 
-Ubuntu Livepatch addresses vulnerabilities in the running Linux kernel, in memory. Livepatch does not write these patches to disk, which means the package has to be updated separately for the security patch to survive a reboot. The expectation is that you will use the normal update tools to install all available updates to the Linux kernel, including lower severity vulnerabilities or vulnerabilities that cannot be Livepatched. This means that when you do eventually reboot into that newer kernel, there are no vulnerabilities that need Livepatching. To check whether a Livepatch has been applied to a specific CVE, run:
+Ubuntu Livepatch addresses vulnerabilities in the running Linux kernel, in memory. Livepatch does not write these patches to disk, which means the package has to be updated separately for the security patch to survive a reboot. The expectation is that you will use the normal update tools to install all available updates to the Linux kernel, including lower severity vulnerabilities or vulnerabilities that cannot be live patched. This means that when you do eventually reboot into that newer kernel, there are no vulnerabilities that need Livepatching. To check whether a Livepatch has been applied to a specific CVE, run:
 
 .. code-block:: bash
 
    $ canonical-livepatch status --verbose
 
 
-If you need to run Livepatch in an environment with limited or no connectivity, or if you need to control when and where new Livepatch updates are applied, we recommend hosting Livepatch on prem.
+If you need to run Livepatch in an environment with limited or no connectivity, or if you need to control when and where new Livepatch updates are applied, we recommend hosting Livepatch on-prem.
 
 Further documentation for both versions of Livepatch can be found here: `https://ubuntu.com/security/livepatch/docs <https://ubuntu.com/security/livepatch/docs>`_
 
@@ -95,9 +95,9 @@ Canonical has FIPS 140-2 modules for Ubuntu 16.04 LTS, 18.04 LTS and 20.04 LTS. 
 
 To enable FIPS and install the validated packages run:
 
-<pro enable fips-updates> to enable the validated packages, but also receive regular security updates. This is the FIPS stream that we recommend to most customers.
+``pro enable fips-updates`` to enable the validated packages, but also receive regular security updates. This is the FIPS stream that we recommend to most customers.
 
-<pro enable fips> to install the FIPS validated packages. These will not be updated until the next recertification. Only rarely should a customer choose this option because you cannot receive security updates on this stream.
+``pro enable fips`` to install the FIPS validated packages. These will not be updated until the next re-certification. Only rarely should a customer choose this option because you cannot receive security updates on this stream.
 
 If you are not sure which version of FIPS is right for you, contact Customer Success using the details provided in your Welcome Email. If you cannot find the contact information for your Customer Success, check the Ubuntu Pro Welcome Email sent shortly after purchase, or navigate to any web-page under ubuntu.com and ask for help via the LiveChat service.
 
@@ -106,7 +106,7 @@ Finally, `see our FIPS documentation <https://ubuntu.com/security/certifications
 
 **USG for hardening Ubuntu 20.04 LTS and 22.04 LTS**
 
-The Ubuntu Security Guide (USG) provides tooling for the auditing and hardening of Ubuntu systems to meet **CIS** (for Ubuntu 20.04 LTS and 22.04 LTS) and **DISA STIG benchmarks** (for Ubuntu 20.04 LTS). The USG also allows for environment-specific customisations.
+The Ubuntu Security Guide (USG) provides tooling for the auditing and hardening of Ubuntu systems to meet **CIS** (for Ubuntu 20.04 LTS and 22.04 LTS) and **DISA STIG benchmarks** (for Ubuntu 20.04 LTS). The USG also allows for environment-specific customisation.
 
 This tooling is designed to help you to harden Ubuntu systems quickly and correctly, versus manual hardening which is slow and error-prone. We recommend using the tool to create a golden image, hardened to meet your requirements, which you can then disseminate across your organisation. The tool can also audit your compliance after hardening.
 
