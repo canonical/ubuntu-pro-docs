@@ -79,7 +79,7 @@ Ubuntu Livepatch addresses vulnerabilities in the running Linux kernel, in memor
    $ canonical-livepatch status --verbose
 
 
-If you need to run Livepatch in an environment with limited or no connectivity, or if you need to control when and where new Livepatch updates are applied, we recommend hosting Livepatch on-prem.
+If you need to run Livepatch in an environment with limited or no connectivity, or if you need to control when and where new Livepatch updates are applied, we recommend hosting Livepatch on-premise.
 
 Further documentation for both versions of Livepatch can be found here: `https://ubuntu.com/security/livepatch/docs <https://ubuntu.com/security/livepatch/docs>`_
 
