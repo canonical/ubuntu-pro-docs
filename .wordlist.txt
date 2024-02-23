@@ -9,6 +9,8 @@ CIS
 CLI
 Ceph
 crypto
+CVE
+CVEs
 dropdown
 Diátaxis
 DISA
@@ -18,11 +20,13 @@ EKS
 ESM
 favicon
 FIPS
+fips
 Furo
 Git
 GitHub
 Grafana
 https
+HWE
 IAM
 installable
 JSON
@@ -32,6 +36,7 @@ Kubeflow
 Launchpad
 LiveChat
 Livepatch
+livepatch
 lifecycle
 LTS
 LXD
@@ -46,6 +51,7 @@ NodePort
 observability
 OEM
 OLM
+on-prem
 onwards
 OpenStack
 Permalink
