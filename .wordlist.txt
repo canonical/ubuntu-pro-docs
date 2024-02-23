@@ -20,6 +20,7 @@ EKS
 ESM
 favicon
 FIPS
+fips
 Furo
 Git
 GitHub
@@ -35,6 +36,7 @@ Kubeflow
 Launchpad
 LiveChat
 Livepatch
+livepatch
 lifecycle
 LTS
 LXD
