@@ -10,6 +10,7 @@ CLI
 Ceph
 crypto
 CVE
+CVEs
 dropdown
 Diátaxis
 DISA

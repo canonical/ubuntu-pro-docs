@@ -72,7 +72,7 @@ Ubuntu's Linux kernel is updated frequently to address security vulnerabilities.
 
 Live patches are assembled from the source code in the security update repositories; live patches are available for both General Availability (GA) and Hardware Enablement (HWE) kernels, and are provided for up to 10 years, covering the entire standard support and expanded security maintenance window.
 
-Ubuntu Livepatch addresses vulnerabilities in the running Linux kernel, in memory. Livepatch does not write these patches to disk, which means the package has to be updated separately for the security patch to survive a reboot. The expectation is that you will use the normal update tools to install all available updates to the Linux kernel, including lower severity vulnerabilities or vulnerabilities that cannot be live patched. This means that when you do eventually reboot into that newer kernel, there are no vulnerabilities that need Livepatching. To check whether a Livepatch has been applied to a specific CVE, run:
+Ubuntu Livepatch addresses vulnerabilities in the running Linux kernel, in memory. Livepatch does not write these patches to disk, which means the package has to be updated separately for the security patch to survive a reboot. The expectation is that you will use the normal update tools to install all available updates to the Linux kernel, including lower severity vulnerabilities or vulnerabilities that cannot be live patched. This means that when you do eventually reboot into that newer kernel, there are no vulnerabilities that need live patching. To check whether a Livepatch has been applied to a specific CVE, run:
 
 .. code-block:: bash
 
