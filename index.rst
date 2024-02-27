@@ -21,4 +21,4 @@ More information is available in the `reStructuredText style guide`_.
    Account set-up <account-setup>
    Account problems <account-problems>
    Support overview <support-overview>
-   Services overview & enablement <services-overview>
+   Services overview <services-overview>
