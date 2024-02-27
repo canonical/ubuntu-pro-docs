@@ -28,4 +28,4 @@ Overview
    Open a support case <open-case>
    Account problems <account-problems>
    Support overview <support-overview>
-   Services overview & enablement <services-overview>
+   Services overview <services-overview>
