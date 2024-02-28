@@ -154,7 +154,8 @@ custom_extensions = [
     'canonical.youtube-links',
     'canonical.related-links',
     'canonical.custom-rst-roles',
-    'canonical.terminal-output'
+    'canonical.terminal-output',
+    'sphinx.ext.intersphinx'
     ]
 
 # Add custom required Python modules that must be added to the
@@ -171,6 +172,14 @@ custom_required_modules = [
 custom_excludes = [
     'doc-cheat-sheet*',
     ]
+
+# Intersphinx mapping: Include the name and link to any project you want to
+# link to.
+intersphinx_mapping = {
+    "pro-client": (https://canonical-ubuntu-pro-client.readthedocs-hosted.com/en/latest/, None),
+}
+
+intersphinx_disabled_reftypes = ["*"]
 
 # Add CSS files (located in .sphinx/_static/)
 custom_html_css_files = []
