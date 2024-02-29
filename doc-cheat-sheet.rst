@@ -79,7 +79,7 @@ We need to add the repository to the ``custom_conf.py`` file like so:
 .. code::
 
     intersphinx_mapping = {
-        "pro-client": (https://canonical-ubuntu-pro-client.readthedocs-hosted.com/en/latest/, None),
+        "pro-client": ("https://canonical-ubuntu-pro-client.readthedocs-hosted.com/en/latest/", None),
         "repo-name": ("URL/to/docs", None),
     }
 
