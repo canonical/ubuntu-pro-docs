@@ -176,7 +176,7 @@ custom_excludes = [
 # Intersphinx mapping: Include the name and link to any project you want to
 # link to.
 intersphinx_mapping = {
-    "pro-client": (https://canonical-ubuntu-pro-client.readthedocs-hosted.com/en/latest/, None),
+    "pro-client": ("https://canonical-ubuntu-pro-client.readthedocs-hosted.com/en/latest/", None),
 }
 
 intersphinx_disabled_reftypes = ["*"]
