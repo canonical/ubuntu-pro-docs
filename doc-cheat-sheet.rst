@@ -68,6 +68,31 @@ Links
 - :doc:`index`
 - :doc:`Link text <index>`
 
+Intersphinx
+-----------
+
+With Intersphinx we can include references to docs and objects in other
+repositories. 
+
+We need to add the repository to the ``custom_conf.py`` file like so:
+
+.. code::
+
+    intersphinx_mapping = {
+        "pro-client": ("https://canonical-ubuntu-pro-client.readthedocs-hosted.com/en/latest/", None),
+        "repo-name": ("URL/to/docs", None),
+    }
+
+We can then use Intersphinx to reference the content in the following way:
+
+.. code::
+
+    - :ref:`repo-name:ref-role`
+    - :ref:`:ref: role <repo-name:ref-role>`
+    - :doc:`repo-name:path/to/object`
+    - :doc:`Intersphinx <repo-name:path/to/object>`
+
+More details about how to use it can be `found here <https://docs.readthedocs.io/en/stable/guides/intersphinx.html>`_.
 
 Navigation
 ----------
