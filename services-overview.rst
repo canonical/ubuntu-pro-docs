@@ -45,7 +45,7 @@ These commands show the source of packages on your Ubuntu system, how many packa
   $ pro security-status --esm-infra
 
 
-This table shows the current expected security maintenance dates for Ubuntu LTS releases since 14.04 LTS, including ESM periods:
+The expected security maintenance dates for Ubuntu LTS releases since 14.04 LTS, including ESM periods:
 
 +------------------------+-------------------------------+--------------------------+
 |      **Release**       |        **Patched Until**      |     **Repositories**     |
@@ -66,11 +66,7 @@ This table shows the current expected security maintenance dates for Ubuntu LTS 
 Livepatch
 ~~~~~~~~~
 
-The `Ubuntu Livepatch service <https://ubuntu.com/security/livepatch>`_ is designed to help you remain secure while avoiding unscheduled reboots. It does this by providing patches for High and Critical CVEs in the Ubuntu Kernel, which are applied while the system is running.
-
-Ubuntu's Linux kernel is updated frequently to address security vulnerabilities. You can download and install these security updates in the normal way with Landscape, apt or unattended-upgrades. Installing the new Linux kernel is not enough to keep your system secure, however, as until you reboot you will still be running the vulnerable version of the Linux kernel. The Ubuntu Livepatch service bridges this gap. 
-
-Live patches are assembled from the source code in the security update repositories; live patches are available for both General Availability (GA) and Hardware Enablement (HWE) kernels, and are provided for up to 10 years, covering the entire standard support and expanded security maintenance window.
+The `Ubuntu Livepatch service <https://ubuntu.com/security/livepatch/docs>`_ is designed to help you remain secure while avoiding unscheduled reboots. It does this by providing patches for High and Critical CVEs in the Ubuntu Kernel, which are applied while the system is running.
 
 Ubuntu Livepatch addresses vulnerabilities in the running Linux kernel, in memory. Livepatch does not write these patches to disk, which means the package has to be updated separately for the security patch to survive a reboot. The expectation is that you will use the normal update tools to install all available updates to the Linux kernel, including lower severity vulnerabilities or vulnerabilities that cannot be live patched. This means that when you do eventually reboot into that newer kernel, there are no vulnerabilities that need live patching. To check whether a Livepatch has been applied to a specific CVE, run:
 
@@ -79,9 +75,7 @@ Ubuntu Livepatch addresses vulnerabilities in the running Linux kernel, in memor
    $ canonical-livepatch status --verbose
 
 
-If you need to run Livepatch in an environment with limited or no connectivity, or if you need to control when and where new Livepatch updates are applied, we recommend hosting Livepatch on-premise.
-
-Further documentation for both versions of Livepatch can be found here: `https://ubuntu.com/security/livepatch/docs <https://ubuntu.com/security/livepatch/docs>`_
+Livepatch documentation: `https://ubuntu.com/security/livepatch/docs <https://ubuntu.com/security/livepatch/docs>`_
 
 
 Compliance features
@@ -116,4 +110,4 @@ CIS hardening tool for Ubuntu 16.04 LTS and 18.04 LTS
 
 If you need to harden Ubuntu systems running either 16.04 LTS or 18.04 LTS, you will need to use an older version of our tooling, the `CIS hardening tool <https://ubuntu.com/security/certifications/docs/16-18/cis>`_. Just as with the USG, the tool also has an audit function, enabling you to monitor the ongoing compliance of Ubuntu instances after hardening is complete.
 
-Please refer to our detailed `documentation on the CIS tool for Ubuntu 16.04 LTS and 18.04 LTS <https://ubuntu.com/security/certifications/docs/16-18/cis>`_. If any questions arise, contact your Account Manager or the Customer Success Team - our contact details are provided on the Ubuntu Pro welcome email sent after purchase, or navigate to <ubuntu.com> and ask for our details using the LiveChat service.
+
