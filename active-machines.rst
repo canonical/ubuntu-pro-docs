@@ -13,7 +13,8 @@ Consumption of the following services is registered under active machines:
 
 Machines registered to Landscape are not included.
 
-**Tip: if you detach a machine from your Ubuntu Pro token, the reduction in active machine count will take place 24 hours later.**
+..tip::
+  If you detach a machine from your Ubuntu Pro token, the reduction in active machine count will take place 24 hours later.
 
 Customers with unlimited guest support
 ---------------------------------------

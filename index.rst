@@ -33,4 +33,3 @@ Overview
    Services overview <services-overview>
    Active machine count <active-machines>
    Landscape <landscape>
-   
