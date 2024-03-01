@@ -30,5 +30,5 @@ For customers using self-hosted Landscape, your licence.txt file is available in
 
 * `Landscape documentation <https://ubuntu.com/landscape/docs>`_: our main set of documentation on Landscape SaaS and self-hosted Landscape
 * `Knowledge Base - Landscape section <https://portal.support.canonical.com/ua/s/topic/0TOD00000006dHKOAY/landscape>`_: content published by Canonical Support, typically addressing FAQs and providing workarounds for bugs
-* `Github - script repository for Landscape <https://github.com/canonical/landscape-scripts>`_: a collection of scripts to make Landscape more powerful
+* `GitHub - script repository for Landscape <https://github.com/canonical/landscape-scripts>`_: a collection of scripts to make Landscape more powerful
 
