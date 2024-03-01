@@ -6,21 +6,21 @@ Landscape is Canonical’s system management tool for Ubuntu machines.
 There are 3 versions of Landscape:
 
 +------------------------------------------+----------------+-------------------+-----------------------+
-|                 FEATURE                  | LANDSCAPE SAAS | MANAGED LANDSCAPE | SELF-HOSTED LANDSCAPE |
+|            Feature comparison            | Landscape SaaS | Managed Landscape | Self-hosted Landscape |
 +==========================================+================+===================+=======================+
-|           Managed by Canonical           |       Y        |         Y         |           N           |
+|           Managed by Canonical           |     Yes        |       Yes         |          No           |
 +------------------------------------------+----------------+-------------------+-----------------------+
-|              Canonical SLA               |       N        |         Y         |           N           |
+|              Canonical SLA               |      No        |       Yes         |          No           |
 +------------------------------------------+----------------+-------------------+-----------------------+
-|          Works without internet          |       N        |         N         |           Y           |
+|          Works without internet          |      No        |        No         |         Yes           |
 +------------------------------------------+----------------+-------------------+-----------------------+
-|          Repository management           |       N        |         Y         |           Y           |
+|          Repository management           |      No        |       Yes         |         Yes           |
 +------------------------------------------+----------------+-------------------+-----------------------+
-|        Bring your own SSO and IAM        |       N        |         Y         |           Y           |
+|        Bring your own SSO and IAM        |      No        |       Yes         |          Yes          |
 +------------------------------------------+----------------+-------------------+-----------------------+
-|               Multi-tenant               |       Y        |         N         |           N           |
+|               Multi-tenant               |     Yes        |        No         |          No           |
 +------------------------------------------+----------------+-------------------+-----------------------+
-|     Software and hardware inventory      |       Y        |         Y         |           Y           |
+|     Software and hardware inventory      |     Yes        |       Yes         |         Yes           |
 +------------------------------------------+----------------+-------------------+-----------------------+
 | Security, compliance, hardening, reports |       Y        |         Y         |           Y           |
 +------------------------------------------+----------------+-------------------+-----------------------+
