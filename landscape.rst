@@ -6,16 +6,23 @@ Landscape is Canonical’s system management tool for Ubuntu machines.
 There are 3 versions of Landscape:
 
 +------------------------------------------+----------------+-------------------+-----------------------+
-| Feature Comparison                       |Landscape SaaS  | Managed Landscape | Self-hosted Landscape |
+|            Feature comparison            | Landscape SaaS | Managed Landscape | Self-hosted Landscape |
 +==========================================+================+===================+=======================+
-| Managed by Canonical                     | Y              | Y                 | N                     |
-| Canonical SLA                            | N              | Y                 | N                     |
-| Works without Internet                   | N              | N                 | Y                     |
-| Repository Management                    | N              | Y                 | Y                     |
-| Bring your own SSO and IAM               | N              | Y                 | Y                     |
-| Multi-tenant (users in multiple orgs.)   | Y              | N                 | N                     |
-| Software & Hardware Inventory            | Y              | Y                 | Y                     |
-| Security, Hardening, Compliance, Reports | Y              | Y                 | Y                     |
+|           Managed by Canonical           |     Yes        |       Yes         |          No           |
++------------------------------------------+----------------+-------------------+-----------------------+
+|              Canonical SLA               |      No        |       Yes         |          No           |
++------------------------------------------+----------------+-------------------+-----------------------+
+|          Works without internet          |      No        |        No         |         Yes           |
++------------------------------------------+----------------+-------------------+-----------------------+
+|          Repository management           |      No        |       Yes         |         Yes           |
++------------------------------------------+----------------+-------------------+-----------------------+
+|        Bring your own SSO and IAM        |      No        |       Yes         |          Yes          |
++------------------------------------------+----------------+-------------------+-----------------------+
+|               Multi-tenant               |     Yes        |        No         |          No           |
++------------------------------------------+----------------+-------------------+-----------------------+
+|     Software and hardware inventory      |     Yes        |       Yes         |         Yes           |
++------------------------------------------+----------------+-------------------+-----------------------+
+| Security, compliance, hardening, reports |       Y        |         Y         |           Y           |
 +------------------------------------------+----------------+-------------------+-----------------------+
 
 
