@@ -54,6 +54,7 @@ OLM
 on-prem
 onwards
 OpenStack
+orgs
 Permalink
 pre
 ReadMe
@@ -61,14 +62,17 @@ reST
 reStructuredText
 RTD
 SaaS
+SLA
 sosreport
 sosreports
+SSO
 STIG
 subdirectories
 subtree
 subfolders
 triaged
 TSE
+txt
 Ubuntu
 ubuntu
 UI
