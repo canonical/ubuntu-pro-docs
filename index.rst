@@ -18,7 +18,7 @@ Overview
 * :doc:`Support overview <support-overview>`
 * :doc:`Services overview <services-overview>`
 * :doc:`Active machine count <active-machines>`
-* :doc:`Landscape`
+* :doc:`Landscape` <landscape>
 
 
 .. toctree::
