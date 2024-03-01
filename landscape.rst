@@ -24,7 +24,7 @@ Getting started with Landscape
 
 Before you can access your Landscape SaaS account for the first time, you need to follow the steps under :doc:`<account-setup>`.
 
-For customers using self-hosted Landscape, your licence.txt file is available in your Landscape SaaS account. You will need to re-download and apply new licence.txt files every time you purchase new Ubuntu Pro licences and after every renewal.
+For customers using self-hosted Landscape, your ``licence.txt`` file is available in your Landscape SaaS account. You will need to re-download and apply new ``licence.txt`` files every time you purchase new Ubuntu Pro licences and after every renewal.
 
 **Tip: new licence.txt files become available on their start date. For renewal customers, this is the day after your old licences expire.**
 
