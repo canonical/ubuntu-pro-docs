@@ -16,7 +16,8 @@ Overview
 --------
 
 * :doc:`Support overview <support-overview>`
-* :doc:`Services overview & enablement <services-overview>`
+* :doc:`Services overview <services-overview>`
+* :doc: `Active machine count <active-machines>`
 
 
 .. toctree::
@@ -29,3 +30,4 @@ Overview
    Account problems <account-problems>
    Support overview <support-overview>
    Services overview <services-overview>
+   Active machine count <active-machines>
