@@ -85,6 +85,7 @@ Compliance features
 
 Your Ubuntu Pro subscription includes several services and tools that address compliance and regulatory requirements: FIPS, the Ubuntu Security Guide, and the CIS hardening tool.
 
+
 FIPS
 ~~~~~~~
 
@@ -96,7 +97,7 @@ To enable FIPS and install the validated packages run:
 
 ``pro enable fips`` to install the FIPS validated packages. These will not be updated until the next re-certification. Only rarely should a customer choose this option because you cannot receive security updates on this stream.
 
-Please refer to our detailed `FIPS documentation <https://ubuntu.com/security/certifications/docs/fips>_` for a more in-depth explanation of how to enable FIPS.
+Please refer to our detailed `FIPS documentation <https://ubuntu.com/security/certifications/docs/fips>`_ for a more in-depth explanation of how to enable FIPS.
 
 
 USG for hardening Ubuntu 20.04 LTS and 22.04 LTS
