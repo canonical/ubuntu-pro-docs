@@ -97,7 +97,7 @@ To enable FIPS and install the validated packages run:
 
 ``pro enable fips`` to install the FIPS validated packages. These will not be updated until the next re-certification. Only rarely should a customer choose this option because you cannot receive security updates on this stream.
 
-Please refer to our detailed `FIPS documentation <https://ubuntu.com/security/certifications/docs/fips>`_ for a more in-depth explanation of how to enable FIPS.
+`FIPS documentation <https://ubuntu.com/security/certifications/docs/fips>`_ 
 
 
 USG for hardening Ubuntu 20.04 LTS and 22.04 LTS
@@ -111,6 +111,6 @@ This tooling is designed to help you to harden Ubuntu systems quickly and correc
 CIS hardening tool for Ubuntu 16.04 LTS and 18.04 LTS
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-If you need to harden Ubuntu systems running either 16.04 LTS or 18.04 LTS, you will need to use an older version of our tooling, the `CIS hardening tool <https://ubuntu.com/security/certifications/docs/16-18/cis>`_. Just as with the USG, the tool also has an audit function, enabling you to monitor the ongoing compliance of Ubuntu instances after hardening is complete.
+If you need to harden Ubuntu systems running either 16.04 LTS or 18.04 LTS, you will need to use an older version of our tooling, the `CIS hardening tool <https://ubuntu.com/security/certifications/docs/16-18/cis>`_. The tool also has an audit function, enabling you to monitor the ongoing compliance of Ubuntu instances after hardening is complete.
 
 
