@@ -85,6 +85,7 @@ Compliance features
 
 Your Ubuntu Pro subscription includes several services and tools that address compliance and regulatory requirements: FIPS, the Ubuntu Security Guide, and the CIS hardening tool.
 
+
 FIPS
 ~~~~~~~
 
@@ -110,6 +111,6 @@ This tooling is designed to help you to harden Ubuntu systems quickly and correc
 CIS hardening tool for Ubuntu 16.04 LTS and 18.04 LTS
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-If you need to harden Ubuntu systems running either 16.04 LTS or 18.04 LTS, you will need to use an older version of our tooling, the `CIS hardening tool <https://ubuntu.com/security/certifications/docs/16-18/cis>`_. Just as with the USG, the tool also has an audit function, enabling you to monitor the ongoing compliance of Ubuntu instances after hardening is complete.
+If you need to harden Ubuntu systems running either 16.04 LTS or 18.04 LTS, you will need to use an older version of our tooling, the `CIS hardening tool <https://ubuntu.com/security/certifications/docs/16-18/cis>`_. The tool also has an audit function, enabling you to monitor the ongoing compliance of Ubuntu instances after hardening is complete.
 
 
