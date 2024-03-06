@@ -12,7 +12,6 @@ build:
     python: "3.11"
   jobs:
     post_checkout:
-      - pip3 install gitpython
       - python3 build_requirements.py
 
 # Build documentation in the docs/ directory with Sphinx
