@@ -18,6 +18,7 @@ Overview
 * :doc:`Support overview <support-overview>`
 * :doc:`Services overview <services-overview>`
 * :doc:`Active machine count <active-machines>`
+* :doc:`For airgapped environments <airgapped-setup>`
 * :doc:`Landscape <landscape>`
 
 
@@ -33,3 +34,5 @@ Overview
    Services overview <services-overview>
    Active machine count <active-machines>
    Landscape <landscape>
+   For airgapped environments <airgapped-setup>
+   
