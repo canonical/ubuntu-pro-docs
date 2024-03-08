@@ -3,7 +3,7 @@ Ubuntu Pro for airgapped environments
 
 Customers with a paid subscription to Ubuntu Pro can set up the included services in environments with limited or no connectivity.
 
-If you need to use the Pro services in an offline environment but do not have a paid subscription, you can purchase in our `online shop <ubuntu.com/pro/subscribe>`_.
+If you need to use the Pro services in an offline environment but do not have a paid subscription, you can purchase a subscription in our `online shop <https://ubuntu.com/pro/subscribe>`_.
 
 Refer to the following articles from our Knowledge Base for instructions on how to set up Ubuntu Pro in offline environments:
 
