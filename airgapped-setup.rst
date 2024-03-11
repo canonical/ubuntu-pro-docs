@@ -10,4 +10,3 @@ Paying customers with Support Portal access should refer to the following articl
  * For instructions on how to create local mirrors to make the Pro services available to offline systems, search in the Knowledge Base for “SERVICE_NAME offline”.
  
  If you need to use the Pro services in an offline environment but do not have a paid subscription, purchase one in our `online shop <ubuntu.com/pro/subscribe>`_.
-
