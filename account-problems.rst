@@ -27,7 +27,7 @@ Portal access
 The Ubuntu Pro portals are:
 
 * `Ubuntu Pro dashboard <http://ubuntu.com/pro/dashboard>`_
-* `Canonical Support Portal <http://portal.support.canonical.com>`_
+* `Canonical Support Portal <https://support-portal.canonical.com>`_
 * `Landscape SaaS <http://landscape.canonical.com/>`_
 
 Users will not have access to the Ubuntu Pro portals, unless they have been added as a new user on each one. Simply having an Ubuntu One account does not automatically give a user access.
