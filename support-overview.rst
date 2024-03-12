@@ -44,7 +44,7 @@ For support contracts only; self-service support does not qualify.
 
 Business hours are defined as 08:00 to 18:00 Monday to Friday, local to the customer HQ, unless another location has been agreed.
 
-For further information about what is covered under your support contract, refer to the `Ubuntu Pro Service Description <https://ubuntu.com/legal/ubuntu-pro-description#ubuntu-pro-description>`_.
+For further information about what is covered under your support contract, refer to the `Ubuntu Pro Service Description <https://ubuntu.com/legal/ubuntu-pro-description>`_.
 
 
 Support case lifecycle
