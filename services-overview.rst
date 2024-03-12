@@ -89,7 +89,7 @@ Your Ubuntu Pro subscription includes several services and tools that address co
 FIPS
 ~~~~~~~
 
-Canonical has FIPS 140-2 modules for Ubuntu 16.04 LTS, 18.04 LTS and 20.04 LTS. We are currently in the process of obtaining FIPS 140-3 modules for 22.04 LTS. We will announce on our `blog <https://ubuntu.com/blog>`_ and in the `Ubuntu Pro newsletter <https://portal.support.canonical.com/selfservice/s/article/Subscribe-to-or-Unsubscribe-from-the-Ubuntu-Advantage-Newsletter>`_ when the validation process for 22.04 LTS is complete - make sure to subscribe if you want to be kept updated.
+Canonical has FIPS 140-2 modules for Ubuntu 16.04 LTS, 18.04 LTS and 20.04 LTS. We are currently in the process of obtaining FIPS 140-3 modules for 22.04 LTS. We will announce on our `blog <https://ubuntu.com/blog>`_ and in the `Ubuntu Pro newsletter <https://support-portal.canonical.com/knowledge-base/Subscribe-to-or-Unsubscribe-from-the-Ubuntu-Advantage-Newsletter>`_ when the validation process for 22.04 LTS is complete - make sure to subscribe if you want to be kept updated.
 
 To enable FIPS and install the validated packages run:
 
