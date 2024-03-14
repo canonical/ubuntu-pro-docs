@@ -1,4 +1,7 @@
 import datetime
+import os
+import shutil
+
 
 # Custom configuration for the Sphinx documentation builder.
 # All configuration specific to your project should be done in this file.
@@ -155,7 +158,7 @@ custom_extensions = [
     'canonical.related-links',
     'canonical.custom-rst-roles',
     'canonical.terminal-output',
-    'sphinx.ext.intersphinx'
+    'sphinx.ext.intersphinx',
     ]
 
 # Add custom required Python modules that must be added to the
@@ -165,18 +168,14 @@ custom_extensions = [
 # pyspelling, sphinx, sphinx-autobuild, sphinx-copybutton, sphinx-design,
 # sphinx-reredirects, sphinx-tabs, sphinxcontrib-jquery, sphinxext-opengraph
 custom_required_modules = [
-    'sphinxcontrib-mermaid'
-    ]
-
-# Add files or directories that should be excluded from processing.
-custom_excludes = [
-    'doc-cheat-sheet*',
+    'sphinxcontrib-mermaid',
+    'gitpython'
     ]
 
 # Intersphinx mapping: Include the name and link to any project you want to
 # link to.
 intersphinx_mapping = {
-    "pro-client": ("https://canonical-ubuntu-pro-client.readthedocs-hosted.com/en/latest/", None),
+    "pro-client-docs": ("https://canonical-ubuntu-pro-client.readthedocs-hosted.com/en/latest/", None),
 }
 
 intersphinx_disabled_reftypes = ["*"]
@@ -201,6 +200,14 @@ disable_feedback_button = False
 # Add tags that you want to use for conditional inclusion of text
 # (https://www.sphinx-doc.org/en/master/usage/restructuredtext/directives.html#tags)
 custom_tags = []
+
+
+
+
+# Add files or directories that should be excluded from processing.
+custom_excludes = [
+    'doc-cheat-sheet*'
+    ]
 
 ############################################################
 ### Additional configuration
