@@ -7,11 +7,12 @@ API
 APIs
 balancer
 bitstream
+Ceph
 Charmhub
 cis
 CIS
 CLI
-Ceph
+config
 cron
 crypto
 CTRL

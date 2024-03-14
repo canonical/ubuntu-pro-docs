@@ -44,8 +44,8 @@ for item in tutorial_to_move:
     shutil.move (source_path, destination_path)
 
 howto_to_move = [
+    'configure_proxies.rst',
     'enable_anbox.rst',
-    'enable_cc.rst',
     'enable_cis.rst',
     'enable_esm_infra.rst',
     'enable_fips.rst',
@@ -54,6 +54,7 @@ howto_to_move = [
     'enable_realtime_kernel.rst',
     'enable-disable/',
     'get_token_and_attach.rst',
+    'how_to_attach_with_config_file.rst',
     'pro-dashboard-service-toggles.png'
     ]
 
@@ -72,7 +73,6 @@ for item in expl_to_move:
     shutil.move(source_path, destination_path)
 
 reference_to_move = [
-    'compatibility_matrix.md'
     ]
 
 for item in reference_to_move:
@@ -120,20 +120,29 @@ source_files = [
     'pro-client/basic_commands.rst',
     'pro-client/basic_commands.rst',
     'pro-client/enable_esm_infra.rst',
+    'pro-client/enable_fips.rst',
+    'pro-client/enable_livepatch.rst',
+    'pro-client/enable_realtime_kernel.rst'
     ]
     
 search_strings = [
     '<pro-status-output>',
     '<expl-pro-refresh>',
     '<how-to>',
-    '<expl-ESM>'
+    '<expl-ESM>',
+    ':doc:`services compatibility matrix <compatibility_matrix>`',
+    ':doc:`services compatibility matrix <compatibility_matrix>`',
+    ':doc:`services compatibility matrix <compatibility_matrix>`',
     ]
 
 replace_strings = [
     '<pro-client-docs:pro-status-output>',
     '<pro-client-docs:expl-pro-refresh>',
     '<pro-client-docs:how-to>',
-    '<pro-client-docs:expl-ESM>'
+    '<pro-client-docs:expl-ESM>',
+    '`services compatibility matrix. <https://canonical-ubuntu-pro-client.readthedocs-hosted.com/en/latest/references/compatibility_matrix/>`_',
+    '`services compatibility matrix. <https://canonical-ubuntu-pro-client.readthedocs-hosted.com/en/latest/references/compatibility_matrix/>`_',
+    '`services compatibility matrix. <https://canonical-ubuntu-pro-client.readthedocs-hosted.com/en/latest/references/compatibility_matrix/>`_',
     ]
 
 for source_file, search_item, replace_item in zip(source_files, search_strings, replace_strings):

@@ -39,14 +39,8 @@ Managing services with Pro Client
 ---------------------------------
 
 * :ref:`Getting started <tutorial-commands>`
-* :ref:`manage-anbox`
-* :ref:`manage-cc`
-* :ref:`manage-cis`
-* :ref:`manage-esm`
-* :ref:`manage-fips`
-* :ref:`manage-landscape`
-* :ref:`manage-livepatch`
-* :ref:`manage-realtime`
+* :ref:`Get your token and attach <get_token_and_attach>`
+* :ref:`Disable and remove services<disable_and_purge>`
 
 .. toctree::
    :hidden:
@@ -54,8 +48,9 @@ Managing services with Pro Client
 
    Getting started with the Pro Client <pro-client/basic_commands.rst>
    Get your token and attach <pro-client/get_token_and_attach.rst>
+   Attach your token with a config file <pro-client/how_to_attach_with_config_file.rst>
+   How to configure a proxy <pro-client/configure_proxies.rst>
    Enable Anbox Cloud <pro-client/enable_anbox.rst>
-   Enable CC EAL2 <pro-client/enable_cc.rst>
    Enable USG/CIS <pro-client/enable_cis.rst>
    Enable ESM-apps and ESM-infra <pro-client/enable_esm_infra.rst>
    Enable FIPS <pro-client/enable_fips.rst>
@@ -63,4 +58,4 @@ Managing services with Pro Client
    Enable Livepatch <pro-client/enable_livepatch.rst>
    Enable real-time kernel <pro-client/enable_realtime_kernel.rst>
    Disable and purge <pro-client/purging_services.rst>
-   Services compatibility matrix <pro-client/compatibility_matrix.md>
+
