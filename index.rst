@@ -63,4 +63,4 @@ Managing services with Pro Client
    Enable Livepatch <pro-client/enable_livepatch.rst>
    Enable real-time kernel <pro-client/enable_realtime_kernel.rst>
    Disable and purge <pro-client/purging_services.rst>
-   Services compatibility matrix <pro-client/compatibility_matrix.md>
+
