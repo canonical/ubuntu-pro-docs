@@ -47,6 +47,8 @@ These commands show the source of packages on your Ubuntu system, how many packa
   $ pro security-status --esm-infra
 
 
+For further information on accessing ESM, refer to `how to enable ESM infra and apps using the Ubuntu Pro client <https://canonical-ubuntu-pro--20.com.readthedocs.build/en/20/pro-client/enable_esm_infra/>`_.
+
 The expected security maintenance dates for Ubuntu LTS releases since 14.04 LTS, including ESM periods:
 
 +------------------------+-------------------------------+--------------------------+
@@ -70,14 +72,17 @@ Livepatch
 
 The `Ubuntu Livepatch service <https://ubuntu.com/security/livepatch/docs>`_ is designed to help you remain secure while avoiding unscheduled reboots. It does this by providing patches for High and Critical CVEs in the Ubuntu Kernel, which are applied while the system is running.
 
-Ubuntu Livepatch addresses vulnerabilities in the running Linux kernel, in memory. Livepatch does not write these patches to disk, which means the package has to be updated separately for the security patch to survive a reboot. The expectation is that you will use the normal update tools to install all available updates to the Linux kernel, including lower severity vulnerabilities or vulnerabilities that cannot be live patched. This means that when you do eventually reboot into that newer kernel, there are no vulnerabilities that need live patching. To check whether a Livepatch has been applied to a specific CVE, run:
+Ubuntu Livepatch addresses vulnerabilities in the running Linux kernel, in memory. When using Livepatch, you should also use the normal update tools to install all available standard updates to the Linux kernel, including lower severity vulnerabilities or vulnerabilities that cannot be live patched. This means that when you do eventually reboot into a newer kernel, there are no vulnerabilities.
+
+To check whether a Livepatch has been applied to a specific CVE, run:
 
 .. code-block:: bash
 
    $ canonical-livepatch status --verbose
 
 
-Livepatch documentation: `https://ubuntu.com/security/livepatch/docs <https://ubuntu.com/security/livepatch/docs>`_
+* `Livepatch documentation <https://ubuntu.com/security/livepatch/docs>`_
+* `How to enable Livepatch using the Ubuntu Pro client <https://canonical-ubuntu-pro-client.readthedocs-hosted.com/en/latest/howtoguides/enable_livepatch/>`_
 
 
 Compliance features
@@ -91,13 +96,12 @@ FIPS
 
 Canonical has FIPS 140-2 modules for Ubuntu 16.04 LTS, 18.04 LTS and 20.04 LTS. We are currently in the process of obtaining FIPS 140-3 modules for 22.04 LTS. We will announce on our `blog <https://ubuntu.com/blog>`_ and in the `Ubuntu Pro newsletter <https://support-portal.canonical.com/knowledge-base/Subscribe-to-or-Unsubscribe-from-the-Ubuntu-Advantage-Newsletter>`_ when the validation process for 22.04 LTS is complete - make sure to subscribe if you want to be kept updated.
 
-To enable FIPS and install the validated packages run:
+**Security patching with FIPS**
 
-``pro enable fips-updates`` to enable the validated packages, but also receive regular security updates. This is the FIPS stream that we recommend to most customers.
+Each FIPS 140 certificate for a package can take several months to complete and is valid for 5 years. However, as vulnerabilities happen security-critical fixes may need to be included faster than a certification cycle. For that, we provide two ways to consume validated packages: a stream called fips, where the exact packages validated by NIST are present; and another stream called fips-updates where the validated packages are present, but are updated with security fixes. The fips-updates stream also allows access to the packages during the validation phase, enabling early application development and testing. Both streams are revalidated periodically during Ubuntu standard support phase.
 
-``pro enable fips`` to install the FIPS validated packages. These will not be updated until the next re-certification. Only rarely should a customer choose this option because you cannot receive security updates on this stream.
-
-`FIPS documentation <https://ubuntu.com/security/certifications/docs/fips>`_ 
+* `FIPS documentation <https://ubuntu.com/security/certifications/docs/fips>`_ 
+* `How to enable FIPS using the Ubuntu Pro client <https://canonical-ubuntu-pro-client.readthedocs-hosted.com/en/latest/howtoguides/enable_fips/>`_
 
 
 USG for hardening Ubuntu 20.04 LTS and 22.04 LTS
@@ -105,12 +109,16 @@ USG for hardening Ubuntu 20.04 LTS and 22.04 LTS
 
 The `Ubuntu Security Guide (USG) <https://ubuntu.com/security/certifications/docs/usg>`_ provides tooling for the auditing and hardening of Ubuntu systems to meet **CIS** (for Ubuntu 20.04 LTS and 22.04 LTS) and **DISA STIG benchmarks** (for Ubuntu 20.04 LTS). The USG also allows for environment-specific customisation.
 
-This tooling is designed to help you to harden Ubuntu systems quickly and correctly, versus manual hardening which is slow and error-prone. We recommend using the tool to create a golden image, hardened to meet your requirements, which you can then disseminate across your organisation. The tool can also audit your compliance after hardening.
+This tooling is designed to help you to harden Ubuntu systems quickly and correctly. We recommend using the tool to create a hardened golden image, which you can then disseminate across your organisation. The tool can also audit your compliance after hardening.
+
+`How to enable the USG using the Ubuntu Pro client <https://canonical-ubuntu-pro-client.readthedocs-hosted.com/en/latest/howtoguides/enable_cis/<`_
 
 
 CIS hardening tool for Ubuntu 16.04 LTS and 18.04 LTS
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 If you need to harden Ubuntu systems running either 16.04 LTS or 18.04 LTS, you will need to use an older version of our tooling, the `CIS hardening tool <https://ubuntu.com/security/certifications/docs/16-18/cis>`_. The tool also has an audit function, enabling you to monitor the ongoing compliance of Ubuntu instances after hardening is complete.
+
+`How to enable the CIS hardening tool using the Ubuntu Pro client <https://canonical-ubuntu-pro-client.readthedocs-hosted.com/en/latest/howtoguides/enable_cis/>`_
 
 
