@@ -51,7 +51,6 @@ Managing services with Pro Client
    Attach your token with a config file <pro-client/how_to_attach_with_config_file.rst>
    How to configure a proxy <pro-client/configure_proxies.rst>
    Enable Anbox Cloud <pro-client/enable_anbox.rst>
-   Enable CC EAL2 <pro-client/enable_cc.rst>
    Enable USG/CIS <pro-client/enable_cis.rst>
    Enable ESM-apps and ESM-infra <pro-client/enable_esm_infra.rst>
    Enable FIPS <pro-client/enable_fips.rst>

@@ -46,7 +46,6 @@ for item in tutorial_to_move:
 howto_to_move = [
     'configure_proxies.rst',
     'enable_anbox.rst',
-    'enable_cc.rst',
     'enable_cis.rst',
     'enable_esm_infra.rst',
     'enable_fips.rst',
