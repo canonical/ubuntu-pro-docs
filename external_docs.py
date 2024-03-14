@@ -44,6 +44,7 @@ for item in tutorial_to_move:
     shutil.move (source_path, destination_path)
 
 howto_to_move = [
+    'configure_proxies.rst',
     'enable_anbox.rst',
     'enable_cc.rst',
     'enable_cis.rst',
@@ -54,6 +55,7 @@ howto_to_move = [
     'enable_realtime_kernel.rst',
     'enable-disable/',
     'get_token_and_attach.rst',
+    'how_to_attach_with_config_file.rst',
     'pro-dashboard-service-toggles.png'
     ]
 

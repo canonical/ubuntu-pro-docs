@@ -44,7 +44,7 @@ a reboot into the FIPS-certified kernel.
     
     Once you enable FIPS, enabling some Pro services will not be possible. For
     a complete view of which services are incompatible with FIPS, refer to the
-    `services compatibility matrix <https://canonical-ubuntu-pro-client.readthedocs-hosted.com/en/latest/references/compatibility_matrix/>`_
+    `services compatibility matrix. <https://canonical-ubuntu-pro-client.readthedocs-hosted.com/en/latest/references/compatibility_matrix/>`_
 
 
 How to disable FIPS

@@ -22,7 +22,7 @@ How to enable Livepatch
     Once you enable Livepatch, enabling some Pro services will not be possible
     until Livepatch is disabled again. For a complete view of which services
     are compatible with Livepatch, refer to the
-    `services compatibility matrix <https://canonical-ubuntu-pro-client.readthedocs-hosted.com/en/latest/references/compatibility_matrix/>`_.
+    `services compatibility matrix. <https://canonical-ubuntu-pro-client.readthedocs-hosted.com/en/latest/references/compatibility_matrix/>`_.
 
 If Livepatch is disabled and you want to enable it, run the following command:
 

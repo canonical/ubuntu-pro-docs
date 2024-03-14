@@ -18,7 +18,7 @@ Enable and auto-install
     Once you enable real-time kernel, enabling some Pro services will not be
     possible. For a complete view of which services are compatible with
     real-time kernel, refer to the
-    `services compatibility matrix <https://canonical-ubuntu-pro-client.readthedocs-hosted.com/en/latest/references/compatibility_matrix/>`_.
+    `services compatibility matrix. <https://canonical-ubuntu-pro-client.readthedocs-hosted.com/en/latest/references/compatibility_matrix/>`_.
 
 To ``enable`` the real-time kernel through the Ubuntu Pro Client, please run:
 
