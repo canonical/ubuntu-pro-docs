@@ -18,6 +18,7 @@ Overview
 * :doc:`Support overview <support-overview>`
 * :doc:`Services overview <services-overview>`
 * :doc:`Active machine count <active-machines>`
+* :doc:`For airgapped environments <airgapped-setup>`
 * :doc:`Landscape <landscape>`
 
 .. toctree::
@@ -32,6 +33,7 @@ Overview
    Services overview <services-overview>
    Active machine count <active-machines>
    Landscape <landscape>
+   For airgapped environments <airgapped-setup>
    
 Managing services with Pro Client
 ---------------------------------
@@ -62,4 +64,3 @@ Managing services with Pro Client
    Enable real-time kernel <pro-client/enable_realtime_kernel.rst>
    Disable and purge <pro-client/purging_services.rst>
    Services compatibility matrix <pro-client/compatibility_matrix.md>
-

@@ -2,6 +2,7 @@ actioned
 addons
 anbox
 Anbox
+airgapped
 API
 APIs
 balancer
