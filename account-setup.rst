@@ -1,3 +1,5 @@
+.. _account-setup:
+
 Ubuntu Pro: general account setup
 =================================
 

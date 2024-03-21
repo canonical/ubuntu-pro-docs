@@ -1,3 +1,5 @@
+.. _account-problems:
+
 If you have problems with your Ubuntu Pro account
 =================================================
 

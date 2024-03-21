@@ -1,3 +1,5 @@
+.. _services-overview:
+
 Ubuntu Pro: services overview
 ==============================
 

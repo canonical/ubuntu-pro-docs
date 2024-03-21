@@ -1,5 +1,7 @@
+.. _support-overview:
+
 Canonical Support: overview and process
-===================================================
+========================================
 
 Ubuntu Pro includes self-service support, that can be upgraded to comprehensive support contract.
 

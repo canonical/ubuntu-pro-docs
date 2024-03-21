@@ -1,3 +1,5 @@
+.. _airgapped:
+
 Ubuntu Pro for airgapped environments
 ======================================
 

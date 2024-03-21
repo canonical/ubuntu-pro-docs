@@ -1,3 +1,5 @@
+.. _open-case:
+
 How to open a case
 ===================
 
