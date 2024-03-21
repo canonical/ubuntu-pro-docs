@@ -47,7 +47,8 @@ These commands show the source of packages on your Ubuntu system, how many packa
   $ pro security-status --esm-infra
 
 
-For further information on accessing ESM, refer to `how to enable ESM infra and apps using the Ubuntu Pro client <https://canonical-ubuntu-pro--20.com.readthedocs.build/en/20/pro-client/enable_esm_infra/>`_.
+For further information on accessing ESM, refer to :ref:`how to enable ESM infra and apps using the Ubuntu Pro client <manage-esm>`
+
 
 The expected security maintenance dates for Ubuntu LTS releases since 14.04 LTS, including ESM periods:
 
