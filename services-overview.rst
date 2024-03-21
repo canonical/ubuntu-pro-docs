@@ -83,7 +83,8 @@ To check whether a Livepatch has been applied to a specific CVE, run:
 
 
 * `Livepatch documentation <https://ubuntu.com/security/livepatch/docs>`_
-* `How to enable Livepatch using the Ubuntu Pro client <https://canonical-ubuntu-pro-client.readthedocs-hosted.com/en/latest/howtoguides/enable_livepatch/>`_
+* :ref:`How to enable Livepatch using the Ubuntu Pro client <manage-livepatch>`
+
 
 
 Compliance features
