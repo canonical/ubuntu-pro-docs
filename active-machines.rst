@@ -1,3 +1,5 @@
+.. _active-machine-count:
+
 Active machine count
 ====================
 
