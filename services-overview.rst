@@ -114,7 +114,8 @@ The `Ubuntu Security Guide (USG) <https://ubuntu.com/security/certifications/doc
 
 This tooling is designed to help you to harden Ubuntu systems quickly and correctly. We recommend using the tool to create a hardened golden image, which you can then disseminate across your organisation. The tool can also audit your compliance after hardening.
 
-`How to enable the USG using the Ubuntu Pro client <https://canonical-ubuntu-pro-client.readthedocs-hosted.com/en/latest/howtoguides/enable_cis/<`_
+:ref:`How to enable the USG using the Ubuntu Pro client <manage-cis>`
+
 
 
 CIS hardening tool for Ubuntu 16.04 LTS and 18.04 LTS
