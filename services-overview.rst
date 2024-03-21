@@ -100,7 +100,8 @@ Canonical has FIPS 140-2 modules for Ubuntu 16.04 LTS, 18.04 LTS and 20.04 LTS. 
 
 **Security patching with FIPS**
 
-Each FIPS 140 certificate for a package can take several months to complete and is valid for 5 years. However, as vulnerabilities happen security-critical fixes may need to be included faster than a certification cycle. For that, we provide two ways to consume validated packages: a stream called fips, where the exact packages validated by NIST are present; and another stream called fips-updates where the validated packages are present, but are updated with security fixes. The fips-updates stream also allows access to the packages during the validation phase, enabling early application development and testing. Both streams are revalidated periodically during Ubuntu standard support phase.
+Each FIPS 140 certificate for a package can take several months to complete and is valid for 5 years. However, as vulnerabilities happen security-critical fixes may need to be included faster than a certification cycle. For that, we provide two ways to consume validated packages: a stream called fips, where the exact packages validated by NIST are present; and another stream called fips-updates where the validated packages are present, but are updated with security fixes. The fips-updates stream also allows access to the packages during the validation phase, enabling early application development and testing. Both streams are re-validated periodically during Ubuntu standard support phase.
+
 
 * `FIPS documentation <https://ubuntu.com/security/certifications/docs/fips>`_ 
 * :ref:`How to enable FIPS using the Ubuntu Pro client <manage-fips>`
