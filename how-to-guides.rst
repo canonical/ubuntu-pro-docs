@@ -14,7 +14,7 @@ How-to guides
    Enable ESM-apps and ESM-infra <pro-client/enable_esm_infra.rst>
    Enable FIPS <pro-client/enable_fips.rst>
    Enable Landscape <pro-client/enable_landscape.rst>
-   Enable Livepatch <pro-client/manage-livepatch.rst>
+   Enable Livepatch <pro-client/enable_livepatch.rst>
    Enable real-time kernel <pro-client/manage-realtime.rst>
    Disable and purge <pro-client/disable_and_purge.rst>
 
