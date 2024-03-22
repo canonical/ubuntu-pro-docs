@@ -33,9 +33,7 @@ If you don't know the address, ask the person who set up your organisation's Ubu
 
 Go to `Ubuntu One <http://login.ubuntu.com>`_ and select *I do not have an Ubuntu One account*.
 
-Create a new account, using the email address associated with your Ubuntu Pro subscription as the "Preferred email address".
-
-(If you get a message "An Ubuntu One account already exists with this email", please see :ref:`password-reset-problems`.)
+Create a new account, using the email address associated with your Ubuntu Pro subscription as the "Preferred email address". If you get a message "An Ubuntu One account already exists with this email", please see :ref:`password-reset-problems`.
 
 After verifying your email address, you can access the customer portals. There are three portals: 
 
@@ -55,7 +53,7 @@ Ubuntu Pro token
 
 Here you can see your subscriptions and the **Ubuntu Pro tokens** associated with them. The tokens are required to enable many Ubuntu Pro services. When a service requires your token, get it from here.
 
-For more information about the Ubuntu Pro token, see our dedicated section on :ref:`Using the Pro Client <how-to-guides>`.
+For more information about the Ubuntu Pro token, see our dedicated section on :ref:`Using the Pro Client <using-pro-client>`.
 
 Add a secondary user
 ~~~~~~~~~~~~~~~~~~~~
