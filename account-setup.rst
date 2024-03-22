@@ -5,11 +5,11 @@ Ubuntu Pro: general account setup
 
 Welcome to Ubuntu Pro, for new subscribers and users. 
 
-**Take five-minutes to work through this introduction to the basics of your Ubuntu Pro subscription.** This will ensure that when you need help, you know where to go and how to get it, quickly and efficiently.
+This page will introduce you to the basics of your Ubuntu Pro subscription. This will ensure that when you need help, you know where to go and how to get it, quickly and efficiently.
 
-..  admonition:: Are you on a metered plan purchased directly from AWS or Azure?
+.. admonition:: On an AWS or Azure metered plan?
 
-    If you're on a metered plan, this document does not apply to you. Instead see: 
+    Are you on a metered plan purchased directly from AWS or Azure? If so, this document does not apply to you. Instead see: 
     
     * `Get started with Ubuntu Pro on AWS <https://ubuntu.com/engage/aws-pro-onboarding>`_
     * `Get started with Ubuntu Pro on Azure <https://ubuntu.com/engage/azure-pro-onboarding>`_      
@@ -89,9 +89,9 @@ Landscape
 
 You will have received an email message inviting you to activate your Landscape account (Subject: "You have been invited to the Landscape account […]", from ``noreply+landscape@canonical.com``). 
 
-If you haven't already done so, accept the invitation now and follow the instructions. (If you can't find the message, check your spam filter, and then ask us.)
+If you haven't already done so, accept the invitation and follow the instructions (if you can't find the message, check your spam filter, and then ask us).
 
-You can always log in to the account at `Landscape SaaS <http://landscape.canonical.com/>`_.
+You can always log into the account at `Landscape SaaS <http://landscape.canonical.com/>`_.
 
 Once again, we recommend adding a secondary user to the portal, to ensure continuity of access: *Administrators* > *Invite an administrator*.
 
