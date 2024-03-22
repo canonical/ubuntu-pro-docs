@@ -7,6 +7,7 @@ For new customers, new users on existing accounts, and new free token users, we 
 
 .. toctree::
    :maxdepth: 1
+
    Account setup <account-setup>
    Troubleshooting common account problems <account-problems>
    Get your token and attach <pro-client/get_token_and_attach.rst>
