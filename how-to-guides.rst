@@ -8,7 +8,7 @@ How-to guides
 
    How to open a support case <open-case>
    How to attach with a config file <pro-client/how_to_attach_with_config_file.rst>
-   How to configure a proxy <pro-client/configure-proxies.rst>
+   How to configure a proxy <pro-client/configure_proxies.rst>
    Enable Anbox Cloud <pro-client/manage-anbox.rst>
    Enable Ubuntu Security Guide/CIS hardening tool <pro-client/manage-cis.rst>
    Enable ESM-apps and ESM-infra <pro-client/manage-esm.rst>
