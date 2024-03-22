@@ -3,7 +3,7 @@
 Start here
 ==========
 
-For new customers, new users on existing accounts, and new free token users, we recommend starting with the following documentation for a quick start with Ubuntu Pro:
+For new customers, new users on existing accounts, and new free token users, we recommend the following documentation for a quick start with Ubuntu Pro:
 
 General account setup
 ~~~~~~~~~~~~~~~~~~~~~
