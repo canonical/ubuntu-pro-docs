@@ -48,14 +48,14 @@ After verifying your email address, you can access the customer portals. There a
 Ubuntu Pro dashboard
 --------------------
 
-Open the `Ubuntu Pro dashboard <http://ubuntu.com/pro/dashboard>`__. This dashboard gives you an overview of your current Ubuntu Pro subscriptions. 
+Open the `Ubuntu Pro dashboard <https://ubuntu.com/pro/dashboard>`_. This dashboard gives you an overview of your current Ubuntu Pro subscriptions. 
 
 Ubuntu Pro token
 ~~~~~~~~~~~~~~~~
 
 Here you can see your subscriptions and the **Ubuntu Pro tokens** associated with them. The tokens are required to enable many Ubuntu Pro services. When a service requires your token, get it from here.
 
-For more information about the Ubuntu Pro token, see our dedicated section on :ref: `Using the Pro Client <using-pro-client>`.
+For more information about the Ubuntu Pro token, see our dedicated section on :ref:`Using the Pro Client <how-to-guides>`.
 
 Add a secondary user
 ~~~~~~~~~~~~~~~~~~~~
@@ -67,7 +67,7 @@ Check *Account users* from the main menu. If a secondary user is not already lis
 Canonical Support Portal
 ------------------------
 
-Open the `Canonical Support Portal <https://support-portal.canonical.com/>`__. The Support Portal provides access to our Knowledge Base. If you have a support contract, this is where to raise support tickets.
+Open the `Canonical Support Portal <https://support-portal.canonical.com/>`_. The Support Portal provides access to our Knowledge Base. If you have a support contract, this is where to raise support tickets.
 
 Add a secondary user
 ~~~~~~~~~~~~~~~~~~~~
@@ -91,7 +91,7 @@ You will have received an email message inviting you to activate your Landscape 
 
 If you haven't already done so, accept the invitation and follow the instructions (if you can't find the message, check your spam filter, and then ask us).
 
-You can always log into the account at `Landscape SaaS <http://landscape.canonical.com/>`_.
+You can always log into the account at `Landscape SaaS <https://landscape.canonical.com/>`_.
 
 Once again, we recommend adding a secondary user to the portal, to ensure continuity of access: *Administrators* > *Invite an administrator*.
 
