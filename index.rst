@@ -30,7 +30,7 @@ Ubuntu Pro is also available for free for personal and small-scale commercial us
        :link: popular-questions
        :link-type: doc
 
-       Check out the answers to some of our most popular questions, such as :ref:`how do I access my Ubuntu One account <account-problems>`, :ref:`how do I use my Ubuntu Pro token <get_token_and_attach>`, and :ref:`how are active machines calculated? <active-machines>`
+       Check out the answers to some of our most popular questions, such as :ref:`how do I access my Ubuntu One account <account-problems>`, :ref:`how do I use my Ubuntu Pro token <get_token_and_attach>`, and :ref:`how are active machines calculated? <active-machine-count>`
 
    .. grid-item-card:: **Explanation**
        :link: explanation
