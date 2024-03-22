@@ -42,7 +42,7 @@ Ubuntu Pro is also available for free for personal and small-scale commercial us
 Need help?
 ==========
 
-The documentation above should answer all your questions, but if you do need further help, consider checking out our `FAQ for Ubuntu Pro <https://discourse.ubuntu.com/t/ubuntu-pro-faq/34042?_gl=1*197qe8n*_gcl_au*ODE3ODQ0ODAyLjE2OTkzNTY1NjQ.&_ga=2.216973398.1364972734.1706625177-318994688.1631021313>`_.
+The documentation above should answer all your questions, but if you do need further help, consider checking out our `FAQ for Ubuntu Pro <https://discourse.ubuntu.com/t/ubuntu-pro-faq/34042>`_.
 
 
 .. toctree::
