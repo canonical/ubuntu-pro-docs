@@ -1,12 +1,11 @@
-.. _how-to-guides:
+.. _using-pro-client:
 
-How-to guides
-=============
+Using the Pro Client
+====================
 
 .. toctree::
    :maxdepth: 1
 
-   How to open a support case <open-case>
    How to attach with a config file <pro-client/how_to_attach_with_config_file.rst>
    How to configure a proxy <pro-client/configure_proxies.rst>
    Enable Anbox Cloud <pro-client/enable_anbox.rst>
