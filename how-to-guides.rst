@@ -15,6 +15,6 @@ How-to guides
    Enable FIPS <pro-client/enable_fips.rst>
    Enable Landscape <pro-client/enable_landscape.rst>
    Enable Livepatch <pro-client/enable_livepatch.rst>
-   Enable real-time kernel <pro-client/manage-realtime.rst>
+   Enable real-time kernel <pro-client/enable_realtime_kernel.rst>
    Disable and purge <pro-client/disable_and_purge.rst>
 
