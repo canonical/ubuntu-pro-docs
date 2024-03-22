@@ -206,7 +206,8 @@ custom_tags = []
 
 # Add files or directories that should be excluded from processing.
 custom_excludes = [
-    'doc-cheat-sheet*'
+    'doc-cheat-sheet*',
+    'readme.rst'
     ]
 
 ############################################################
