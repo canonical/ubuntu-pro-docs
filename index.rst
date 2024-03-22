@@ -36,7 +36,7 @@ Ubuntu Pro is also available for free for personal and small-scale commercial us
        :link: explanation
        :link-type: doc
 
-       Understanding the :ref:`Canonical Support coverage and process <open-case>`, :ref:`what each Pro service provides <services-overview>`, :ref:`airgapped setup <airgapped-setup>` and more. 
+       Understanding the :ref:`Canonical Support coverage and process <open-case>`, :ref:`what each Pro service provides <services-overview>`, :ref:`airgapped setup <airgapped>` and more. 
 
 
 Need help?
