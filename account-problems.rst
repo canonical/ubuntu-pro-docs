@@ -8,7 +8,7 @@ If you have problems with your Ubuntu Pro account
 Password reset
 --------------
 
-The first thing to check is that you have created an Ubuntu One account (note that we do not do this for you). If you have not create an account yet, carefully follow the instructions at :ref:`create-ubuntu-one-account`, then return here.
+The first thing to check is that you have created an Ubuntu One account (note that we do not do this for you). If you have not created an account yet, carefully follow the instructions at :ref:`create-ubuntu-one-account`, then return here.
 
 If that hasn't solved your problem, next check that you are using the correct email address: ask the person who set up your organisation's Ubuntu Pro subscription and try again.
 
