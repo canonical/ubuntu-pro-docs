@@ -21,7 +21,7 @@ Ubuntu Pro services
    For airgapped environments <airgapped-setup>
    Landscape <landscape>
 
-Canonical Support
+Canonical support
 ~~~~~~~~~~~~~~~~~~
 
 .. toctree::
