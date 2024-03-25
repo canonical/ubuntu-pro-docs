@@ -1,16 +1,15 @@
 .. _open-case:
 
 How to open a case
-===================
+==================
 
-To help us help you, and to get the best and fastest results from Canonical Support, take a few moments to ensure that you provide us with the information we need:
+To get the best (and fastest possible) results from Canonical Support, take a few moments to ensure that you provide us with the information we need to help you:
 
 Log in to the `Support Portal <https://support-portal.canonical.com/dashboard>`_.
 
-
 Search the Canonical Knowledge Base for articles relevant to your case - your issue may already have a solution.
 
-If no solution is available in the Knowledge Base, select **New ticket** button on the homepage.
+If no solution is available in the Knowledge Base, select the **New ticket** button on the homepage.
 
 Complete the ticket form. Most fields are self-explanatory, but note:
 
@@ -29,7 +28,7 @@ If you are able to share a *sosreport* (below), this will help us respond faster
 
 
 Sosreports
--------------
+----------
 
 Canonical uses sosreports, or "state of system" reports, to diagnose and resolve problems. These comprise system logs and configuration data.
 

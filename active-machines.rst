@@ -3,19 +3,20 @@
 Active machine count
 ====================
 
-The Ubuntu Pro dashboard displays an “active machine” count for each subscription to Ubuntu Pro. This is the number of online machines attached to your Pro token that have pinged Canonical servers within the last 24 hours.
+The Ubuntu Pro dashboard displays an "active machine" count for each subscription to Ubuntu Pro. This is the number of online machines attached to your Pro token that have pinged Canonical servers within the last 24 hours.
 
 Consumption of the following services is registered under active machines:
 
- * ESM infra and apps
- * Livepatch
- * USG
- * CIS
- * FIPS
+* ESM-Infra and ESM-Apps
+* Livepatch
+* USG
+* CIS
+* FIPS
 
 Machines registered to Landscape are not included.
 
 .. tip::
+
    If you detach a machine from your Ubuntu Pro token, the reduction in active machine count will take place 24 hours later.
 
 Customers with unlimited guest support
