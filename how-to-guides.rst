@@ -6,6 +6,8 @@ Using the Pro Client
 Configure the Pro client
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+Configuration instructions for the Pro client, for customers and users who need to attach with a config file or configure a proxy. Standard setup for the Pro client is explained under :ref:`Setting up the Pro services <set-up-pro>`.
+
 .. toctree::
    :maxdepth: 1
 
@@ -14,6 +16,8 @@ Configure the Pro client
 
 Enable and disable the Pro services
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Instructions on how to enable and disable specific Ubuntu Pro services.
 
 .. toctree::
    :maxdepth: 1

@@ -8,14 +8,20 @@ For new customers, new users on existing accounts, and new free token users, we 
 General account setup
 ~~~~~~~~~~~~~~~~~~~~~
 
+Instructions on accessing the Ubuntu Pro websites, including troubleshooting guidance for common issues.
+
 .. toctree::
    :maxdepth: 1
 
    Account setup <account-setup>
    Troubleshooting common account problems <account-problems>
    
+.. _set-up-pro:
+
 Setting up the Ubuntu Pro services
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+How-to guides on setting up the Ubuntu Pro client and attaching it to your token.
 
 .. toctree::
    :maxdepth: 1
@@ -25,6 +31,8 @@ Setting up the Ubuntu Pro services
 
 Accessing technical support
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+For Ubuntu Pro customers with support contracts, instructions on how to open a support case, including best practices to ensure you get the most out of Canonical support.
 
 .. toctree::
    :maxdepth: 1
