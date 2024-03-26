@@ -3,11 +3,21 @@
 Using the Pro Client
 ====================
 
+Configure the Pro client
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 .. toctree::
    :maxdepth: 1
 
    How to attach with a config file <pro-client/how_to_attach_with_config_file.rst>
    How to configure a proxy <pro-client/configure_proxies.rst>
+
+Enable and disable the Pro services
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. toctree::
+   :maxdepth: 1
+
    Enable Anbox Cloud <pro-client/enable_anbox.rst>
    Enable Ubuntu Security Guide/CIS hardening tool <pro-client/enable_cis.rst>
    Enable ESM-apps and ESM-infra <pro-client/enable_esm_infra.rst>
