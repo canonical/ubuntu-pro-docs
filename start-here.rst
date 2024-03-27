@@ -32,7 +32,7 @@ Find out how to set up the Ubuntu Pro Client and attach it to your token, then e
 Accessing technical support
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-For Ubuntu Pro customers with support contracts, instructions on how to open a support case, including best practices to ensure you get the most out of Canonical support.
+For Ubuntu Pro customers with support contracts, these instructions will show you how to open a support case, including best practices to ensure you get the most out of Canonical support.
 
 .. toctree::
    :maxdepth: 1
