@@ -6,7 +6,7 @@ Using the Pro Client
 Configure the Pro client
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-Configuration instructions for the Pro client, for customers and users who need to attach with a config file or configure a proxy. Standard setup for the Pro client is explained under :ref:`Setting up the Pro services <set-up-pro>`.
+After you have installed and set up the Pro Client using the instructions in our :ref:`setting up the Pro services <set-up-pro>` section, you may want to configure the tool further.
 
 .. toctree::
    :maxdepth: 1
