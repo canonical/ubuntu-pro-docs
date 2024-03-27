@@ -6,7 +6,7 @@ Understanding Ubuntu Pro
 Ubuntu Pro services
 ~~~~~~~~~~~~~~~~~~~~
 
-For all Ubuntu Pro customers and users, an overview of the tools included in your subscription including information about active machines and offline setup.
+For all Ubuntu Pro customers and users, here you'll find details about the tools included in your Pro subscription and more information about topics such as how active machines are calculated and how Pro can be used in an offline environment.
 
 .. toctree::
    :maxdepth: 1
