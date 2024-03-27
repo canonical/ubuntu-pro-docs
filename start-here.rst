@@ -5,7 +5,7 @@ Start here
 
 For new customers, new users on existing accounts, and new free token users, we recommend the following documentation for a quick start with Ubuntu Pro:
 
-General account setup
+Initial account setup
 ~~~~~~~~~~~~~~~~~~~~~
 
 Instructions on accessing the Ubuntu Pro websites, including troubleshooting guidance for common issues.
