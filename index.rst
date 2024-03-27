@@ -47,12 +47,6 @@ The documentation above should answer most questions, but if you do need further
    :maxdepth: 2
 
    Start here <start-here.rst>
-
-.. toctree::
-   :hidden:
-   :maxdepth: 2
-
-   Popular questions <popular-questions.rst>
    
 .. toctree::
    :hidden:
@@ -64,6 +58,6 @@ The documentation above should answer most questions, but if you do need further
    :hidden:
    :maxdepth: 2
 
-   Explanation <explanation.rst>
+   Understanding Ubuntu Pro <explanation.rst>
 
 

@@ -1,7 +1,7 @@
 .. _explanations:
 
-Explanations
-=============
+Explanation
+============
 
 Ubuntu Pro websites
 ~~~~~~~~~~~~~~~~~~~~
