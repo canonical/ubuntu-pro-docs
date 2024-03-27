@@ -21,7 +21,7 @@ Instructions on accessing the Ubuntu Pro websites, including troubleshooting gui
 Setting up the Ubuntu Pro services
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-How-to guides on setting up the Ubuntu Pro client and attaching it to your token.
+Find out how to set up the Ubuntu Pro Client and attach it to your token, then explore the tool to see what the various commands can do for you. 
 
 .. toctree::
    :maxdepth: 1
