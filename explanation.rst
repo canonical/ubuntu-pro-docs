@@ -19,7 +19,7 @@ For all Ubuntu Pro customers and users, an overview of the tools included in you
 Canonical support
 ~~~~~~~~~~~~~~~~~~
 
-For customers with Ubuntu Pro plus support, an overview of what is included in your support contract.
+For customers with Ubuntu Pro plus support, you'll find information here about what is included in your support contract.
 
 .. toctree::
    :maxdepth: 1
