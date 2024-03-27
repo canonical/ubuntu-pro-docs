@@ -14,7 +14,7 @@ After you have installed and set up the Pro Client using the instructions in our
    How to attach with a config file <pro-client/how_to_attach_with_config_file.rst>
    How to configure a proxy <pro-client/configure_proxies.rst>
 
-Enable and disable the Pro services
+Enable and disable Pro services
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Instructions on how to enable and disable specific Ubuntu Pro services.
