@@ -30,7 +30,7 @@ Discover how to enable and manage Ubuntu Pro services individually using the Pro
    Enable Livepatch <pro-client/enable_livepatch.rst>
    Enable real-time kernel <pro-client/enable_realtime_kernel.rst>
 
-If you disable a service and also want to remove all the associated files, refer to our :ref:`disable and purge` guide.
+If you disable a service and also want to remove all the associated files, refer to our :ref:`disable and purge <disable_and_purge>` guide.
  
 .. toctree::
    :maxdepth: 1
