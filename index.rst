@@ -14,25 +14,32 @@ Ubuntu Pro is also available for free for personal and small-scale commercial us
 In this documentation
 =====================
 
-.. grid:: 1 1 2 2
-   :gutter: 3
+.. grid:: 2
 
-   .. grid-item:: **Start here**
+   .. grid-item-card:: :ref:`Start here <start-here>`
+       :columns: 12
 
        Get started with Ubuntu Pro: :ref:`Set up your account <account-setup>`, :ref:`get your token and attach it <get_token_and_attach>` and learn :ref:`how to use the Pro client <tutorial-commands>`
 
-   .. grid-item:: **Popular questions**
+.. grid:: 2
+   :gutter: 3
 
-       Check out the answers to our most popular questions, like :ref:`"how do I access my Ubuntu One account?" <account-problems>` and :ref:`"how are active machines calculated?" <active-machine-count>`
-
-   .. grid-item:: **Using the Pro Client**
+   .. grid-item-card:: :ref:`Using the Ubuntu Pro client <using-pro-client>`
+       :columns: 6
 
        Step-by-step guides showing you how to :ref:`manage services on the command line <tutorial-commands>` with the Pro Client
 
-   .. grid-item:: **Explanation**
+   .. grid-item-card:: :ref:`Understanding Ubuntu Pro <explanations>`
+       :columns: 6
 
-       Learn more about topics such as the :ref:`Canonical Support process <open-case>`, :ref:`what each Pro service provides <services-overview>`, and :ref:`how to use Pro in an airgapped setup <airgapped>`
+       Learn more about topics such as the :ref:`Canonical Support process <open-case>`, :ref:`what each Pro service provides <services-overview>`, and :ref:`how to use Pro in an airgapped setup <airgapped>` 
 
+**Popular questions**
+
+* :ref:`Why can't I access my Ubuntu Pro account? <account-problems>`
+* :ref:`How do I use my Ubuntu Pro token? <get_token_and_attach>`
+* :ref:`How are active machines calculated? <active-machine-count>`
+* :ref:`How do I set up Ubuntu Pro on offline machines? <airgapped>`
 
 ---------
 
