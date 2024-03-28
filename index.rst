@@ -14,20 +14,25 @@ Ubuntu Pro is also available for free for personal and small-scale commercial us
 In this documentation
 =====================
 
-:ref:`Start here <start-here>`
+.. grid:: 2
 
-Get started with Ubuntu Pro: :ref:`set up your account <account-setup>`, :ref:`get your token and attach it <get_token_and_attach>` and learn :ref:`how to use the Pro client <tutorial-commands>`
+   .. grid-item-card:: :ref:`Start here <start-here>`
+       :columns: 12
 
-.. grid:: 1 1 2 2
+       Get started with Ubuntu Pro: :ref:`Set up your account <account-setup>`, :ref:`get your token and attach it <get_token_and_attach>` and learn :ref:`how to use the Pro client <tutorial-commands>`
+
+.. grid:: 2
    :gutter: 3
 
    .. grid-item-card:: :ref:`Using the Ubuntu Pro client <using-pro-client>`
+       :columns: 6
 
-      Step-by-step guides showing you how to :ref:`manage services on the command line <tutorial-commands>` with the Pro Client.
+       Step-by-step guides showing you how to :ref:`manage services on the command line <tutorial-commands>` with the Pro Client
 
    .. grid-item-card:: :ref:`Understanding Ubuntu Pro <explanations>`
+       :columns: 6
 
-      Learn more about topics such as :ref:`what each Pro service provides <services-overview>` and the :ref:`Canonical Support process <open-case>`.  
+       Learn more about topics such as the :ref:`Canonical Support process <open-case>`, :ref:`what each Pro service provides <services-overview>`, and :ref:`how to use Pro in an airgapped setup <airgapped>` 
 
 **Popular questions**
 
