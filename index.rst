@@ -23,6 +23,7 @@ In this documentation
 
 .. grid:: 2
    :gutter: 3
+   :margin: 0
 
    .. grid-item-card:: :ref:`Using the Ubuntu Pro client <using-pro-client>`
        :columns: 6
