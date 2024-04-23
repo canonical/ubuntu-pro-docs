@@ -21,12 +21,12 @@ Instructions on accessing the Ubuntu Pro websites, including troubleshooting gui
 Setting up the Ubuntu Pro services
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Find out how to set up the Ubuntu Pro Client and attach it to your token, then explore the tool to see what the various commands can do for you. 
+Find out how to set up the Ubuntu Pro Client and attach a machine to your subscription, then explore the tool to see what the various commands can do for you. 
 
 .. toctree::
    :maxdepth: 1
 
-   Get your token and attach <pro-client/get_token_and_attach.rst>
+   Attach a machine to your subscription <pro-client/get_token_and_attach.rst>
    Get started with the Ubuntu Pro client <pro-client/basic_commands.rst>
 
 Accessing technical support
