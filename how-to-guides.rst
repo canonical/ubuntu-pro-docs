@@ -25,6 +25,7 @@ Discover how to enable and manage Ubuntu Pro services individually using the Pro
    Enable Anbox Cloud <pro-client/enable_anbox.rst>
    Enable Ubuntu Security Guide/CIS hardening tool <pro-client/enable_cis.rst>
    Enable ESM-apps and ESM-infra <pro-client/enable_esm_infra.rst>
+   Enable ESM-Infra Legacy on Trusty <pro-client/trusty_legacy_support.rst>
    Enable FIPS <pro-client/enable_fips.rst>
    Enable Landscape <pro-client/enable_landscape.rst>
    Enable Livepatch <pro-client/enable_livepatch.rst>
