@@ -7,21 +7,24 @@ from git import Repo
 ############################################################
 
 # Import Pro Client docs into temporary folder:
-# Remove previous temp folders if they're there
+# Remove previous temp folders if they're there - we don't want old content
+# hanging around
+# If you are adding a new folder for a new doc set, add the folder name as
+# per these examples
 if os.path.exists('temp'):
     shutil.rmtree('temp/')
 if os.path.exists('pro-client/'):
     shutil.rmtree('pro-client/')
 
 # Create the temp and pro-client folders if they don't already exist
+# To add a new folder, add a new line like this with your folder name
 os.makedirs('temp/', exist_ok=True)
 os.makedirs('pro-client/', exist_ok=True)
 
-# Download and link Pro Client docs files into a temp folder
+# Download and link Pro Client docs files into a temp folder:
 Repo.clone_from('https://github.com/canonical/ubuntu-pro-client/', 'temp/', single_branch=True, b='docs')
 
-
-# Move desired files to pro-client folder
+# Move all docs files to pro-client folder
 tutorial_source = 'temp/docs/tutorials/'
 tutorial_destination = 'pro-client/'
 howto_source = 'temp/docs/howtoguides/'
@@ -32,6 +35,11 @@ reference_source = 'temp/docs/references/'
 reference_destination = 'pro-client'
 other_source = 'temp/docs/'
 other_destination = ''
+
+# Now filter out the pages we want in the Handbook (and any "include" files and
+# folders so that the pages work correctly). Specify the page names, then the 
+# 'for' loops below will move those files to the pro-client folder. All other
+# files (the ones we don't want) will be deleted again.
 
 tutorial_to_move = [
     'basic_commands.rst',
@@ -55,7 +63,8 @@ howto_to_move = [
     'enable-disable/',
     'get_token_and_attach.rst',
     'how_to_attach_with_config_file.rst',
-    'pro-dashboard-service-toggles.png'
+    'pro-dashboard-service-toggles.png',
+    'trusty_legacy_support.rst',
     ]
 
 for item in howto_to_move:
@@ -91,7 +100,8 @@ for item in other_to_move:
     
 shutil.rmtree('temp/')
 
-## After files have been copied, adjust the internal links to the compatibility matrix
+# After files have been copied, adjust the internal links to make sure they
+# all work correctly
 source_dir = 'pro-client/'
 search_string = '../references/'
 replace_string = ''
