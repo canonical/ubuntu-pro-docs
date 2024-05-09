@@ -1,7 +1,7 @@
 .. _services-overview:
 
-Ubuntu Pro: services overview
-==============================
+What is included in Ubuntu Pro?
+===============================
 
 Overview
 ---------

@@ -12,7 +12,7 @@ For all Ubuntu Pro customers and users, here you'll find details about the tools
 .. toctree::
    :maxdepth: 1
 
-   Services overview <services-overview>   
+   What is included in Ubuntu Pro? <services-overview>   
    Understanding Landscape <landscape>
    Active machine count <active-machines>
 
