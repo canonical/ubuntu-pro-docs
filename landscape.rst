@@ -40,7 +40,7 @@ Before you can access your Landscape SaaS account for the first time, you need t
 Self-hosted Landscape
 ~~~~~~~~~~~~~~~~~~~~~
 
-After `setting up your Landscape server <https://ubuntu.com/landscape/install>`_, you need to choose a licensing mechasnism. There are two licensing mechanisms for self-hosted Landscape: the new, Pro client method and the old, licence.txt file method.
+After `setting up your Landscape server <https://ubuntu.com/landscape/install>`_, you need to choose a licensing mechanism. There are two licensing mechanisms for self-hosted Landscape: the new, Pro client method and the old, licence.txt file method.
 
 **Pro client method**
 
