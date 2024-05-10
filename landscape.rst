@@ -50,7 +50,7 @@ For customers running Landscape version 23.03 or newer and landscape-client vers
 
 **Licence.txt file method**
 
-For customers on an older version of Landscape or landscape-client than the versions specificed above, please download your ``licence.txt`` file from your Landscape SaaS account. You will need to re-download and apply new ``licence.txt`` files every time you purchase new Ubuntu Pro licences and after every renewal.
+For customers on an older version of Landscape or landscape-client than the versions specified above, please download your ``licence.txt`` file from your Landscape SaaS account. You will need to re-download and apply new ``licence.txt`` files every time you purchase new Ubuntu Pro licences and after every renewal.
 
 .. tip::
 
