@@ -95,6 +95,8 @@ You can always log into the account at `Landscape SaaS <landscape_saas_>`_.
 
 Once again, we recommend adding a secondary user to the portal, to ensure continuity of access: *Administrators* > *Invite an administrator*.
 
+For information on setting up self-hosted Landscape, refer to :ref:`Understanding Landscape <self-hosted-landscape>`.
+
 ------------
 
 If you are having problems accessing the portals, please see :ref:`Portal access problems <portal-access-problems>`.
