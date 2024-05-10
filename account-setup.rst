@@ -1,6 +1,6 @@
 .. _account-setup:
 
-Ubuntu Pro: general account setup
+Ubuntu Pro: initial account setup
 =================================
 
 Welcome to Ubuntu Pro, for new subscribers and users. 
@@ -85,9 +85,11 @@ If a secondary user is not already listed, add one now with the *New user* butto
 Landscape
 ---------
 
-You will have received an email message inviting you to activate your Landscape account (Subject: "You have been invited to the Landscape account […]", from ``noreply+landscape@canonical.com``). 
+If you have a paid Ubuntu Pro subscription and would like to use Landscape SaaS, contact your Account Manager or Canonical’s Customer Success team to request an invitation to join your Landscape account.
 
-If you haven't already done so, accept the invitation and follow the instructions (if you can't find the message, check your spam filter, and then ask us).
+You can find the contact details for Customer Success in the original “Welcome to Ubuntu Pro” message we sent you. If you cannot find the welcome message, go to https://ubuntu.com/ and ask for Customer Success contact details using the LiveChat service.
+
+Then accept the invitation and follow the instructions (if you can't find the message, check your spam filter, and then ask us).
 
 You can always log into the account at `Landscape SaaS <landscape_saas_>`_.
 
