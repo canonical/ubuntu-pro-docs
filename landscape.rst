@@ -40,7 +40,7 @@ Before you can access your Landscape SaaS account for the first time, you need t
 Self-hosted Landscape
 ~~~~~~~~~~~~~~~~~~~~~
 
-After `setting up your Landscape server <https://ubuntu.com/landscape/install>`_, you need to choose a licensing mechanism. There are two licensing mechanisms for self-hosted Landscape: the new, Pro client method and the old, licence.txt file method.
+After `setting up your self-hosted Landscape server <https://ubuntu.com/landscape/install>`_, you need to choose a licensing mechanism. There are two options for self-hosted Landscape: the new, Pro client method and the old, licence.txt file method.
 
 **Pro client method**
 
@@ -52,7 +52,7 @@ For customers running Landscape version 23.03 or newer and landscape-client vers
 
 **Licence.txt file method**
 
-For customers on an older version of Landscape or landscape-client than the versions specified above, please download your ``licence.txt`` file from your Landscape SaaS account. You will need to re-download and apply new ``licence.txt`` files every time you purchase new Ubuntu Pro licences and after every renewal.
+For customers on an older version of Landscape or landscape-client than those specified above, please download your ``licence.txt`` file from your Landscape SaaS account. You will need to re-download and apply new ``licence.txt`` files every time you purchase new Ubuntu Pro licences and after every renewal.
 
 .. tip::
 
