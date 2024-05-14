@@ -85,7 +85,7 @@ If a secondary user is not already listed, add one now with the *New user* butto
 Landscape
 ---------
 
-If you have a paid Ubuntu Pro subscription and would like to use Landscape SaaS, contact your Account Manager or Canonical’s Customer Success team to request an email invitation to join your Landscape account. Then accept the invitation and follow the instructions.
+If you have a paid Ubuntu Pro subscription and would like to use Landscape SaaS, contact your Account Manager or Canonical’s Customer Success team to request an email invitation to join your Landscape account. Then accept the invitation and follow the instructions. Note that this email may land in your spam folder, so if you have requested it but not seen it, check there (Subject: “You have been invited to the Landscape account […]”, from ``noreply+landscape@canonical.com``).
 
 You can find the contact details for Customer Success in the original “Welcome to Ubuntu Pro” message we sent you. If you cannot find the welcome message, go to https://ubuntu.com/ and ask for Customer Success contact details using the LiveChat service.
 
