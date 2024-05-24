@@ -101,7 +101,7 @@ After initial setup, you can log into your account at `Landscape SaaS <landscape
 With an existing account
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-We always recommend adding at least one secondary user to the portal to ensure continuity of access: Administrators > Invite an administrator.
+We always recommend adding at least one secondary user to the portal to ensure continuity of access: *Administrators* > *Invite an administrator*.
 
 If you are a user who wants to join your organisation’s existing Landscape account, you can request access from an administrator on the account. You do not need to set up your own personal Landscape account. 
 
