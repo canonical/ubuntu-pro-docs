@@ -85,15 +85,36 @@ If a secondary user is not already listed, add one now with the *New user* butto
 Landscape
 ---------
 
-If you have a paid Ubuntu Pro subscription and would like to use Landscape SaaS, contact your Account Manager or Canonical’s Customer Success team to request an email invitation to join your Landscape account. Then accept the invitation and follow the instructions. Note that this email may land in your spam folder, so if you have requested it but not seen it, check there (Subject: “You have been invited to the Landscape account […]”, from ``noreply+landscape@canonical.com``).
+If you have a paid Ubuntu Pro subscription, you are entitled to use Landscape. You can use it either :ref:`Self-hosted <self-hosted-landscape>` (for which you do not need a Landscape account) or as a service (Landscape SaaS).
 
-You can find the contact details for Customer Success in the original “Welcome to Ubuntu Pro” message we sent you. If you cannot find the welcome message, go to https://ubuntu.com/ and ask for Customer Success contact details using the LiveChat service.
+Set up Landscape SaaS account
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-After initial setup, you can always log into your account at `Landscape SaaS <landscape_saas_>`_.
+To set up Landscape SaaS, contact Canonical’s Customer Success team and we will create your Landscape account and send you an invitation email. The contact details for Customer Success are in the original “Welcome to Ubuntu Pro” message we sent you.
 
-Once again, we recommend adding a secondary user to the portal, to ensure continuity of access: *Administrators* > *Invite an administrator*.
+If you cannot find the welcome message, go to https://ubuntu.com/ and ask for Customer Success contact details using the LiveChat service.
 
-For information on setting up self-hosted Landscape, refer to :ref:`Understanding Landscape <self-hosted-landscape>`.
+Once you receive the invitation email, accept the invitation by clicking on the provided link, and follow the instructions. Note that this email may land in your spam folder. The subject will be: “You have been invited to the Landscape account […]”, sent from noreply+landscape@canonical.com.
+
+After initial setup, you can log into your account at `Landscape SaaS <landscape_saas_>`_.
+
+With an existing account
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+We always recommend adding at least one secondary user to the portal to ensure continuity of access: *Administrators* > *Invite an administrator*.
+
+If you are a user who wants to join your organisation’s existing Landscape account, you can request access from an administrator on the account. You do not need to set up your own personal Landscape account. 
+
+Once you receive the invitation email, accept the invitation by clicking on the provided link and follow the instructions. Note that this email may land in your spam folder. The subject line will be: “You have been invited to the Landscape account \[…\]”, sent from `noreply+landscape@canonical.com`.
+
+After initial setup, you can log into your account at `Landscape SaaS <landscape_saas_>`_.
+
+With an existing account
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+We always recommend adding at least one secondary user to the portal to ensure continuity of access: *Administrators* > *Invite an administrator*.
+
+If you are a user who wants to join your organisation’s existing Landscape account, you can request access from an administrator on the account. You do not need to set up your own personal Landscape account.
 
 ------------
 
