@@ -5,7 +5,7 @@ Understanding Landscape
 
 `Landscape <Landscape_>`_ is Canonical’s system management tool for Ubuntu machines. It is available in two versions, Landscape SaaS and Self-hosted Landscape, both of which are included in Ubuntu Pro.
 
-We also offer `Managed Landscape <https://ubuntu.com/landscape/managed>`_ for those who want the convenience of Landscape SaaS, but with integration into their IAM infrastructure with customised SSO, localised repository mirrors, and private repositories. `Get in touch <https://ubuntu.com/landscape/managed#get-in-touch>`_ to learn more.
+We also offer Managed Landscape for those who want the convenience of Landscape SaaS, but with integration into their IAM infrastructure with customised SSO, localised repository mirrors, and private repositories. `Click here <https://ubuntu.com/landscape/managed>`_ to learn more.
 
 +------------------------------------------+----------------+-----------------------+-----------------------+
 |            Feature comparison            | Landscape SaaS | Self-hosted Landscape |   Managed Landscape   |
