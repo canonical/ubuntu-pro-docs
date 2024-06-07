@@ -1,7 +1,7 @@
 .. _account-setup:
 
-Ubuntu Pro: initial account setup
-=================================
+Initial account setup
+=====================
 
 Welcome to Ubuntu Pro, for new subscribers and users. 
 

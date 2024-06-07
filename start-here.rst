@@ -13,7 +13,7 @@ Instructions on accessing the Ubuntu Pro websites, including troubleshooting gui
 .. toctree::
    :maxdepth: 1
 
-   Account setup <account-setup>
+   Initial account setup <account-setup>
    Troubleshooting common account problems <account-problems>
    
 .. _set-up-pro:
