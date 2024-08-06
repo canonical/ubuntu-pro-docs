@@ -61,7 +61,7 @@ howto_to_move = [
     'enable_livepatch.rst',
     'enable_realtime_kernel.rst',
     'enable-disable/',
-    'get_token_and_attach.rst',
+    'how_to_attach.rst',
     'how_to_attach_with_config_file.rst',
     'pro-dashboard-service-toggles.png',
     'trusty_legacy_support.rst',

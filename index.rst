@@ -19,7 +19,7 @@ In this documentation
    .. grid-item-card:: :ref:`Start here <start-here>`
        :columns: 12
 
-       Get started with Ubuntu Pro: :ref:`Set up your account <account-setup>`, :ref:`attach a machine to your subscription <get_token_and_attach>` and learn :ref:`how to use the Pro client <tutorial-commands>`
+       Get started with Ubuntu Pro: :ref:`Set up your account <account-setup>`, :ref:`attach a machine to your subscription <attach>` and learn :ref:`how to use the Pro client <tutorial-commands>`
 
 .. grid:: 2
    :gutter: 3
@@ -38,7 +38,7 @@ In this documentation
 **Popular questions**
 
 * :ref:`Why can't I access my Ubuntu Pro account? <account-problems>`
-* :ref:`How do I attach a machine to my subscription? <get_token_and_attach>`
+* :ref:`How do I attach a machine to my subscription? <attach>`
 * :ref:`How are active machines calculated? <active-machine-count>`
 * :ref:`How do I set up Ubuntu Pro on offline machines? <airgapped>`
 
