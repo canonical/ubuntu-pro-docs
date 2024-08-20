@@ -46,7 +46,7 @@ After `setting up your self-hosted Landscape server <https://ubuntu.com/landscap
 
 For customers running Landscape version 23.03 or newer and landscape-client version 23.02 or newer, please use the Pro client method to license your Landscape server.
 
-1. Ensure the Pro client is :ref:`installed and attached to your Pro token <get_token_and_attach>` on the system you wish to register to Landscape.
+1. Ensure the Pro client is :ref:`installed and attached to your Pro token <attach>` on the system you wish to register to Landscape.
 2. Then :ref:`enable Landscape <manage-landscape>` to initiate the registration process.
 3. Landscape will detect your Pro entitlement via the Pro token and create a licence for your machine.
 
