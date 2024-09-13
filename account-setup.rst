@@ -18,7 +18,7 @@ This page will introduce you to the basics of your Ubuntu Pro subscription. This
 Ubuntu One
 ----------
 
-The first thing we need you to do is log in to the Ubuntu Por portals.
+The first thing we need you to do is log in to the Ubuntu Pro portals.
 
 Access to the Ubuntu Pro customer portals is mediated through **Ubuntu One Single Sign On**. If you have an Ubuntu One account already, go straight to :ref:`log in to the Ubuntu Pro dashboard <dashboard-log-in>`.
 
@@ -96,7 +96,7 @@ Once again, we recommend adding a secondary user to the portal, to ensure contin
 
 ------------
 
-If you are having problems accessing the portals, please see :ref:`Portal access problems <portal-access-problems>` Or contact canonical customer success.
+If you are having problems accessing the portals, please see :ref:`Portal access problems <portal-access-problems>` Or reach out to canonical customer success team.
 
 .. LINKS
 .. include:: links.txt
