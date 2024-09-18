@@ -10,7 +10,7 @@ Ubuntu Pro includes self-service support, that can be upgraded to comprehensive 
 Knowledge Base
 ----------------
 
-As an paying Ubuntu Pro Customer, you get access to our Knowledge Base that is found in the `Canonical Support Portal <https://support-portal.canonical.com/>`_ (if you need help setting up your account, go to the :ref:`initial account setup page <account-setup>`). It contains articles on troubleshooting open source software written by our experts. 
+As a paying Ubuntu Pro Customer, you get access to our Knowledge Base that is found in the `Canonical Support Portal <https://support-portal.canonical.com/>`_ (if you need help setting up your account, go to the :ref:`initial account setup page <account-setup>`). It contains articles on troubleshooting open source software written by our experts. 
 
 When you run into an issue or have a question regarding one of the Canonical products, we recommend searching the Knowledge Base first to see if there is already an article addressing your question or concern. You can use the search bar to find the desired topic and filter results by date published, relevance and product type. For each article you will see when it was published, the number of views and which topics are addressed.
 Each article will provide you with a quick summary at the top, a problem description followed by the solution, known issues (if any) and links to related documents.
