@@ -65,7 +65,7 @@ Check *Account users* from the main menu. If a secondary user is not already lis
 Canonical Support Portal
 ------------------------
 
-Open the `Canonical Support Portal`_. The Support Portal provides access to our Knowledge Base. If you have a support contract, this is where to raise support tickets.
+Open the `Canonical Support Portal`_. The Support Portal provides access to our `Knowledge Base <_knowledge-base>`_. If you have a support contract, this is where to raise support tickets.
 
 Add a secondary user
 ~~~~~~~~~~~~~~~~~~~~
