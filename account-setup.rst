@@ -113,7 +113,7 @@ After initial setup, you can log into your account at `Landscape SaaS <landscape
 
 ------------
 
-If you are having problems accessing the portals, please see :ref:`Portal access problems <portal-access-problems>` Or reach out to canonical customer success team.
+If you are having problems accessing the portals, please see :ref:`Portal access problems <portal-access-problems>` or reach out to canonical customer success team.
 
 .. LINKS
 .. include:: links.txt
