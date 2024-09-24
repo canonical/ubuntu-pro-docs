@@ -41,6 +41,7 @@ https
 HWE
 IAM
 installable
+IOTG
 JSON
 Juju
 Kubernetes
@@ -62,6 +63,7 @@ namespace
 namespaces
 NIST
 NodePort
+noreply
 observability
 OEM
 OLM
@@ -90,6 +92,7 @@ STIG
 subdirectories
 subtree
 subfolders
+th
 triaged
 TSE
 txt
