@@ -61,7 +61,8 @@ Add a secondary user
 We recommend that all customers with commercial subscriptions have a secondary user on the Ubuntu Pro dashboard, to ensure continuity of access.
 
 Check *Account users* from the main menu. If a secondary user is not already listed, add one now.
-..  image:: /images/pro-adduser.png
+
+.. image:: images/pro-adduser.png
 
 Canonical Support Portal
 ------------------------
