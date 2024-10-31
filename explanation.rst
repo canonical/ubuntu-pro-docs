@@ -25,5 +25,5 @@ For paying customers with Ubuntu Pro, you'll find information here about what is
    :maxdepth: 1
 
    Support overview <support-overview>
-   Using Pro in an offline environments <airgapped-setup>
+   Using Pro in an offline environment <airgapped-setup>
 
