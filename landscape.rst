@@ -44,7 +44,7 @@ After `setting up your self-hosted Landscape server <https://ubuntu.com/landscap
 
 **Pro client method**
 
-For customers running Landscape version 23.03 or newer and landscape-client version 23.02 or newer, please use the Pro client method to license your Landscape server.
+For customers running Landscape version 23.03 or newer, and landscape-client version 23.02 or newer on Ubuntu 24.04 LTS instances, please use the Pro client method to license your Landscape server.
 
 1. Ensure the Pro client is :ref:`installed and attached to your Pro token <attach>` on the system you wish to register to Landscape.
 2. Then :ref:`enable Landscape <manage-landscape>` to initiate the registration process.
@@ -61,3 +61,4 @@ For customers on an older version of Landscape or landscape-client than those sp
 * `Landscape documentation <https://ubuntu.com/landscape/docs>`_: our main set of documentation on Landscape SaaS and self-hosted Landscape
 * `Knowledge Base - Landscape section <https://support-portal.canonical.com/knowledge-base?topic=Landscape&search=>`_: content published by Canonical Support, typically addressing FAQs and providing workarounds for bugs
 * `GitHub - script repository for Landscape <https://github.com/canonical/landscape-scripts>`_: a collection of scripts to make Landscape more powerful
+
