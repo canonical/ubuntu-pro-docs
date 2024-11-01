@@ -39,7 +39,7 @@ After verifying your email address, you can access the customer portals. There a
 
 * `Ubuntu Pro dashboard <Pro_dashboard_>`_
 * `Canonical Support Portal`_ 
-* `Landscape <landscape_saas_>`_ (see below for the additional set-up) 
+* `Landscape <landscape_saas_>`_ (See below for additional set-up instructions) 
 
 .. _dashboard-log-in:
 
@@ -113,7 +113,7 @@ After initial setup, you can log into your account at `Landscape SaaS <landscape
 
 ------------
 
-If you are having problems accessing the portals, please see :ref:`Portal access problems <portal-access-problems>` or reach out to canonical customer success team.
+If you are having problems accessing the portals, please see :ref:`Portal access problems <portal-access-problems>` or reach out to Canonical's Customer Success team.
 
 .. LINKS
 .. include:: links.txt
