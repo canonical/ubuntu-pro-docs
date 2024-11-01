@@ -39,7 +39,6 @@ After verifying your email address, you can access the customer portals. There a
 
 * `Ubuntu Pro dashboard <Pro_dashboard_>`_
 * `Canonical Support Portal`_ 
-* `Landscape <landscape_saas_>`_ (See below for additional set-up instructions) 
 * `Landscape <landscape_saas_>`_ (see below for additional set-up instructions) 
 
 .. _dashboard-log-in:
