@@ -18,7 +18,7 @@ This page will introduce you to the basics of your Ubuntu Pro subscription. This
 Ubuntu One
 ----------
 
-The first thing we need you to do is log in.
+The first thing we need you to do is log in to the Ubuntu Pro portals.
 
 Access to the Ubuntu Pro customer portals is mediated through **Ubuntu One Single Sign On**. If you have an Ubuntu One account already, go straight to :ref:`log in to the Ubuntu Pro dashboard <dashboard-log-in>`.
 
@@ -39,7 +39,7 @@ After verifying your email address, you can access the customer portals. There a
 
 * `Ubuntu Pro dashboard <Pro_dashboard_>`_
 * `Canonical Support Portal`_ 
-* `Landscape <landscape_saas_>`_ (additional set-up will be required) 
+* `Landscape <landscape_saas_>`_ (see below for additional set-up instructions) 
 
 .. _dashboard-log-in:
 
@@ -61,6 +61,8 @@ Add a secondary user
 We recommend that all customers with commercial subscriptions have a secondary user on the Ubuntu Pro dashboard, to ensure continuity of access.
 
 Check *Account users* from the main menu. If a secondary user is not already listed, add one now.
+
+.. image:: images/pro-adduser.png
 
 Canonical Support Portal
 ------------------------
@@ -111,7 +113,7 @@ After initial setup, you can log into your account at `Landscape SaaS <landscape
 
 ------------
 
-If you are having problems accessing the portals, please see :ref:`Portal access problems <portal-access-problems>`.
+If you are having problems accessing the portals, please see :ref:`Portal access problems <portal-access-problems>` or reach out to Canonical's Customer Success team.
 
 .. LINKS
 .. include:: links.txt
