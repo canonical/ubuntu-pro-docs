@@ -85,7 +85,7 @@ If a secondary user is not already listed, add one now with the *New user* butto
 Landscape
 ---------
 
-If you have a paid Ubuntu Pro subscription, you are entitled to use Landscape. You can use it either :ref:`Self-hosted <self-hosted-landscape>` (for which you do not need a Landscape account) or as a service (Landscape SaaS).
+If you have a paid Ubuntu Pro subscription, you are entitled to use Landscape. You can use it either :ref:`Self-hosted <self-hosted-landscape>` or as a service (Landscape SaaS).
 
 Set up Landscape SaaS account
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
