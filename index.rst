@@ -52,7 +52,7 @@ The documentation above should answer most questions, but if you do need further
 Project and community
 =====================
 
-Ubuntu Pro Client is a member of the Ubuntu family. It’s an open source project that warmly welcomes community projects, contributions, suggestions, fixes and constructive feedback.
+Ubuntu Pro is a member of the Ubuntu family. It’s an open source project that warmly welcomes community projects, contributions, suggestions, fixes and constructive feedback.
 
 * Read our `code of conduct <https://ubuntu.com/community/ethos/code-of-conduct>`_
 
