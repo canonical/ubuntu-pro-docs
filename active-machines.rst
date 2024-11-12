@@ -24,5 +24,7 @@ Customers with unlimited guest support
 
 If you have licensed an entire virtual cluster to Ubuntu Pro at the physical host level, you are eligible for unlimited guest support. The Ubuntu Pro dashboard will display your license type as physical, however you should use the Pro token associated with that subscription on your virtual machines.
 
+For example, suppose you have 5 physical non-Ubuntu hosts in a cluster, all of which are licensed and covered by Ubuntu Pro. To deploy guests on this cluster, attach the token associated with your subscription to the guests. You do not need to attach the physical non-Ubuntu hosts to Ubuntu Pro.
+
 As you attach machines, you will see your active machine count go above your license count. This is expected behaviour and will not impact your access to the Pro services.
 
