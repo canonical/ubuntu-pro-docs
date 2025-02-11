@@ -66,6 +66,7 @@ exclude_patterns = [
     'Thumbs.db',
     '.DS_Store',
     '.sphinx',
+    'node_modules',
 ]
 exclude_patterns.extend(custom_excludes)
 
@@ -120,7 +121,7 @@ if html_title == '':
 ### Additional files
 ############################################################
 
-html_static_path = ['.sphinx/_static']
+html_static_path = ['.sphinx/_static',"node_modules/@canonical/cookie-policy/build"]
 
 html_css_files = [
     'custom.css',
@@ -130,7 +131,11 @@ html_css_files = [
 ]
 html_css_files.extend(custom_html_css_files)
 
-html_js_files = ['header-nav.js']
+html_js_files = [
+    'header-nav.js',
+    'js/cookie-policy-init.js',
+    'js/bundle.js',
+]
 if 'github_issues' in html_context and html_context['github_issues'] and not disable_feedback_button:
     html_js_files.append('github_issue_links.js')
 html_js_files.extend(custom_html_js_files)

@@ -4,6 +4,7 @@
 
     When font files are updated in Vanilla, the links to font files will need to be updated here as well.
 */
+@import "@canonical/cookie-policy/build/css/cookie-policy";
 
 /* default font set */
 @font-face {
@@ -324,4 +325,10 @@ details summary {
 p code.literal {
     border: 0;
     font-size: var(--code-font-size);
+}
+
+.cookie-policy {
+    position:absolute;
+    top: 30%;
+    z-index: 50;
 }

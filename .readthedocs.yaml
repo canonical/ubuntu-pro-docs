@@ -11,6 +11,8 @@ build:
   tools:
     python: "3.11"
   jobs:
+    pre_install:
+      - npm install
     post_checkout:
       - python3 build_requirements.py
 

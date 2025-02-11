@@ -5,8 +5,9 @@
 .sphinx/.wordlist.dic
 .sphinx/.doctrees/
 .sphinx/node_modules/
-package*.json
+package-*.json
 _build
 .DS_Store
 __pycache__
 .idea/
+node_modules
