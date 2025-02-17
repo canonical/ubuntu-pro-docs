@@ -129,6 +129,7 @@ source_files = [
     'pro-client/basic_commands.rst',
     'pro-client/basic_commands.rst',
     'pro-client/basic_commands.rst',
+    'pro-client/basic_commands.rst',
     'pro-client/enable_esm_infra.rst',
     'pro-client/enable_fips.rst',
     'pro-client/enable_livepatch.rst',
@@ -136,6 +137,7 @@ source_files = [
     ]
     
 search_strings = [
+    '<commands>',
     '<pro-status-output>',
     '<expl-pro-refresh>',
     '<how-to>',
@@ -146,6 +148,7 @@ search_strings = [
     ]
 
 replace_strings = [
+    '<pro-client-docs:commands>',
     '<pro-client-docs:pro-status-output>',
     '<pro-client-docs:expl-pro-refresh>',
     '<pro-client-docs:how-to>',
