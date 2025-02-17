@@ -206,7 +206,6 @@ made, and ``cis`` will then be enabled.
     machine. If you would like more information about the command, take a look
     at our :ref:`CLI reference page <pro-client-docs:commands>`.
 
-
 enable
 ------
 
