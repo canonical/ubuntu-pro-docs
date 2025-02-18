@@ -18,7 +18,7 @@ Renew your subscription
 
 Your subscription will automatically renew on its expiry date. You can check and update your renewal settings on the *Renewal settings* menu, for example, if your organisation does not allow auto-renewal.
 
-To renew your subscription after it has expired, log in to the `Ubuntu Pro dashboard <https://ubuntu.com/pro/dashboard>`_ and click *Renew subscription*. Alternatively, head to the `online shop <https://ubuntu.com/pro/subscribe>`_ and purchase what you need.
+To renew your subscription after it has expired, log in to the `Ubuntu Pro dashboard <https://ubuntu.com/pro/dashboard>`_ and click *Renew subscription*. Alternatively, you can purchase a new subscription via the `online shop <https://ubuntu.com/pro/subscribe>`_.
 
 .. Important::
    * Make sure that your payment method is up to date. To update your credit card information, go to *Payment Methods* on the `Ubuntu Pro dashboard <https://ubuntu.com/pro/dashboard>`_.
