@@ -16,7 +16,7 @@ To increase or decrease the number of machines in your subscription, select the 
 Renew your subscription
 -----------------------
 
-Your subscription will be set to automatically renew on its expiry date. You can check and update your renewal settings on the Renewal settings menu, for example, if your organisation does not allow auto-renewal.
+Your subscription will automatically renew on its expiry date. You can check and update your renewal settings on the *Renewal settings* menu, for example, if your organisation does not allow auto-renewal.
 
 To renew your subscription after it has expired, log in to the `Ubuntu Pro dashboard <https://ubuntu.com/pro/dashboard>`_ and click *Renew subscription*. Alternatively, head to the `online shop <https://ubuntu.com/pro/subscribe>`_ and purchase what you need.
 
