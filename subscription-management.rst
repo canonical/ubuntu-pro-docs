@@ -6,7 +6,8 @@ Manage or renew your Ubuntu Pro subscription online
 If you are an online shop customer, you can manage and renew your Ubuntu Pro subscription on the `Ubuntu Pro dashboard <https://ubuntu.com/pro/dashboard>`_.
  
 .. Important::
-   * You must be either an administrator or billing user in order to make changes to your Ubuntu Pro subscription.
+   
+   You must be either an administrator or billing user in order to make changes to your Ubuntu Pro subscription.
 
 Add or remove seats
 -------------------
