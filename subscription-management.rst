@@ -7,21 +7,11 @@ If you are an online shop customer, you can manage and renew your Ubuntu Pro sub
  
 .. Important::
    * You must be either an administrator or billing user in order to make changes to your Ubuntu Pro subscription.
-   
-Manage your subscription
-------------------------
 
 Add or remove seats
-~~~~~~~~~~~~~~~~~~~
+-------------------
 
-To increase or decrease the number of seats in your subscription, select the subscription you wish to manage, then click *Edit subscription*. Update the quantity as required.
-
-Cancel your subscription
-~~~~~~~~~~~~~~~~~~~~~~~~
-
-To cancel a subscription, click *Edit subscription*, then click the hyperlink at the bottom of the module, “You can cancel this subscription online or contact us.” Note that cancelling a subscription means it will not automatically renew. Your subscription will remain active until its expiry date.
-
-.. image:: images/cancel-subscription.png
+To increase or decrease the number of machines in your subscription, select the subscription you wish to manage, then click *Edit subscription*. Update the quantity as required.
 
 Renew your subscription
 -----------------------
@@ -33,6 +23,13 @@ To renew your subscription after it has expired, log in to the `Ubuntu Pro dashb
 .. Important::
    * Make sure that your payment method is up to date. To update your credit card information, go to *Payment Methods* on the `Ubuntu Pro dashboard <https://ubuntu.com/pro/dashboard>`_.
    
+Cancel your subscription
+------------------------
+
+To cancel a subscription, click *Edit subscription*, then click the hyperlink at the bottom of the module, “You can cancel this subscription online or contact us.” Note that cancelling a subscription means it will not automatically renew. Your subscription will remain active until its expiry date.
+
+.. image:: images/cancel-subscription.png
+
 Manage your account details
 ---------------------------
 
@@ -40,7 +37,7 @@ If you need to update your billing address, VAT number or other account details,
 
 .. image:: images/update-account-details.png
 
-Update your account details under *Your information* as needed and click save.
+Update your account details under *Your information* as needed and click save. Exit the purchase flow without checking out. Your account details will now be updated.
 
 For all other customers
 -----------------------
