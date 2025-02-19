@@ -15,6 +15,7 @@ For all Ubuntu Pro customers and users, here you'll find details about the tools
    What is included in Ubuntu Pro? <services-overview>   
    Understanding Landscape <landscape>
    Active machine count <active-machines>
+   Manage or renew your Ubuntu Pro subscription online <subscription-management>
 
 Canonical support
 ~~~~~~~~~~~~~~~~~~
