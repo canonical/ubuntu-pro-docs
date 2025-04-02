@@ -80,7 +80,7 @@ html_context = {
     # Change to the discourse instance you want to be able to link to
     # using the :discourse: metadata at the top of a file
     # (use an empty value if you don't want to link)
-    'discourse': 'https://discourse.ubuntu.com',
+    'discourse': 'https://discourse.ubuntu.com/c/ubuntu-pro/116',
 
     # Change to the Mattermost channel you want to link to
     # (use an empty value if you don't want to link)
@@ -105,7 +105,18 @@ html_context = {
     # You can override the default setting on a page-by-page basis by specifying
     # it as file-wide metadata at the top of the file, see
     # https://www.sphinx-doc.org/en/master/usage/restructuredtext/field-lists.html
-    'sequential_nav': "none"
+    'sequential_nav': "none",
+
+    # Header links
+    'client_docs': 'https://canonical-ubuntu-pro-client.readthedocs-hosted.com',
+    'pro_service_esm': 'https://ubuntu.com/security/esm',
+    'pro_service_livepatch': 'https://ubuntu.com/security/livepatch',
+    'pro_service_fips': 'https://ubuntu.com/security/fips',
+    'pro_service_usg': 'https://ubuntu.com/security/certifications/docs/usg',
+    'pro_service_cc': 'https://ubuntu.com/security/cc',
+    'pro_service_anbox': 'https://anbox-cloud.io/',
+    'pro_service_ros': 'https://ubuntu.com/robotics/ros-esm',
+    'pro_service_realtime': 'https://ubuntu.com/realtime-kernel'
 }
 
 # If your project is on documentation.ubuntu.com, specify the project
