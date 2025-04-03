@@ -192,10 +192,20 @@ intersphinx_mapping = {
 intersphinx_disabled_reftypes = ["*"]
 
 # Add CSS files (located in .sphinx/_static/)
-custom_html_css_files = []
+custom_html_css_files = [
+    'css/cookie-banner.css',
+    'css/custom.css',
+    'css/furo_colors.css',
+    'css/github_issue_links.css',
+    'css/header.css',
+]
 
 # Add JavaScript files (located in .sphinx/_static/)
-custom_html_js_files = []
+custom_html_js_files = [
+    'js/bundle.js',
+    'js/github_issue_links.js',
+    'js/header-nav.js',
+]
 
 ## The following settings override the default configuration.
 
