@@ -3,7 +3,6 @@ import sys
 sys.path.append('./')
 from custom_conf import *
 from build_requirements import *
-from external_docs import *
 
 # Configuration file for the Sphinx documentation builder.
 # You should not do any modifications to this file. Put your custom
