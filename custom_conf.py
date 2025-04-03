@@ -52,7 +52,7 @@ copyright = '%s, %s' % (datetime.date.today().year, author)
 # don't know yet)
 # NOTE: If no ogp_* variable is defined (e.g. if you remove this section) the
 # sphinxext.opengraph extension will be disabled.
-ogp_site_url = 'https://canonical-ubuntu-pro-docs.readthedocs-hosted.com/'
+ogp_site_url = 'https://documentation.ubuntu.com/pro/'
 # The documentation website name (usually the same as the product name)
 ogp_site_name = project
 # The URL of an image or logo that is used in the preview
@@ -70,7 +70,7 @@ html_context = {
     # For example: "ubuntu.com/lxd" or "microcloud.is"
     # If there is no product website, edit the header template to remove the
     # link (see the readme for instructions).
-    'product_page': 'documentation.ubuntu.com',
+    'product_page': 'https://ubuntu.com/pro',
 
     # Add your product tag (the orange part of your logo, will be used in the
     # header) to ".sphinx/_static" and change the path here (start with "_static")
@@ -108,7 +108,7 @@ html_context = {
     'sequential_nav': "none",
 
     # Header links
-    'client_docs': 'https://canonical-ubuntu-pro-client.readthedocs-hosted.com',
+    'client_docs': 'https://documentation.ubuntu.com/pro-client/en/latest/',
     'pro_service_esm': 'https://ubuntu.com/security/esm',
     'pro_service_livepatch': 'https://ubuntu.com/security/livepatch',
     'pro_service_fips': 'https://ubuntu.com/security/fips',
@@ -133,7 +133,34 @@ slug = ""
 # (see https://docs.readthedocs.io/en/stable/guides/redirects.html).
 # NOTE: If this variable is not defined, set to None, or the dictionary is empty,
 # the sphinx_reredirects extension will be disabled.
-redirects = {}
+redirects = {
+    'pro-client/basic_commands': 'https://documentation.ubuntu.com/pro-client/en/latest/tutorials/basic_commands/',
+    'pro-client/configure_proxies': 'https://documentation.ubuntu.com/pro-client/en/latest/howtoguides/configure_proxies/',
+    'pro-client/enable_anbox': 'https://documentation.ubuntu.com/pro-client/en/latest/howtoguides/enable_anbox/',
+    'pro-client/enable_cis': 'https://documentation.ubuntu.com/pro-client/en/latest/howtoguides/enable_cis/',
+    'pro-client/enable_esm_infra': 'https://documentation.ubuntu.com/pro-client/en/latest/howtoguides/enable_esm_infra/',
+    'pro-client/enable_fips': 'https://documentation.ubuntu.com/pro-client/en/latest/howtoguides/enable_fips/',
+    'pro-client/enable_landscape': 'https://documentation.ubuntu.com/pro-client/en/latest/howtoguides/enable_landscape/',
+    'pro-client/enable_livepatch': 'https://documentation.ubuntu.com/pro-client/en/latest/howtoguides/enable_livepatch/',
+    'pro-client/enable_realtime_kernel': 'https://documentation.ubuntu.com/pro-client/en/latest/howtoguides/enable_realtime_kernel/',
+    'pro-client/how_to_attach': 'https://documentation.ubuntu.com/pro-client/en/latest/howtoguides/how_to_attach/',
+    'pro-client/how_to_attach_with_config_file': 'https://documentation.ubuntu.com/pro-client/en/latest/howtoguides/how_to_attach_with_config_file/',
+    'pro-client/purging_services': 'https://documentation.ubuntu.com/pro-client/en/latest/explanations/purging_services/',
+    'pro-client/trusty_legacy_support': 'https://documentation.ubuntu.com/pro-client/en/latest/howtoguides/trusty_legacy_support/',
+}
+
+# Add redirects, so they can be updated here to land with docs being moved
+# Applies only to internal docs!
+rediraffe_branch = "main"
+rediraffe_redirects = "redirects.txt"
+
+# Intersphinx mapping: Include the name and link to any project you want to
+# link to.
+intersphinx_mapping = {
+    "pro-client-docs": ("https://canonical-ubuntu-pro-client.readthedocs-hosted.com/en/latest/", None),
+}
+
+intersphinx_disabled_reftypes = ["*"]
 
 ############################################################
 ### Link checker exceptions
@@ -185,17 +212,6 @@ custom_required_modules = [
     'gitpython'
     ]
 
-# Intersphinx mapping: Include the name and link to any project you want to
-# link to.
-intersphinx_mapping = {
-    "pro-client-docs": ("https://canonical-ubuntu-pro-client.readthedocs-hosted.com/en/latest/", None),
-}
-
-intersphinx_disabled_reftypes = ["*"]
-
-# Add redirects, so they can be updated here to land with docs being moved
-rediraffe_branch = "main"
-rediraffe_redirects = "redirects.txt"
 
 
 # Add CSS files (located in .sphinx/_static/)
@@ -228,9 +244,6 @@ disable_feedback_button = False
 # Add tags that you want to use for conditional inclusion of text
 # (https://www.sphinx-doc.org/en/master/usage/restructuredtext/directives.html#tags)
 custom_tags = []
-
-
-
 
 # Add files or directories that should be excluded from processing.
 custom_excludes = [
