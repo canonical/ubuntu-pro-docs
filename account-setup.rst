@@ -53,7 +53,7 @@ Ubuntu Pro token
 
 Here you can see your subscriptions and the **Ubuntu Pro tokens** associated with them. The tokens are required to enable many Ubuntu Pro services. When a service requires your token, get it from here.
 
-For more information about the Ubuntu Pro token, see our dedicated section on :ref:`Using the Pro Client <using-pro-client>`.
+For more information about the Ubuntu Pro token, see the dedicated documentation on :ref:`Using the Pro Client <pro-client:attach_index>`.
 
 Add a secondary user
 ~~~~~~~~~~~~~~~~~~~~
