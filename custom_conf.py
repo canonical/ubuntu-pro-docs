@@ -165,6 +165,7 @@ custom_myst_extensions = []
 custom_extensions = [
     'sphinx_tabs.tabs',
     'sphinxcontrib.mermaid',
+    'sphinxext.rediraffe',
     'canonical.youtube-links',
     'canonical.related-links',
     'canonical.custom-rst-roles',
@@ -180,6 +181,7 @@ custom_extensions = [
 # sphinx-reredirects, sphinx-tabs, sphinxcontrib-jquery, sphinxext-opengraph
 custom_required_modules = [
     'sphinxcontrib-mermaid',
+    'sphinxext-rediraffe',
     'gitpython'
     ]
 
@@ -190,6 +192,11 @@ intersphinx_mapping = {
 }
 
 intersphinx_disabled_reftypes = ["*"]
+
+# Add redirects, so they can be updated here to land with docs being moved
+rediraffe_branch = "main"
+rediraffe_redirects = "redirects.txt"
+
 
 # Add CSS files (located in .sphinx/_static/)
 custom_html_css_files = [
