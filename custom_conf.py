@@ -157,7 +157,7 @@ rediraffe_redirects = "redirects.txt"
 # Intersphinx mapping: Include the name and link to any project you want to
 # link to.
 intersphinx_mapping = {
-    "pro-client-docs": ("https://canonical-ubuntu-pro-client.readthedocs-hosted.com/en/latest/", None),
+    "pro-client": ("https://documentation.ubuntu.com/pro-client/en/latest/", None),
 }
 
 intersphinx_disabled_reftypes = ["*"]
