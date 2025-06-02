@@ -3,8 +3,16 @@
 Canonical Support: overview and process
 ========================================
 
-Ubuntu Pro includes self-service support, that can be upgraded to comprehensive support contract.
+Ubuntu Pro includes self-service support, which can be upgraded to a comprehensive support contract.
 
+Knowledge Base
+-------------------
+
+All Ubuntu Pro customers, including those on self-service support contracts, have access to our Knowledge Base which is found in the `Canonical Support Portal <https://support-portal.canonical.com/>`_. It contains articles on troubleshooting open source software written by our experts. 
+
+When you run into an issue or have a question regarding a Canonical product, we recommend searching the Knowledge Base first as there may already be an article addressing your question or concern. You can use the search bar to find the desired topic and filter results by date published, relevance and product type. For each article you can see when it was published, the number of views and which topics are addressed. Each article provides you with a quick summary at the top, a problem description and the solution, known issues (if any) and links to related documents.
+
+For information on how to log into the portal check our :ref:`Initial Account Setup page <account-setup>`.
 
 Support contract options
 ------------------------
