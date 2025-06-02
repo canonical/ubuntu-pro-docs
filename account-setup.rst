@@ -92,7 +92,7 @@ If you have a paid Ubuntu Pro subscription, you are entitled to use Landscape. Y
 Set up a new Landscape SaaS account
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-To set up Landscape SaaS, navigate to `https://landscape.canonical.com/signup <https://landscape.canonical.com/signup>`_ and follow the steps indicated to create your account.
+To set up Landscape SaaS, navigate to `the Landscape sign up page <https://landscape.canonical.com/signup>`_ and follow the steps indicated to create your account.
 
 After initial setup, you can log into your account at `Landscape SaaS <landscape_saas_>`_.
 
