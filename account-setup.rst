@@ -89,14 +89,10 @@ Landscape
 
 If you have a paid Ubuntu Pro subscription, you are entitled to use Landscape. You can use it either :ref:`Self-hosted <self-hosted-landscape>` or as a service (Landscape SaaS).
 
-Set up Landscape SaaS account
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Set up a new Landscape SaaS account
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-To set up Landscape SaaS, contact Canonical’s Customer Success team and we will create your Landscape account and send you an invitation email. The contact details for Customer Success are in the original “Welcome to Ubuntu Pro” message we sent you.
-
-If you cannot find the welcome message, go to https://ubuntu.com/ and ask for Customer Success contact details using the LiveChat service.
-
-Once you receive the invitation email, accept the invitation by clicking on the provided link, and follow the instructions. Note that this email may land in your spam folder. The subject will be: “You have been invited to the Landscape account […]”, sent from noreply+landscape@canonical.com.
+To set up Landscape SaaS, navigate to `https://landscape.canonical.com/signup <https://landscape.canonical.com/signup>`_ and follow the steps indicated to create your account.
 
 After initial setup, you can log into your account at `Landscape SaaS <landscape_saas_>`_.
 
