@@ -69,7 +69,6 @@ enabled or disabled when you attach by toggling them "on" or "off" in the
 `Ubuntu Pro Dashboard <Pro_dashboard_>`_. 
 
 .. image:: images/pro-dashboard-service-toggles.png
-
    :alt: Example from the Pro Dashboard with all recommended services toggled "on"
    :align: center
 
