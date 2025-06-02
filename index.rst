@@ -19,11 +19,9 @@ In this documentation
    .. grid-item-card:: :ref:`Start here <start-here>`
        :columns: 12
 
-       Get started with Ubuntu Pro:
-       
-       * :ref:`Set up your account <account-setup>`
-       * :ref:`Troubleshoot account problems <account-problems>`
-       * :ref:`Open a Canonical Support case <open-case>`
+       Get started with Ubuntu Pro: :ref:`Set up your account <account-setup>`,
+       :ref:`attach a machine to your subscription <how_to_attach>` and learn
+       :ref:`how to use the Pro client <pro-client:tutorial-commands>`
 
 .. grid:: 2
    :gutter: 3
@@ -32,25 +30,25 @@ In this documentation
    .. grid-item-card:: :ref:`Understanding Ubuntu Pro <explanations>`
        :columns: 6
 
-       Learn more about key topics such as:
+       Learn more about topics such as the
+       :ref:`Canonical Support process <open-case>`,
+       :ref:`what each Pro service provides <services-overview>`, and
+       :ref:`how to use Pro in an airgapped setup <airgapped>`
 
-       * :ref:`How active machines are calculated <active-machine-count>`
-       * :ref:`What each Pro service provides <services-overview>`
-       * How to use Pro :ref:`airgapped or offline <airgapped>`
-
-   .. grid-item-card:: `The Ubuntu Pro Client <https://documentation.ubuntu.com/pro-client/en/latest/>`_
+   .. grid-item-card:: `Using the Ubuntu Pro Client <https://documentation.ubuntu.com/pro-client/en/latest/>`_
        :columns: 6
 
        Ubuntu Pro services can be managed on the command line using the Ubuntu Pro Client.
        
-       * `Get started with the Client <https://documentation.ubuntu.com/pro-client/en/latest/tutorials/basic_commands/>`_
-       * `Attach a machine to your subscription <https://documentation.ubuntu.com/pro-client/en/latest/howtoguides/how_to_attach/>`_
-       * `Learn how to enable services <https://documentation.ubuntu.com/pro-client/en/latest/howtoguides/enable_index/>`_ or `disable and purge them <https://documentation.ubuntu.com/pro-client/en/latest/explanations/purging_services/>`_ 
+       * Learn how to :ref:`enable services <pro-client:enable_index>` or
+         :ref:`disable and purge <pro-client:purging_services>` them
+       * Understand :ref:`how Pro secures your system <pro-client:security-tutorial>`
+       * Learn how to :ref:`handle security vulnerabilities <pro-client:fix_index>`
 
 **Popular questions**
 
 * :ref:`Why can't I access my Ubuntu Pro account? <account-problems>`
-* :ref:`How do I attach a machine to my subscription? <pro-client:attach>`
+* :ref:`How do I attach a machine to my subscription? <how_to_attach>`
 * :ref:`How are active machines calculated? <active-machine-count>`
 * :ref:`How do I set up Ubuntu Pro on offline machines? <airgapped>`
 

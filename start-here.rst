@@ -18,6 +18,17 @@ Instructions on accessing the Ubuntu Pro websites, including troubleshooting gui
    
 .. _set-up-pro:
 
+Setting up the Ubuntu Pro services
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Find out how to set up the Ubuntu Pro Client and attach a machine to your subscription, then explore the tool to see what the various commands can do for you. 
+
+.. toctree::
+   :maxdepth: 1
+
+   Attach a machine to your subscription <how_to_attach.rst>
+   Get started with the Ubuntu Pro client <pro-client:basic_commands>
+
 Accessing technical support
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
