@@ -91,4 +91,4 @@ the ``--no-auto-enable`` flag to ``attach`` in the following way:
    :ref:`attach with a configuration file <pro-client:attach-with-config>` instead.
 
 .. LINKS
-.. include:: ../links.txt
+.. include:: links.txt

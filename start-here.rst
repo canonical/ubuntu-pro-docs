@@ -27,7 +27,7 @@ Find out how to set up the Ubuntu Pro Client and attach a machine to your subscr
    :maxdepth: 1
 
    Attach a machine to your subscription <how_to_attach.rst>
-   Get started with the Ubuntu Pro client <pro-client:basic_commands>
+   Get started with the Ubuntu Pro client <pro-client:tutorial-commands>
 
 Accessing technical support
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
