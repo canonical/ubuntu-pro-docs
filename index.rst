@@ -38,12 +38,10 @@ In this documentation
    .. grid-item-card:: `Using the Ubuntu Pro Client <https://documentation.ubuntu.com/pro-client/en/latest/>`_
        :columns: 6
 
-       Ubuntu Pro services can be managed on the command line using the Ubuntu Pro Client.
-       
-       * Learn how to :ref:`enable services <pro-client:enable_index>` or
-         :ref:`disable and purge <pro-client:disable_and_purge>` them
-       * Understand :ref:`how Pro secures your system <pro-client:security-tutorial>`
-       * Learn how to :ref:`handle security vulnerabilities <pro-client:fix_index>`
+       Learn how to :ref:`enable services <pro-client:enable_index>` or
+       :ref:`disable and purge <pro-client:disable_and_purge>` services,
+       understand :ref:`how Pro secures your system <pro-client:security-tutorial>`,
+       or learn how to :ref:`handle security vulnerabilities <pro-client:fix_index>`
 
 **Popular questions**
 
