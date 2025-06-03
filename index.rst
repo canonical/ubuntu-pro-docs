@@ -19,26 +19,34 @@ In this documentation
    .. grid-item-card:: :ref:`Start here <start-here>`
        :columns: 12
 
-       Get started with Ubuntu Pro: :ref:`Set up your account <account-setup>`, :ref:`attach a machine to your subscription <attach>` and learn :ref:`how to use the Pro client <tutorial-commands>`
+       Get started with Ubuntu Pro: :ref:`Set up your account <account-setup>`,
+       :ref:`attach a machine to your subscription <how_to_attach>` and learn
+       :ref:`how to use the Pro client <pro-client:tutorial-commands>`
 
 .. grid:: 2
    :gutter: 3
    :margin: 0
 
-   .. grid-item-card:: :ref:`Using the Ubuntu Pro client <using-pro-client>`
-       :columns: 6
-
-       Step-by-step guides showing you how to :ref:`manage services on the command line <tutorial-commands>` with the Pro Client
-
    .. grid-item-card:: :ref:`Understanding Ubuntu Pro <explanations>`
        :columns: 6
 
-       Learn more about topics such as the :ref:`Canonical Support process <open-case>`, :ref:`what each Pro service provides <services-overview>`, and :ref:`how to use Pro in an airgapped setup <airgapped>` 
+       Learn more about topics such as the
+       :ref:`Canonical Support process <open-case>`,
+       :ref:`what each Pro service provides <services-overview>`, and
+       :ref:`how to use Pro in an airgapped setup <airgapped>`
+
+   .. grid-item-card:: `Using the Ubuntu Pro Client <https://documentation.ubuntu.com/pro-client/en/latest/>`_
+       :columns: 6
+
+       Learn how to :ref:`enable services <pro-client:enable_index>` or
+       :ref:`disable and purge <pro-client:disable_and_purge>` services,
+       understand :ref:`how Pro secures your system <pro-client:security-tutorial>`,
+       or learn how to :ref:`handle security vulnerabilities <pro-client:fix_index>`
 
 **Popular questions**
 
 * :ref:`Why can't I access my Ubuntu Pro account? <account-problems>`
-* :ref:`How do I attach a machine to my subscription? <attach>`
+* :ref:`How do I attach a machine to my subscription? <how_to_attach>`
 * :ref:`How are active machines calculated? <active-machine-count>`
 * :ref:`How do I set up Ubuntu Pro on offline machines? <airgapped>`
 
@@ -62,12 +70,6 @@ Ubuntu Pro is a member of the Ubuntu family. It’s an open source project that 
 
    Start here <start-here.rst>
    
-.. toctree::
-   :hidden:
-   :maxdepth: 2
-
-   Using the Pro Client <how-to-guides.rst>
-
 .. toctree::
    :hidden:
    :maxdepth: 2

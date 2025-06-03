@@ -49,7 +49,7 @@ These commands show the source of packages on your Ubuntu system, how many packa
   $ pro security-status --esm-infra
 
 
-For further information on accessing ESM, refer to :ref:`how to enable ESM infra and apps using the Ubuntu Pro client <manage-esm>`
+For further information on accessing ESM, refer to :ref:`how to enable ESM infra and apps using the Ubuntu Pro client <pro-client:manage-esm>`
 
 
 The expected security maintenance dates for Ubuntu LTS releases since 14.04 LTS, including ESM periods:
@@ -85,7 +85,7 @@ To check whether a Livepatch has been applied to a specific CVE, run:
 
 
 * `Livepatch documentation <https://ubuntu.com/security/livepatch/docs>`_
-* :ref:`How to enable Livepatch using the Ubuntu Pro client <manage-livepatch>`
+* :ref:`How to enable Livepatch using the Ubuntu Pro client <pro-client:manage-livepatch>`
 
 
 
@@ -106,7 +106,7 @@ Each FIPS 140 certificate for a package can take several months to complete and 
 
 
 * `FIPS documentation <https://ubuntu.com/security/certifications/docs/fips>`_ 
-* :ref:`How to enable FIPS using the Ubuntu Pro client <manage-fips>`
+* :ref:`How to enable FIPS using the Ubuntu Pro client <pro-client:manage-fips>`
 
 
 
@@ -117,7 +117,7 @@ The `Ubuntu Security Guide (USG) <https://ubuntu.com/security/certifications/doc
 
 This tooling is designed to help you to harden Ubuntu systems quickly and correctly. We recommend using the tool to create a hardened golden image, which you can then disseminate across your organisation. The tool can also audit your compliance after hardening.
 
-:ref:`How to enable the USG using the Ubuntu Pro client <manage-cis>`
+:ref:`How to enable the USG using the Ubuntu Pro client <pro-client:manage-cis>`
 
 
 
@@ -126,7 +126,7 @@ CIS hardening tool for Ubuntu 16.04 LTS and 18.04 LTS
 
 If you need to harden Ubuntu systems running either 16.04 LTS or 18.04 LTS, you will need to use an older version of our tooling, the `CIS hardening tool <https://ubuntu.com/security/certifications/docs/16-18/cis>`_. The tool also has an audit function, enabling you to monitor the ongoing compliance of Ubuntu instances after hardening is complete.
 
-:ref:`How to enable the CIS hardening tool using the Ubuntu Pro client <manage-cis>`
+:ref:`How to enable the CIS hardening tool using the Ubuntu Pro client <pro-client:manage-cis>`
 
 
 

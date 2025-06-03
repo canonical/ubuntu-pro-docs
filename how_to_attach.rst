@@ -1,4 +1,4 @@
-.. _attach:
+.. _how_to_attach:
 
 How to attach a machine to your Ubuntu Pro subscription
 *******************************************************
@@ -8,18 +8,17 @@ terminal:
 
 .. code-block:: bash
 
-    $ sudo pro attach
-
+   $ sudo pro attach
+    
 You should see output like this, giving you a link and a code:
 
 .. code-block:: bash
 
-    ubuntu@test:~$ sudo pro attach
-    Initiating attach operation...
-
-    Please sign in to your Ubuntu Pro account at this link:
-    https://ubuntu.com/pro/attach
-    And provide the following code: H31JIV
+   ubuntu@test:~$ sudo pro attach
+   Initiating attach operation...
+   Please sign in to your Ubuntu Pro account at this link:
+   https://ubuntu.com/pro/attach
+   And provide the following code: H31JIV
 
 Open the link without closing your terminal window. 
 
@@ -36,20 +35,20 @@ your machine to, click on the "Submit" button.
 The attach process will then continue in the terminal window, and you should
 eventually be presented with the following message:
 
-.. code-block:: bash 
+.. code-block:: bash
 
-    Attaching the machine...
-    Enabling default service esm-apps
-    Updating Ubuntu Pro: ESM Apps package lists
-    Ubuntu Pro: ESM Apps enabled
-    Enabling default service esm-infra
-    Updating Ubuntu Pro: ESM Infra package lists
-    Ubuntu Pro: ESM Infra enabled
-    Enabling default service livepatch
-    Installing snapd snap
-    Installing canonical-livepatch snap
-    Canonical Livepatch enabled
-    This machine is now attached to 'Ubuntu Pro - free personal subscription'
+   Attaching the machine...
+   Enabling default service esm-apps
+   Updating Ubuntu Pro: ESM Apps package lists
+   Ubuntu Pro: ESM Apps enabled
+   Enabling default service esm-infra
+   Updating Ubuntu Pro: ESM Infra package lists
+   Ubuntu Pro: ESM Infra enabled
+   Enabling default service livepatch
+   Installing snapd snap
+   Installing canonical-livepatch snap
+   Canonical Livepatch enabled
+   This machine is now attached to 'Ubuntu Pro - free personal subscription'
 
 When the machine has successfully been attached, you will also see a summary of
 which services are enabled and information about your subscription.
@@ -69,9 +68,9 @@ You can choose which of the available services will be automatically
 enabled or disabled when you attach by toggling them "on" or "off" in the
 `Ubuntu Pro Dashboard <Pro_dashboard_>`_. 
 
-.. image:: pro-dashboard-service-toggles.png
-    :alt: Example from the Pro Dashboard with all recommended services toggled "on"
-    :align: center
+.. image:: images/pro-dashboard-service-toggles.png
+   :alt: Example from the Pro Dashboard with all recommended services toggled "on"
+   :align: center
 
 Available services can always be enabled or disabled on the command line
 with ``pro enable`` and ``pro disable`` after attaching.
@@ -83,13 +82,12 @@ the ``--no-auto-enable`` flag to ``attach`` in the following way:
 
 .. code-block:: bash
 
-    $ sudo pro attach --no-auto-enable
+   $ sudo pro attach --no-auto-enable
 
 .. note::
-   
+
    If you want to control which services are enabled during attach, you can
-   :ref:`attach with a configuration file <attach-with-config>` instead.
+   :ref:`attach with a configuration file <pro-client:attach-with-config>` instead.
 
 .. LINKS
-
-.. include:: ../links.txt
+.. include:: links.txt
