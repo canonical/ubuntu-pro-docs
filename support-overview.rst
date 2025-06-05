@@ -29,7 +29,7 @@ Your account will include different levels of support according to the options i
 * *Infra-only*: Ubuntu main repository (~2,300 packages)
 * *Full Pro*: Ubuntu main and universe repositories (~25,000 packages)
 
-**Storage**: up to 192TB of Ceph or Swift raw storage per covered machine
+**Storage**: up to 384TB of Ceph or Swift raw storage per covered machine
 
 **Products covered**: Kubernetes, OpenStack, Ceph, MAAS, LXD
 
