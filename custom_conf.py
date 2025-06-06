@@ -114,6 +114,7 @@ html_context = {
     'pro_service_fips': 'https://ubuntu.com/security/fips',
     'pro_service_usg': 'https://ubuntu.com/security/certifications/docs/usg',
     'pro_service_cc': 'https://ubuntu.com/security/cc',
+    'pro_service_landscape': 'https://ubuntu.com/landscape',
     'pro_service_anbox': 'https://anbox-cloud.io/',
     'pro_service_ros': 'https://ubuntu.com/robotics/ros-esm',
     'pro_service_realtime': 'https://ubuntu.com/realtime-kernel'
