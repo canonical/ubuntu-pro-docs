@@ -28,7 +28,7 @@ The Ubuntu Pro portals are:
 
 Users will not have access to the Ubuntu Pro portals unless they have been added as a new user on each one. Simply having an Ubuntu One account does not automatically give a user access.
 
-If you need access to a portal, ask the person who set up your organisation's Ubuntu Pro subscription to add you to the portals required.
+If you need access to a portal, ask the person who set up your organisation's Ubuntu Pro subscription to add you to the portals required. Note that you will need to be granted access to each of the three customer portals separately because they do not have an ingtegrated user database. 
 
 .. important::
 
