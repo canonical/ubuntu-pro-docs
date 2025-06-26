@@ -2,8 +2,19 @@
 
 Start here
 ==========
+ 
+For new customers, new users on existing accounts, and new free token users, we recommend the following documentation for a quick start with Ubuntu Pro. This colelction of how-to guides help you understand how to activate your Ubuntu Pro subscription and choose which services to enable. 
 
-For new customers, new users on existing accounts, and new free token users, we recommend the following documentation for a quick start with Ubuntu Pro.
+Prepare your environment
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+Before you enable you subscriotion, make sure to prepare your environment first
+
+.. toctree::
+   :maxdepth: 1
+
+   Verify that your Pro client is up-to-date <verify-pro-client-version>
+   Identify the source repository of your installed packages <check-package-sources>
 
 Initial account setup
 ~~~~~~~~~~~~~~~~~~~~~
