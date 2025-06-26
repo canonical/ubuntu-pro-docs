@@ -39,7 +39,7 @@ From the output, you can see that there are 1919 deb packages installed on your 
 .. note::
     If you are not using any packages from the Ubuntu Universe repository, that line will not be displayed.
 
-Now let's check the packages covered with the security suppoport and see which of them have CVE fixes available:
+Now let's check the packages covered with the security support and see which of them have CVE fixes available:
 
 .. code-block:: bash
 
@@ -63,4 +63,4 @@ Now let's check the packages covered with the security suppoport and see which o
         apt-cache policy ansible
     to learn more about that package.
 
-To be able to recieve these updates, you will need to attach an Ubunti Pro subscription to your machine next. 
+To be able to receive these updates, you will need to attach an Ubunti Pro subscription to your machine next. 

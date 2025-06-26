@@ -3,7 +3,7 @@
 Verify that your Pro client is up-to-date
 =========================================
 
-Ubuntu Pro is a service that can be controlled using an Ubuntu Pro client -- a CLI tool that is preinstalled on Ubuntu distribitions.
+Ubuntu Pro is a service that can be controlled using an Ubuntu Pro client -- a CLI tool that is preinstalled on Ubuntu distriutions.
 
 Before you can attach your subscription, you must check if the client is up to date.
 
@@ -25,7 +25,7 @@ Prerequisites
     $ pro --version
     35.1ubuntu0~25.04
 
-The lateest versions of Pro is ``35``. If you do no have the latest version, update it by running:
+The latest version of Pro is ``35``. If you do no have the latest version, update it by running:
 
 .. code-block:: bash
     

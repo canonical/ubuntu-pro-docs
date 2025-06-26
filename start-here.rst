@@ -8,7 +8,7 @@ For new customers, new users on existing accounts, and new free token users, we 
 Prepare your environment
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-Before you enable you subscriotion, make sure to prepare your environment first
+Before you enable you subscription, make sure to prepare your environment first
 
 .. toctree::
    :maxdepth: 1
