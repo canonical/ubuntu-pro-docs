@@ -1,4 +1,4 @@
-.. _user-management-pro:
+.. _user-management:
 
 User management in Ubuntu Pro
 =============================
