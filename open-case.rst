@@ -38,4 +38,5 @@ Refer to the following articles for information on using sosreports:
 
 * `Installing the sosreport tool and generating a sosreport <https://support-portal.canonical.com/knowledge-base/canonical-support-data-collection-sosreport>`_
 * `Sending a sosreport to Canonical <https://support-portal.canonical.com/knowledge-base/sending-files-sts>`_
-* `Sosreports, data and security <https://support-portal.canonical.com/knowledge-base/sosreport-data-security>`_
+* `Essential commands for sosreport, including data obfuscation/report cleaning <https://support-portal.canonical.com/knowledge-base/Essential-commands-for-troubleshooting-with-sosreport>`_
+
