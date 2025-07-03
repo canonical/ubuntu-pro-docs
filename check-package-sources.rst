@@ -63,4 +63,4 @@ Now let's check the packages covered with the security support and see which of 
         apt-cache policy ansible
     to learn more about that package.
 
-To be able to receive these updates, you will need to attach an Ubunti Pro subscription to your machine next. 
+To be able to receive these updates, you will need to attach an Ubuntu Pro subscription to your machine next. 
