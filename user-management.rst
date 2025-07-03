@@ -18,7 +18,8 @@ User management is not integrated across these portals, meaning you will need to
 The Ubuntu Pro dashboard
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Add a new user**
+Add a new user
+--------------
 
 * From the dashboard, select *Account users* on the bar at the top of the page.
 * Click *Add new user*, then provide the name and email address of the new user.
@@ -28,7 +29,8 @@ The Ubuntu Pro dashboard
       * Technical contacts can access the Pro token but cannot manage users or subscriptions/invoices.
 * New users should follow the instructions `under Initial account setup <https://documentation.ubuntu.com/pro/account-setup/>`_ to log into the Pro dashboard.
 
-**Remove a user**
+Remove a user
+-------------
 
 * From the dashboard, select *Account users* on the bar at the top of the page.
 * Click to *Edit* the user whose access you wish to disable, then click the trash bin icon and confirm your action.
@@ -36,13 +38,14 @@ The Ubuntu Pro dashboard
 The Support Portal
 ~~~~~~~~~~~~~~~~~~
 
-**Add a new user**
+Add a new user
+--------------
 
 Depending on the access level you wish to grant to the new user, you can create a new user yourself or open a support case requesting the update.
 
-**Administrator-level users** can open and manage tickets and can create new users in the Support Portal.
+Administrator-level users can open and manage tickets and can create new users in the Support Portal.
 
-**Non-administrator level users** can open and manage tickets, but cannot create new users in the Support Portal.
+Non-administrator level users can open and manage tickets, but cannot create new users in the Support Portal.
 
 For non-administrator level users:
 
@@ -54,7 +57,8 @@ For non-administrator level users:
 
 For administrator-level users, please open a case in the Support Portal to request that they are added as a new user to your account. Include the new user’s name, email address and job title, and specify that they should be enabled as an administrator.
 
-**Remove a user**
+Remove a user
+-------------
 
 * From the Support Portal homepage, click the menu on the top bar and select *My Account*.
 * Click to edit the user whose access you wish to disable, then deselect the field “Active Support Portal user” and hit save.
@@ -62,7 +66,8 @@ For administrator-level users, please open a case in the Support Portal to reque
 Landscape SaaS
 ~~~~~~~~~~~~~~
 
-**Add a new user**
+Add a new user
+--------------
 
 * Navigate to *Administrators* from your `Landscape homepage <https://landscape.canonical.com>`_  navigate and scroll down to Invite an administrator.
 * Provide the new user’s name and email address and role.
@@ -71,7 +76,8 @@ Landscape SaaS
 **Note** that roles are custom defined in Landscape and control the access level individual users have within Landscape and to specific machines in your environment. As a best practice we always recommend only giving Landscape administrators enough access to perform their job.
 You can read more about roles `in our Landscape documentation <https://documentation.ubuntu.com/landscape/reference/terms/roles/>`_.
 
-**Remove a user**
+Remove a user
+-------------
 
 * Log into your Landscape SaaS account and navigate to *Administrators*.
 * Select the user whose access you wish to disable, then click *Disable*.
