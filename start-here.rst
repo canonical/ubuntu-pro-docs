@@ -3,7 +3,7 @@
 Start here
 ==========
  
-For new customers, new users on existing accounts, and new free token users, we recommend the following documentation for a quick start with Ubuntu Pro. This colelction of how-to guides help you understand how to activate your Ubuntu Pro subscription and choose which services to enable. 
+For new customers, new users on existing accounts, and new free token users, we recommend the following documentation for a quick start with Ubuntu Pro. This collection of how-to guides helps you understand how to activate your Ubuntu Pro subscription and choose which services to enable. 
 
 Prepare your environment
 ~~~~~~~~~~~~~~~~~~~~~~~~
