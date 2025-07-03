@@ -57,7 +57,7 @@ For administrator-level users, please open a case in the Support Portal to reque
 **Remove a user**
 
 * From the Support Portal homepage, click the menu on the top bar and select *My Account*.
-* Click to edit the user whose access you wish to disable, then de-select the field “Active Support Portal user” and hit save.
+* Click to edit the user whose access you wish to disable, then deselect the field “Active Support Portal user” and hit save.
 
 Landscape SaaS
 ~~~~~~~~~~~~~~
