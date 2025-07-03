@@ -26,7 +26,7 @@ The Ubuntu Pro dashboard
       * Administrators can access the Pro token, manage users and, for online shop customers, manage subscriptions and invoices.
       * Billing contacts can manage subscriptions and invoices, for online shop customers, but cannot access the Pro token and cannot manage users.
       * Technical contacts can access the Pro token but cannot manage users or subscriptions/invoices.
-* New users should follow the instructions `here <https://documentation.ubuntu.com/pro/account-setup/>`_ to log into the Pro dashboard.
+* New users should follow the instructions `under Initial account setup <https://documentation.ubuntu.com/pro/account-setup/>`_ to log into the Pro dashboard.
 
 **Remove a user**
 
