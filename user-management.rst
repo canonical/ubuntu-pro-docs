@@ -69,7 +69,7 @@ Landscape SaaS
 * Click to send the invitation to join your Landscape account.
 
 **Note** that roles are custom defined in Landscape and control the access level individual users have within Landscape and to specific machines in your environment. As a best practice we always recommend only giving Landscape administrators enough access to perform their job.
-You can read more about roles `here <https://documentation.ubuntu.com/landscape/reference/terms/roles/>`_.
+You can read more about roles `in our Landscape documentation <https://documentation.ubuntu.com/landscape/reference/terms/roles/>`_.
 
 **Remove a user**
 
