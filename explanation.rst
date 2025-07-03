@@ -16,7 +16,7 @@ For all Ubuntu Pro customers and users, here you'll find details about the tools
    Introduction to Landscape <landscape>
    Active machine count <active-machines>
    Manage or renew your Ubuntu Pro subscription online <subscription-management>
-   User management for Ubuntu Pro <user-management>
+   User management for Ubuntu Pro <user-management-pro>
 
 Canonical support
 ~~~~~~~~~~~~~~~~~~
