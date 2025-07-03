@@ -50,7 +50,7 @@ For non-administrator level users:
 * Review the list of contacts and users on your account - your new user may already be added as a non-user contact to your account.
 * If you can see your new user’s details already added, click to edit them, then check the box “Active Support Portal user” and hit save.
 * If you cannot see your new user’s details, click *Add contact* and provide their name, email address and job title. Select the box “Active Support Portal user” and hit save.
-* New users should follow the instructions :ref: `here <account-setup>` to log in to the Support Portal.
+* New users should follow the instructions `here <https://documentation.ubuntu.com/pro/account-setup/>`_ to log in to the Support Portal.
 
 For administrator-level users, please open a case in the Support Portal to request that they are added as a new user to your account. Include the new user’s name, email address and job title, and specify that they should be enabled as an administrator.
 
