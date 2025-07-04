@@ -23,11 +23,11 @@ Add a new user
 
 * From the dashboard, select *Account users* on the bar at the top of the page.
 * Click *Add new user*, then provide the name and email address of the new user.
-* Select their role type:
-      * Administrators can access the Pro token, manage users and, for online shop customers, manage subscriptions and invoices.
-      * Billing contacts can manage subscriptions and invoices, for online shop customers, but cannot access the Pro token and cannot manage users.
-      * Technical contacts can access the Pro token but cannot manage users or subscriptions/invoices.
-* New users should follow the instructions `under Initial account setup <https://documentation.ubuntu.com/pro/account-setup/>`_ to log into the Pro dashboard.
+* Select their role type -
+    * Administrators can access the Pro token, manage users and, for online shop customers, manage subscriptions and invoices.
+    * Billing contacts can manage subscriptions and invoices, for online shop customers, but cannot access the Pro token and cannot manage users.
+    * Technical contacts can access the Pro token but cannot manage users or subscriptions/invoices.
+* New users should follow the instructions under `Initial account setup <https://documentation.ubuntu.com/pro/account-setup/>`_ to log into the Pro dashboard.
 
 Remove a user
 -------------
@@ -47,7 +47,7 @@ Administrator-level users can open and manage tickets and can create new users i
 
 Non-administrator level users can open and manage tickets, but cannot create new users in the Support Portal.
 
-For non-administrator level users:
+To create non-administrator level users:
 
 * From the Support Portal homepage, click the menu on the top bar and select *My Account*.
 * Review the list of contacts and users on your account - your new user may already be added as a non-user contact to your account.
@@ -55,7 +55,7 @@ For non-administrator level users:
 * If you cannot see your new user’s details, click *Add contact* and provide their name, email address and job title. Select the box “Active Support Portal user” and hit save.
 * New users should follow the instructions `here <https://documentation.ubuntu.com/pro/account-setup/>`_ to log in to the Support Portal.
 
-For administrator-level users, please open a case in the Support Portal to request that they are added as a new user to your account. Include the new user’s name, email address and job title, and specify that they should be enabled as an administrator.
+To create administrator-level users, please open a case in the Support Portal to request that they are added as a new user to your account. Include the new user’s name, email address and job title, and specify that they should be enabled as an administrator.
 
 Remove a user
 -------------
