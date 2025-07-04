@@ -18,7 +18,7 @@ Overview
 +-------------------------------------------------------------------------------------------------------------------+-------------------------+-------------+
 |                                    Real-time kernel (Ubuntu 22.04 LTS onwards)                                    |           Yes           |     Yes     |
 +-------------------------------------------------------------------------------------------------------------------+-------------------------+-------------+
-|                         NIST-certified FIPS crypto-modules (pending for Ubuntu 22.04 LTS)                         |           Yes           |     Yes     |
+|                                        NIST-certified FIPS crypto-modules                                         |           Yes           |     Yes     |
 +-------------------------------------------------------------------------------------------------------------------+-------------------------+-------------+
 | USG hardening with CIS and DISA-STIG profiles (DISA-STIG tooling & automation for Ubuntu 20.04 LTS and 22.04 LTS) |           Yes           |     Yes     |
 +-------------------------------------------------------------------------------------------------------------------+-------------------------+-------------+
@@ -67,6 +67,8 @@ The expected security maintenance dates for Ubuntu LTS releases since 14.04 LTS,
 +------------------------+-------------------------------+--------------------------+
 |       22.04 LTS        |           April 2032          |      Main & Universe     |
 +------------------------+-------------------------------+--------------------------+
+|       24.04 LTS        |           April 2034          |      Main & Universe     |
++------------------------+-------------------------------+--------------------------+
 
 
 
@@ -90,15 +92,15 @@ To check whether a Livepatch has been applied to a specific CVE, run:
 
 
 Compliance features
----------------------
+--------------------
 
 Your Ubuntu Pro subscription includes several services and tools that address compliance and regulatory requirements: FIPS, the Ubuntu Security Guide, and the CIS hardening tool.
 
 
 FIPS
-~~~~~~~
+~~~~~
 
-Canonical has FIPS 140-2 modules for Ubuntu 16.04 LTS, 18.04 LTS and 20.04 LTS. We are currently in the process of obtaining FIPS 140-3 modules for 22.04 LTS. We will announce on our `blog <https://ubuntu.com/blog>`_ and in the `Ubuntu Pro newsletter <https://support-portal.canonical.com/knowledge-base/Subscribe-to-or-Unsubscribe-from-the-Ubuntu-Advantage-Newsletter>`_ when the validation process for 22.04 LTS is complete - make sure to subscribe if you want to be kept updated.
+Canonical has FIPS 140-2 modules for Ubuntu 16.04 LTS, 18.04 LTS, 20.04 LTS and 22.04 LTS. We are currently in the process of obtaining FIPS 140-3 modules for 24.04 LTS. We will announce on our `blog <https://ubuntu.com/blog>`_ and in the `Ubuntu Pro newsletter <https://support-portal.canonical.com/knowledge-base/Subscribe-or-Unsubscribe-from-the-Ubuntu-Pro-Newsletter>`_ when the validation process for 24.04 LTS is complete - make sure to subscribe if you want to be kept updated.
 
 **Security patching with FIPS**
 
@@ -110,10 +112,10 @@ Each FIPS 140 certificate for a package can take several months to complete and 
 
 
 
-USG for hardening Ubuntu 20.04 LTS and 22.04 LTS
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+USG for hardening Ubuntu 20.04 LTS, 22.04 LTS and 24.04 LTS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The `Ubuntu Security Guide (USG) <https://ubuntu.com/security/certifications/docs/usg>`_ provides tooling for the auditing and hardening of Ubuntu systems to meet **CIS** (for Ubuntu 20.04 LTS and 22.04 LTS) and **DISA STIG benchmarks** (for Ubuntu 20.04 LTS). The USG also allows for environment-specific customisation.
+The `Ubuntu Security Guide (USG) <https://ubuntu.com/security/certifications/docs/usg>`_ provides tooling for the auditing and hardening of Ubuntu systems to meet **CIS** (for Ubuntu 20.04 LTS, 22.04 LTS and 24.04 LTS) and **DISA STIG benchmarks** (for Ubuntu 20.04 LTS and 22.04 LTS). The USG also allows for environment-specific customisation.
 
 This tooling is designed to help you to harden Ubuntu systems quickly and correctly. We recommend using the tool to create a hardened golden image, which you can then disseminate across your organisation. The tool can also audit your compliance after hardening.
 
