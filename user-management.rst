@@ -23,10 +23,11 @@ Add a new user
 
 * From the dashboard, select *Account users* on the bar at the top of the page.
 * Click *Add new user*, then provide the name and email address of the new user.
-* Select their role type -
+* Select their role type:
     * Administrators can access the Pro token, manage users and, for online shop customers, manage subscriptions and invoices.
+    * Technical contacts can access the Pro token but cannot manage users and, for online shop customers, cannot manage subscriptions and invoices.
     * Billing contacts can manage subscriptions and invoices, for online shop customers, but cannot access the Pro token and cannot manage users.
-    * Technical contacts can access the Pro token but cannot manage users or subscriptions/invoices.
+    
 * New users should follow the instructions under `Initial account setup <https://documentation.ubuntu.com/pro/account-setup/>`_ to log into the Pro dashboard.
 
 Remove a user
@@ -69,8 +70,8 @@ Landscape SaaS
 Add a new user
 --------------
 
-* Navigate to *Administrators* from your `Landscape homepage <https://landscape.canonical.com>`_  navigate and scroll down to Invite an administrator.
-* Provide the new user’s name and email address and role.
+* Navigate to *Administrators* from your `Landscape homepage <https://landscape.canonical.com>`_  navigate and scroll down to *Invite an administrator*.
+* Provide the new user’s name, email address and role.
 * Click to send the invitation to join your Landscape account.
 
 **Note** that roles are custom defined in Landscape and control the access level individual users have within Landscape and to specific machines in your environment. As a best practice we always recommend only giving Landscape administrators enough access to perform their job.
