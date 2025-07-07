@@ -1,7 +1,7 @@
 .. _landscape:
 
-Understanding Landscape
-=======================
+Introduction to Landscape
+=========================
 
 `Landscape <Landscape_>`_ is Canonical’s system management tool for Ubuntu machines. It is available in two versions, Landscape SaaS and Self-hosted Landscape, both of which are included in Ubuntu Pro.
 
