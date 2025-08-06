@@ -8,7 +8,7 @@ Overview
 
 In this tutorial you will learn how to find your Ubuntu Pro token and how to attach it to an Ubuntu LTS machine.
 
-Note that this tutorial is for Ubuntu machines with internet access. Customers with a paid Ubuntu Pro subscription who need to set up Ubuntu Pro on airgapped machines should review `Ubuntu Pro for airgapped environments <https://documentation.ubuntu.com/pro/airgapped-setup/>_`.
+Note that this tutorial is for Ubuntu machines with internet access. Customers with a paid Ubuntu Pro subscription who need to set up Ubuntu Pro on airgapped machines should review `Ubuntu Pro for airgapped environments <https://documentation.ubuntu.com/pro/airgapped-setup/>`_.
 
 What you’ll learn
 ~~~~~~~~~~~~~~~~~
@@ -19,7 +19,7 @@ What you’ll learn
 What you’ll need
 ~~~~~~~~~~~~~~~~
 
-1. An Ubuntu Pro subscription - free or paid - with access to the `Ubuntu Pro dashboard <https://ubuntu.com/pro/dashboard>_` already set up. If you have not done so, review the steps under Initial account setup https://documentation.ubuntu.com/pro/account-setup/
+1. An Ubuntu Pro subscription - free or paid - with access to the `Ubuntu Pro dashboard <https://ubuntu.com/pro/dashboard>`_ already set up. If you have not done so, review the steps under `Initial account setup <https://documentation.ubuntu.com/pro/account-setup/>`_
 2. An Ubuntu machine running any LTS version of Ubuntu from 16.04 onwards
 3. Sudo access
 4. Ubuntu Pro client
@@ -110,6 +110,6 @@ That’s all, folks
 
 Good job, you made it! You should now know how to access and use Ubuntu Pro.
 
-For instructions on how to enable specific services, review the `Ubuntu Pro client documentation <https://documentation.ubuntu.com/pro-client/en/latest/howtoguides/enable_index/>_`.
+For instructions on how to enable specific services, review the `Ubuntu Pro client documentation <https://documentation.ubuntu.com/pro-client/en/latest/howtoguides/enable_index/>`_.
 
 
