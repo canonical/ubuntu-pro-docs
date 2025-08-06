@@ -27,7 +27,7 @@ subscription.
 .. toctree::
    :maxdepth: 1
 
-   Attach a machine to your subscription <how_to_attach.rst>
+   Attach a machine to your subscription <attach-tutorial>
 
 Accessing technical support
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
