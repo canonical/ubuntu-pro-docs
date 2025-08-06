@@ -1,7 +1,7 @@
 .. _attach-tutorial:
 
-Tutorial: Start using Ubuntu Pro
-================================
+Start using Ubuntu Pro
+======================
 
 Overview
 ~~~~~~~~
