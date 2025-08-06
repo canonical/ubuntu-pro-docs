@@ -20,7 +20,7 @@ In this documentation
        :columns: 12
 
        Get started with Ubuntu Pro: :ref:`Set up your account <account-setup>`,
-       :ref:`attach a machine to your subscription <how_to_attach>` and learn
+       :ref:`attach a machine to your subscription <attach-tutorial>` and learn
        :ref:`how to use the Pro client <pro-client:tutorial-commands>`
 
 .. grid:: 2
@@ -46,7 +46,7 @@ In this documentation
 **Popular questions**
 
 * :ref:`Why can't I access my Ubuntu Pro account? <account-problems>`
-* :ref:`How do I attach a machine to my subscription? <how_to_attach>`
+* :ref:`How do I attach a machine to my subscription? <attach-tutorial>`
 * :ref:`How are active machines calculated? <active-machine-count>`
 * :ref:`How do I set up Ubuntu Pro on offline machines? <airgapped>`
 
