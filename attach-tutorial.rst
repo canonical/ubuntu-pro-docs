@@ -19,7 +19,7 @@ What you’ll learn
 What you’ll need
 ~~~~~~~~~~~~~~~~
 
-1. An Ubuntu Pro subscription - free or paid - with access to the Ubuntu Pro dashboard ubuntu.com/pro/dashboard already set up. If you have not done so, review the steps under Initial account setup https://documentation.ubuntu.com/pro/account-setup/
+1. An Ubuntu Pro subscription - free or paid - with access to the `Ubuntu Pro dashboard <https://ubuntu.com/pro/dashboard>_` already set up. If you have not done so, review the steps under Initial account setup https://documentation.ubuntu.com/pro/account-setup/
 2. An Ubuntu machine running any LTS version of Ubuntu from 16.04 onwards
 3. Sudo access
 4. Ubuntu Pro client
@@ -43,7 +43,7 @@ When you get the latest client, run apt update again to make sure all package da
 Check or create your Ubuntu Pro subscription
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Log in to the `Ubuntu Pro dashboard <Pro_dashboard_>`_.
+Log in to the `Ubuntu Pro dashboard <https://ubuntu.com/pro/dashboard>`_.
 
 You access your Ubuntu Pro token from the Ubuntu Pro dashboard. Make sure you have followed the steps under `Initial account setup <https://documentation.ubuntu.com/pro/account-setup/>`_ to log in to this dashboard.
 
