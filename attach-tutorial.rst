@@ -53,7 +53,7 @@ Next, retrieve the token under ‘Your subscriptions’:
 
 .. Important::
 
-   For individual desktop, VM and physical server subscriptions, you attach your token directly on your machines. For customers who have licensed an entire virtual cluster at the physical host level, use the token on the subscription labelled “physical” on your virtual machines. There is no need to use the token on the physical hosts.
+   For individual desktop, VM and physical server subscriptions, you attach your token directly on your machines. For customers who have licensed an entire virtual cluster at the physical host level, use the token on the subscription labelled “physical” on each of your virtual machines. There is no need to use the token on the physical hosts unless they also run on Ubuntu.
 
 Attach your Ubuntu LTS machine to an Ubuntu Pro subscription
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
