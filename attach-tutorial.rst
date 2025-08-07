@@ -1,12 +1,12 @@
 .. _attach-tutorial:
 
-Start using Ubuntu Pro
-======================
+Attach a machine to your subscription
+=====================================
 
 Overview
 ~~~~~~~~
 
-In this tutorial you will learn how to find your Ubuntu Pro token and how to attach it to an Ubuntu LTS machine.
+In this tutorial you will learn how to find your Ubuntu Pro token and attach it to an Ubuntu LTS machine.
 
 Note that this tutorial is for Ubuntu machines with internet access. Customers with a paid Ubuntu Pro subscription who need to set up Ubuntu Pro on airgapped machines should review `Ubuntu Pro for airgapped environments <https://documentation.ubuntu.com/pro/airgapped-setup/>`_.
 
