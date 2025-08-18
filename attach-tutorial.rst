@@ -8,7 +8,9 @@ Overview
 
 In this tutorial you will learn how to find your Ubuntu Pro token and attach it to an Ubuntu LTS machine.
 
-Note that this tutorial is for Ubuntu machines with internet access. Customers with a paid Ubuntu Pro subscription who need to set up Ubuntu Pro on airgapped machines should review `Ubuntu Pro for airgapped environments <https://documentation.ubuntu.com/pro/airgapped-setup/>`_.
+.. Note::
+
+   This tutorial is for machines with internet access. If you have an airgapped environment, see `Ubuntu Pro for airgapped environments <https://documentation.ubuntu.com/pro/airgapped-setup/>`_.
 
 What you’ll learn
 ~~~~~~~~~~~~~~~~~
@@ -19,14 +21,14 @@ What you’ll learn
 What you’ll need
 ~~~~~~~~~~~~~~~~
 
-1. An Ubuntu Pro subscription - free or paid - with access to the `Ubuntu Pro dashboard <https://ubuntu.com/pro/dashboard>`_ already set up. If you have not done so, review the steps under `Initial account setup <https://documentation.ubuntu.com/pro/account-setup/>`_
+1. An Ubuntu Pro subscription - free or paid - with access to the `Ubuntu Pro dashboard <https://ubuntu.com/pro/dashboard>`_ already set up. If you have not done so, follow `Initial account setup <https://documentation.ubuntu.com/pro/account-setup/>`_
 2. An Ubuntu machine running any LTS version of Ubuntu from 16.04 onwards
 3. Sudo access
 4. Ubuntu Pro client
 5. Internet access 
 
-Before we start
-~~~~~~~~~~~~~~~
+Get the latest Ubuntu Pro client
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Make sure that the Ubuntu Pro client is installed and up to date:
 
@@ -51,12 +53,12 @@ Next, retrieve the token under ‘Your subscriptions’:
 
 .. image:: images/subscription-page.png
 
-.. Important::
-
-   For individual desktop, VM and physical server subscriptions, you attach your token directly on your machines. For customers who have licensed an entire virtual cluster at the physical host level, use the token on the subscription labelled “physical” on each of your virtual machines. There is no need to use the token on the physical hosts unless they also run on Ubuntu.
-
 Attach your Ubuntu LTS machine to an Ubuntu Pro subscription
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. Important::
+
+   For individual desktop, VM and physical server subscriptions, attach your token directly on your machines. For customers with a VM cluster, attach the token directly on your virtual machines. There is no need to use the token on the physical hosts unless they also run on Ubuntu.
 
 Now that we have our Ubuntu Pro token, we can attach it to our Ubuntu instance. Open the terminal on your Ubuntu LTS, and type the following command:
 
@@ -97,7 +99,7 @@ This output depends on your Ubuntu LTS version, for instance ‘fips’, ‘fips
 Congratulations - Ubuntu Pro is now enabled on your machine
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Well done! Your machine now has access to Ubuntu Pro repositories. That means that every time you update your software, you will be pulling from the Ubuntu Pro’s Expanded Security Maintenance repositories. You can get it through all the usual paths; nothing new to learn. You can use unattended-upgrades, the Software Updater on the Desktop, apt upgrade command in the CLI, or `Landscape <https://documentation.ubuntu.com/pro/landscape/>`_.
+Well done! Your machine now has access to Ubuntu Pro repositories. Now every time you update your software, you will be downloading patches from Ubuntu Pro’s Expanded Security Maintenance repositories. You can continue performing updates as you normally would - with 'unattended-upgrades', the Software Updater on desktops, the 'apt upgrade' command in the CLI, or `Landscape <https://documentation.ubuntu.com/pro/landscape/>`_.
 
 To ensure that all available CVE fixes are applied, run:
 
