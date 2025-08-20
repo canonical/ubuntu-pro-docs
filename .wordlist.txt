@@ -37,6 +37,7 @@ Git
 GitHub
 Grafana
 hostname
+howtoguides
 https
 HWE
 IAM
@@ -92,6 +93,8 @@ STIG
 subdirectories
 subtree
 subfolders
+Sudo
+sudo
 th
 triaged
 TSE
