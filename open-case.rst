@@ -5,7 +5,7 @@ How to open a case
 
 To get the best (and fastest possible) results from Canonical Support, take a few moments to ensure that you provide us with the information we need to help you:
 
-Log in to the `Support Portal <https://support-portal.canonical.com/dashboard>`_.
+Log in to the `Support Portal <https://support-portal.canonical.com>`_.
 
 Search the Canonical Knowledge Base for articles relevant to your case - your issue may already have a solution.
 
