@@ -41,7 +41,9 @@ If you need to update or add a new payment method, click the menu button *Billin
 Manage your account details
 ---------------------------
 
-If you need to update your billing address, VAT number or other account details, click the menu button *Billing and users* above *Your subscriptions* in the Ubuntu Pro dashboard, then select *Invoices*.
+If you need to update your billing address, VAT number or other account details, click the menu button *Billing and users* above *Your subscriptions* in the Ubuntu Pro dashboard, then select *Invoices*:
+
+.. image:: images/dashboard-menu-button.png
 
 On the Invoices page, click *Edit billing details* and update your information as required.
 
