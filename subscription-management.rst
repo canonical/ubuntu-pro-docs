@@ -24,7 +24,7 @@ To renew your subscription after it has expired, log in to the `Ubuntu Pro dashb
 
 .. Important::
 
-   Make sure that your payment method is up to date. To update your credit card information, go to *Payment Methods* on the Ubuntu Pro dashboard.
+   Make sure that your payment method is up to date. Instructions on how to update your payment method can be found at :ref:`manage-payment-method`.
    
 Cancel your subscription
 ------------------------
@@ -32,6 +32,8 @@ Cancel your subscription
 To cancel a subscription, click *Edit subscription*, then click the hyperlink at the bottom of the module, “You can cancel this subscription online or contact us.” Note that cancelling a subscription means it will not automatically renew. Your subscription will remain active until its expiry date.
 
 .. image:: images/cancel-subscription.png
+
+.. _manage-payment-method:
 
 Manage your payment method
 --------------------------
