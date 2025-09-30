@@ -40,7 +40,7 @@ Manage your payment method
 
 If you need to update or add a new payment method, click the menu button *Billing and users* above *Your subscriptions* in the Ubuntu Pro dashboard, then select *Payment methods*:
 
-.. image:: images/dashboard-menu-button.png
+.. image:: images/subscription-menu2.png
 
 Edit or add a new card as required.
 
