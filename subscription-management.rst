@@ -38,7 +38,7 @@ To cancel a subscription, click *Edit subscription*, then click the hyperlink at
 Manage your payment method
 --------------------------
 
-If you need to update or add a new payment method, click the menu button *Billing and users* above *Your subscriptions* in the Ubuntu Pro dashboard, then select *Payment methods*:
+If you need to update or add a new payment method, click the menu button *Billing and users* in the Ubuntu Pro dashboard, then select *Payment methods*:
 
 .. image:: images/subscription-menu2.png
 
@@ -47,7 +47,7 @@ Edit or add a new card as required.
 Manage your account details
 ---------------------------
 
-If you need to update your billing address, VAT number or other account details, click the menu button *Billing and users* above *Your subscriptions* in the Ubuntu Pro dashboard, then select *Invoices*:
+If you need to update your billing address, VAT number or other account details, click the menu button *Billing and users* in the Ubuntu Pro dashboard, then select *Invoices*:
 
 On the Invoices page, click *Edit billing details* and update your information as required.
 
