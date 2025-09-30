@@ -24,7 +24,7 @@ To renew your subscription after it has expired, log in to the `Ubuntu Pro dashb
 
 .. Important::
 
-   Make sure that your payment method is up to date. To update your credit card information, go to *Payment Methods* on the `Ubuntu Pro dashboard <https://ubuntu.com/pro/dashboard>`_.
+   Make sure that your payment method is up to date. Instructions on how to update your payment method can be found at :ref:`manage-payment-method`.
    
 Cancel your subscription
 ------------------------
@@ -33,14 +33,23 @@ To cancel a subscription, click *Edit subscription*, then click the hyperlink at
 
 .. image:: images/cancel-subscription.png
 
+.. _manage-payment-method:
+
+Manage your payment method
+--------------------------
+
+If you need to update or add a new payment method, click the menu button *Billing and users* in the Ubuntu Pro dashboard, then select *Payment methods*:
+
+.. image:: images/subscription-menu2.png
+
+Edit or add a new card as required.
+
 Manage your account details
 ---------------------------
 
-If you need to update your billing address, VAT number or other account details, go to `Buy new subscription <https://ubuntu.com/pro/subscribe>`_ and click on *Buy now* to reach this page: 
+If you need to update your billing address, VAT number or other account details, click the menu button *Billing and users* in the Ubuntu Pro dashboard, then select *Invoices*:
 
-.. image:: images/update-account-details.png
-
-Update your account details under *Your information* as needed and click save. Exit the purchase flow without checking out. Your account details will now be updated.
+On the Invoices page, click *Edit billing details* and update your information as required.
 
 For all other customers
 -----------------------
@@ -48,3 +57,4 @@ For all other customers
 If you purchased Ubuntu Pro through an Account Manager or reseller and want to update or renew your subscription, please get in touch with them directly. If you cannot find their details, contact Customer Success for assistance.
 
 The contact details for Customer Success are in the original “Welcome to Ubuntu Pro” message we sent you. If you cannot find the welcome message, go to `https://ubuntu.com/ <https://ubuntu.com/>`_ and ask for Customer Success contact details using the LiveChat service.
+
