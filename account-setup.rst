@@ -60,7 +60,7 @@ Add a secondary user
 
 We recommend that all customers with commercial subscriptions have a secondary user on the Ubuntu Pro dashboard, to ensure continuity of access.
 
-Check *Account users* from the main menu. If a secondary user is not already listed, add one now. See :ref: `User management <_user-management>` for more information.
+Check *Account users* from the main menu. If a secondary user is not already listed, add one now. See :ref:`User management <user-management>` for more information.
 
 .. image:: images/pro-adduser.png
 
@@ -79,7 +79,7 @@ Open the User menu, and select *My account*.
 ..  image:: /images/portal-user-menu.png
     :alt: The user menu is the last item in the main menu
 
-If a secondary user is not already listed, add one now with the *New user* button. Also select the *Active Ubuntu Pro user* option, so that the new contact is enabled as a Support Portal user. See :ref: `User management <_user-management>` for more information.
+If a secondary user is not already listed, add one now with the *New user* button. Also select the *Active Ubuntu Pro user* option, so that the new contact is enabled as a Support Portal user. See :ref:`User management <user-management>` for more information.
 
 -----------
 
