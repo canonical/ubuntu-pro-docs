@@ -21,7 +21,7 @@ Email validation not working
 
 Occasionally a new user will get an error when attempting to validate their email address in Ubuntu One: "The provided email address has been invalidated."
 
-This error occurs when the email with the validation link is scanned by some anti-malware tools. To resolve it, whitelist the domain @login.ubuntu.com in your anti-malware software so that the email validation link is not opened and invalidated before you can use it.
+This error occurs when the email with the validation link is scanned by some anti-malware tools. To resolve it, add the domain @login.ubuntu.com in your anti-malware allowlist so that the email validation link is not opened and invalidated before you can use it.
 
 .. _portal-access-problems:
 
