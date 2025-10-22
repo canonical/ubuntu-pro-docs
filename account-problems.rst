@@ -23,6 +23,8 @@ Occasionally a new user will get an error when attempting to validate their emai
 
 This error occurs when the email with the validation link is scanned by some anti-malware tools. To resolve it, add the domain @login.ubuntu.com in your anti-malware allowlist so that the email validation link is not opened and invalidated before you can use it.
 
+Before you can reattempt to validate your email, contact our Customer Success team to request that we manually unlock your account: find the original "Welcome to Ubuntu Pro" message we sent you, and contact the Customer Success team with the details provided. If you cannot find the welcome message, go to `https://ubuntu.com/ <https://ubuntu.com/>`_ and ask for Customer Success contact details using the LiveChat service.
+
 .. _portal-access-problems:
 
 Portal access
