@@ -12,8 +12,9 @@ Consumption of the following services is registered under active machines:
 * USG
 * CIS
 * FIPS
+* Machines registered to Landscape using the Pro client, i.e. by running <pro enable landscape>
 
-Machines registered to Landscape are not included.
+Machines registered to Landscape using license.txt files are not included.
 
 Occasionally after attaching new machines to your token, you may observe that the active machine count is doubled, e.g. you have attached 10 machines but the active machine count shows 20. Over time the count will stabilize to the correct number of machines, usually within 48 hours.
 
