@@ -5,15 +5,25 @@ If you have problems with your Ubuntu Pro account
 
 .. _password-reset-problems:
 
-Password reset
---------------
+Password reset emails not arriving
+----------------------------------
 
 The first thing to check is that you have created an Ubuntu One account (note that we do not do this for you). If you have not created an account yet, carefully follow the instructions at :ref:`create-ubuntu-one-account`, then return here.
 
 If that hasn't solved your problem, next check that you are using the correct email address: ask the person who set up your organisation's Ubuntu Pro subscription and try again.
 
-Find the original "Welcome to Ubuntu Pro" message we sent you, and contact the Customer Success team with the details provided. If you cannot find the welcome message, go to `https://ubuntu.com/ <https://ubuntu.com/>`_ and ask for Customer Success contact details using the LiveChat service. 
-    
+Find the original "Welcome to Ubuntu Pro" message we sent you, and contact the Customer Success team with the details provided. If you cannot find the welcome message, go to `https://ubuntu.com/ <https://ubuntu.com/>`_ and ask for Customer Success contact details using the LiveChat service.
+
+.. _email-validation-problems:
+
+Email validation not working
+----------------------------
+
+Occasionally a new user will get an error when attempting to validate their email address in Ubuntu One: "The provided email address has been invalidated."
+
+This error occurs when the email with the validation link is scanned by some anti-malware tools. To resolve it, add the domain @login.ubuntu.com in your anti-malware allowlist so that the email validation link is not opened and invalidated before you can use it.
+
+Before you can reattempt to validate your email, contact our Customer Success team to request that we manually unlock your account: find the original "Welcome to Ubuntu Pro" message we sent you, and contact the Customer Success team with the details provided. If you cannot find the welcome message, go to `https://ubuntu.com/ <https://ubuntu.com/>`_ and ask for Customer Success contact details using the LiveChat service.
 
 .. _portal-access-problems:
 
@@ -33,3 +43,4 @@ If you need access to a portal, ask the person who set up your organisation's Ub
 .. important::
 
     Ensure that each individual user on your organisation's Ubuntu Pro account creates their own Ubuntu One account. Accounts cannot be shared by multiple users. Trying to share accounts will often trigger errors.
+    

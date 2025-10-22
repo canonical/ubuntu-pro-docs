@@ -20,7 +20,7 @@ Ubuntu One
 
 The first thing we need you to do is log in to the Ubuntu Pro portals.
 
-Access to the Ubuntu Pro customer portals is mediated through **Ubuntu One Single Sign On**. If you have an Ubuntu One account already, go straight to :ref:`log in to the Ubuntu Pro dashboard <dashboard-log-in>`.
+Access to the Ubuntu Pro customer portals is mediated through **Ubuntu One Single Sign On**. Note that we do not create this account for you, so all new customers and users will need to create a new Ubuntu One account. If you have an Ubuntu One account already, go straight to :ref:`log in to the Ubuntu Pro dashboard <dashboard-log-in>`.
 
 .. _create-ubuntu-one-account:
 
@@ -60,7 +60,7 @@ Add a secondary user
 
 We recommend that all customers with commercial subscriptions have a secondary user on the Ubuntu Pro dashboard, to ensure continuity of access.
 
-Check *Account users* from the main menu. If a secondary user is not already listed, add one now.
+Check *Account users* from the main menu. If a secondary user is not already listed, add one now. See :ref:`User management <user-management>` for more information.
 
 .. image:: images/pro-adduser.png
 
@@ -79,7 +79,7 @@ Open the User menu, and select *My account*.
 ..  image:: /images/portal-user-menu.png
     :alt: The user menu is the last item in the main menu
 
-If a secondary user is not already listed, add one now with the *New user* button. Also select the *Active Ubuntu Pro user* option, so that the new contact is enabled as a Support Portal user.
+If a secondary user is not already listed, add one now with the *New user* button. Also select the *Active Ubuntu Pro user* option, so that the new contact is enabled as a Support Portal user. See :ref:`User management <user-management>` for more information.
 
 -----------
 
@@ -115,3 +115,4 @@ If you are having problems accessing the portals, please see :ref:`Portal access
 .. include:: links.txt
 
 .. _Canonical Support Portal: https://support-portal.canonical.com
+

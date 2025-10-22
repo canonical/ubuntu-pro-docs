@@ -1,5 +1,6 @@
 actioned
 addons
+allowlist
 anbox
 Anbox
 airgapped
@@ -111,3 +112,4 @@ VMs
 Xenial
 YAML
 enablement
+
