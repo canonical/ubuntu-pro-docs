@@ -21,8 +21,8 @@ The Ubuntu Pro dashboard
 Add a new user
 --------------
 
-* From the dashboard, select *Account users* on the bar at the top of the page.
-* Click *Add new user*, then provide the name and email address of the new user.
+* From the dashboard, open the *Billing and users* dropdown menu and select *Users*. 
+* Click *+ Add new user*, then provide the name and email address of the new user.
 * Select their role type:
     * Administrators can access the Pro token, manage users and, for online shop customers, manage subscriptions and invoices.
     * Technical contacts can access the Pro token but cannot manage users and, for online shop customers, cannot manage subscriptions and invoices.
@@ -33,8 +33,8 @@ Add a new user
 Remove a user
 -------------
 
-* From the dashboard, select *Account users* on the bar at the top of the page.
-* Click to *Edit* the user whose access you wish to disable, then click the trash bin icon and confirm your action.
+* From the dashboard, open the *Billing and users* dropdown menu and select *Users*. 
+* Click to *Edit* the user whose access you wish to disable, then click the trash bin icon next to their email address and confirm your action.
 
 The Support Portal
 ~~~~~~~~~~~~~~~~~~
