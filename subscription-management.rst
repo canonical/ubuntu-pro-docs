@@ -51,6 +51,10 @@ If you need to update your billing address, VAT number or other account details,
 
 On the Invoices page, click *Edit billing details* and update your information as required.
 
+Note that you cannot change your account name. Updating your name under *Billing details* will update the name associated with your payment method only.
+
+If you need to update your account name, for example if the name of your organisation has changed, please contact Customer Success to request the change. You can find the contact details for Customer Success in the original “Welcome to Ubuntu Pro” message we sent you. If you cannot find the welcome message, go to <https://ubuntu.com/>`_ and ask for Customer Success contact details using the LiveChat service.
+
 For all other customers
 -----------------------
 
