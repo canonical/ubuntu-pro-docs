@@ -8,7 +8,13 @@ If you change the tier of Ubuntu Pro to which you are subscribed, your Ubuntu Pr
 Determine which Ubuntu Pro tools are in use in your environment
 ---------------------------------------------------------------
 
-Run <pro status> on an Ubuntu machine to identify which Ubuntu Pro tools are enabled. You will get an output like this:
+Check which Ubuntu Pro tools are enabled in your environment:
+
+.. code-block:: bash
+
+   pro status
+
+ You will get an output like this:
 
 .. code-block:: bash
 
@@ -39,7 +45,11 @@ Landscape does not need to be set as a default tool because any Landscape regist
 Update the Ubuntu Pro token on a test machine
 ---------------------------------------------
 
-Copy your new Ubuntu Pro token from the Ubuntu Pro dashboard, then run <sudo pro detach && sudo pro attach NEW_TOKEN> on a test machine.
+Copy your new Ubuntu Pro token from the Ubuntu Pro dashboard, then apply it to a test machine:
+
+.. code-block:: bash
+
+   sudo pro detach && sudo pro attach NEW_TOKEN
 
 For machines registered to Landscape, you should also restart Landscape client:
 
@@ -53,7 +63,13 @@ Verify that the correct tools are enabled by rerunning <pro status>.
 Update the Ubuntu Pro token across your Ubuntu estate
 -----------------------------------------------------
 
-Run <sudo pro detach && sudo pro attach NEW_TOKEN> on all of your Ubuntu machines. As above, for machines registered to Landscape we also want to restart Landscape client:
+Proceed with applying your new Ubuntu Pro token across your remaining Ubuntu machines:
+
+.. code-block:: bash
+
+   sudo pro detach && sudo pro attach NEW_TOKEN
+   
+As above, for machines registered to Landscape we also want to restart Landscape client:
 
 .. code-block:: bash
 
