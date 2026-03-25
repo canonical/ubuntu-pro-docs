@@ -41,7 +41,7 @@ In this documentation
        :columns: 6
 
        Find out how to :ref:`manage your Ubuntu Pro subscription online <subscription_management>`,
-       :ref:`add and remove users <user-management>`, and :ref:`manage your Ubuntu Pro token <update-pro-token>`
+       :ref:`add and remove users <user-management>`, and :ref:`manage your Ubuntu Pro token <update-token>`
 
    .. grid-item-card:: `Using the Ubuntu Pro Client <https://documentation.ubuntu.com/pro-client/en/latest/>`_
        :columns: 6
