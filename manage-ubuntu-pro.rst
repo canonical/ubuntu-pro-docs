@@ -11,5 +11,5 @@ For Ubuntu Pro customers and free token users, guidance on how to manage your Ub
    Manage or renew your Ubuntu Pro subscription online <subscription-management>
    User management in Ubuntu Pro <user-management>
    Active machine count <active-machines>
-   Update your Ubuntu Pro token <update-pro-token>
+   How to update your Ubuntu Pro token <update-pro-token>
 
