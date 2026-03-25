@@ -12,7 +12,7 @@ Check which Ubuntu Pro tools are enabled in your environment:
 
 .. code-block:: bash
 
-   pro status
+   $ pro status
 
 You will get an output like this:
 
@@ -49,7 +49,7 @@ Copy your new Ubuntu Pro token from the Ubuntu Pro dashboard, then apply it to a
 
 .. code-block:: bash
 
-   sudo pro detach && sudo pro attach NEW_TOKEN
+   $ sudo pro detach && sudo pro attach NEW_TOKEN
 
 For machines registered to Landscape, you should also restart Landscape client:
 
@@ -67,7 +67,7 @@ Proceed with applying your new Ubuntu Pro token across your remaining Ubuntu mac
 
 .. code-block:: bash
 
-   sudo pro detach && sudo pro attach NEW_TOKEN
+   $ sudo pro detach && sudo pro attach NEW_TOKEN
    
 As above, for machines registered to Landscape we also want to restart Landscape client:
 
@@ -77,4 +77,11 @@ As above, for machines registered to Landscape we also want to restart Landscape
    sudo systemctl start landscape-client
 
 If you need to update the token on lots of machines at once, you can run these commands using `Landscape’s scripts functionality <https://documentation.ubuntu.com/landscape/explanation/features/remote-script-execution/>`_ or any other scripting tool in use in your Ubuntu environment.
+
+Congratulations - you have successfully updated your Ubuntu Pro token!
+----------------------------------------------------------------------
+
+Good job - your new Ubuntu Pro token is now attached to your Ubuntu machines. 
+
+
 
