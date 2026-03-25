@@ -58,12 +58,16 @@ For machines registered to Landscape, you should also restart Landscape client:
    sudo systemctl enable landscape-client
    sudo systemctl start landscape-client
 
-Verify that the correct tools are enabled by rerunning <pro status>.
+Then verify that the correct tools are enabled:
 
-Update the Ubuntu Pro token across your Ubuntu estate
------------------------------------------------------
+.. code-block:: bash
 
-Proceed with applying your new Ubuntu Pro token across your remaining Ubuntu machines:
+   $ sudo pro status
+
+Update the Ubuntu Pro token across your Ubuntu environment
+----------------------------------------------------------
+
+Once you are happy that the default settings for your new Ubuntu Pro token have been correctly updated, proceed with applying your new Ubuntu Pro token across your remaining Ubuntu machines:
 
 .. code-block:: bash
 
@@ -81,7 +85,7 @@ If you need to update the token on lots of machines at once, you can run these c
 Congratulations - you have successfully updated your Ubuntu Pro token!
 ----------------------------------------------------------------------
 
-Good job - your new Ubuntu Pro token is now attached to your Ubuntu machines. 
+Good job - your new Ubuntu Pro token is now attached to your Ubuntu machines. You may have new tools available in your updated subscription; for a list of all tools included in your subscription, run the <pro status> command again.
 
-
+If you want to learn more about any Ubuntu Pro tool, review :ref:`What is included in Ubuntu Pro? <services-overview>`_
 
