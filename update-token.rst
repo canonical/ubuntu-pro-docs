@@ -87,5 +87,5 @@ Congratulations - you have successfully updated your Ubuntu Pro token!
 
 Good job - your new Ubuntu Pro token is now attached to your Ubuntu machines. You may have new tools available in your updated subscription; for a list of all tools included in your subscription, run the <pro status> command again.
 
-If you want to learn more about any Ubuntu Pro tool, review :ref:`What is included in Ubuntu Pro? <services-overview>`_
+If you want to learn more about any Ubuntu Pro tool, review :ref:`What is included in Ubuntu Pro? <services-overview>`
 
