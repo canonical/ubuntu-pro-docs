@@ -3,7 +3,7 @@
 Managing Ubuntu Pro
 ====================
 
-For Ubuntu Pro customers and free token users, guidance on how to manage your Ubuntu Pro subscription, including token management, can be found here.
+For Ubuntu Pro customers and free token users, guidance on how to manage your Ubuntu Pro subscription, including understanding active machine count and Ubuntu Pro token management, can be found here.
 
 .. toctree::
    :maxdepth: 1
@@ -11,5 +11,5 @@ For Ubuntu Pro customers and free token users, guidance on how to manage your Ub
    Manage or renew your Ubuntu Pro subscription online <subscription-management>
    User management in Ubuntu Pro <user-management>
    Active machine count <active-machines>
-   How to update your Ubuntu Pro token <update-pro-token>
+   How to update your Ubuntu Pro token <manage-ubuntu-pro>
 

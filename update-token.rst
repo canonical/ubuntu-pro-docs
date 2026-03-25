@@ -23,8 +23,8 @@ Run <pro status> on an Ubuntu machine to identify which Ubuntu Pro tools are ena
 
 Take note of the enabled services. In the above output, for example, I can see that ESM apps and infra, Landscape and Livepatch are enabled.
 
-Log in to the Ubuntu Pro dashboard and update the Default settings for your new Ubuntu Pro token
-------------------------------------------------------------------------------------------------
+Update the Default settings for your new Ubuntu Pro token
+---------------------------------------------------------
 
 Log in to the `Ubuntu Pro dashboard <https://ubuntu.com/pro/dashboard>`_ and select your new subscription.
 
