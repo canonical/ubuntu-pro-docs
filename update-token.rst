@@ -14,7 +14,7 @@ Check which Ubuntu Pro tools are enabled in your environment:
 
    pro status
 
- You will get an output like this:
+You will get an output like this:
 
 .. code-block:: bash
 
@@ -29,8 +29,8 @@ Check which Ubuntu Pro tools are enabled in your environment:
 
 Take note of the enabled services. In the above output, for example, I can see that ESM apps and infra, Landscape and Livepatch are enabled.
 
-Update the Default settings for your new Ubuntu Pro token
----------------------------------------------------------
+Update your *Default settings*
+------------------------------
 
 Log in to the `Ubuntu Pro dashboard <https://ubuntu.com/pro/dashboard>`_ and select your new subscription.
 
