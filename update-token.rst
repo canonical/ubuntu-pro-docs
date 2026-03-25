@@ -1,4 +1,4 @@
-.. _update-pro-token:
+.. _update-token:
 
 How to update your Ubuntu Pro token
 ===================================
