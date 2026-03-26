@@ -3,12 +3,12 @@
 How to update your Ubuntu Pro token
 ===================================
 
-If you change the tier of Ubuntu Pro to which you are subscribed, your Ubuntu Pro token will change too. This guide explains how to update the token on your Ubuntu machines while ensuring that the same Ubuntu Pro tools remain enabled as before.
+When you change your Ubuntu Pro subscription tier, your Ubuntu Pro token will change too. This guide explains how to update the token on your Ubuntu machines while ensuring that the same Ubuntu Pro tools remain enabled as before.
 
-Determine which Ubuntu Pro tools are in use in your environment
----------------------------------------------------------------
+Check which Ubuntu Pro tools are enabled
+----------------------------------------
 
-Check which Ubuntu Pro tools are enabled in your environment:
+First, we need to check which Ubuntu Pro tools are enabled in your environment by running the following command in your terminal:
 
 .. code-block:: bash
 
@@ -27,7 +27,7 @@ You will get an output like this:
    realtime-kernel* yes       disabled     Ubuntu kernel with PREEMPT_RT patches integrated
    usg              yes       disabled     Security compliance and audit tools
 
-Take note of the enabled services. In the above output, for example, I can see that ESM apps and infra, Landscape and Livepatch are enabled.
+Take note of the enabled services. In the above output, for example, I can see that ESM Apps, ESM Infra, Landscape and Livepatch are enabled.
 
 Update your *Default settings*
 ------------------------------
@@ -38,7 +38,7 @@ From there, navigate to *Default settings* and update the default tools to match
 
 .. image:: images/Pro-token-default-settings.png
 
-If we continue with my own example, I would set ESM apps and infra and Livepatch as default tools.
+If we continue with my own example, I would set ESM Apps, ESM Infra and Livepatch as default tools.
 
 Landscape does not need to be set as a default tool because any Landscape registration will remain valid as long as an active Ubuntu Pro token is present on the registered machine.
 
@@ -52,11 +52,6 @@ Copy your new Ubuntu Pro token from the Ubuntu Pro dashboard, then apply it to a
    $ sudo pro detach && sudo pro attach NEW_TOKEN
 
 For machines registered to Landscape, you should also restart Landscape client:
-
-.. code-block:: bash
-
-   sudo systemctl enable landscape-client
-   sudo systemctl start landscape-client
 
 Then verify that the correct tools are enabled:
 
@@ -73,7 +68,7 @@ Once you are happy that the default settings for your new Ubuntu Pro token have 
 
    $ sudo pro detach && sudo pro attach NEW_TOKEN
    
-As above, for machines registered to Landscape we also want to restart Landscape client:
+For machines registered to Landscape, we also want to restart Landscape client:
 
 .. code-block:: bash
 
@@ -85,7 +80,7 @@ If you need to update the token on lots of machines at once, you can run these c
 Congratulations - you have successfully updated your Ubuntu Pro token!
 ----------------------------------------------------------------------
 
-Good job - your new Ubuntu Pro token is now attached to your Ubuntu machines. You may have new tools available in your updated subscription; for a list of all tools included in your subscription, run the <pro status> command again.
+Good job - your new Ubuntu Pro token is now attached to your Ubuntu machines. You may have new tools available in your updated subscription; for a list of all tools included in your subscription, run the 'pro status' command again.
 
 If you want to learn more about any Ubuntu Pro tool, review :ref:`What is included in Ubuntu Pro? <services-overview>`
 
