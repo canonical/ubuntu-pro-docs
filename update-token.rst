@@ -51,8 +51,6 @@ Copy your new Ubuntu Pro token from the Ubuntu Pro dashboard, then apply it to a
 
    $ sudo pro detach && sudo pro attach NEW_TOKEN
 
-For machines registered to Landscape, you should also restart Landscape client:
-
 Then verify that the correct tools are enabled:
 
 .. code-block:: bash
