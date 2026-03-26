@@ -15,18 +15,16 @@ In this documentation
 =====================
 
 .. grid:: 2
+   :gutter: 3
+   :margin: 0
 
    .. grid-item-card:: :ref:`Start here <start-here>`
-       :columns: 12
+       :columns: 6
 
        Get started with Ubuntu Pro: :ref:`Set up your account <account-setup>`,
        :ref:`attach a machine to your subscription <attach-tutorial>` and learn
        :ref:`how to use the Pro client <pro-client:tutorial-commands>`
-
-.. grid:: 2
-   :gutter: 3
-   :margin: 0
-
+       
    .. grid-item-card:: :ref:`Understanding Ubuntu Pro <explanations>`
        :columns: 6
 
@@ -34,6 +32,16 @@ In this documentation
        :ref:`Canonical Support process <open-case>`,
        :ref:`what each Pro service provides <services-overview>`, and
        :ref:`how to use Pro in an airgapped setup <airgapped>`
+
+.. grid:: 2
+   :gutter: 3
+   :margin: 0
+
+   .. grid-item-card:: :ref:`Managing Ubuntu Pro <manage-ubuntu-pro>`
+       :columns: 6
+
+       Find out how to :ref:`manage your Ubuntu Pro subscription online <subscription_management>`,
+       :ref:`add and remove users <user-management>`, and :ref:`manage your Ubuntu Pro token <update-token>`
 
    .. grid-item-card:: `Using the Ubuntu Pro Client <https://documentation.ubuntu.com/pro-client/en/latest/>`_
        :columns: 6
@@ -76,4 +84,9 @@ Ubuntu Pro is a member of the Ubuntu family. It’s an open source project that 
 
    Understanding Ubuntu Pro <explanation.rst>
 
+.. toctree::
+   :hidden:
+   :maxdepth: 2
+   
+   Managing Ubuntu Pro <manage-ubuntu-pro.rst>
 

@@ -7,16 +7,13 @@ Understanding Ubuntu Pro
 Ubuntu Pro services
 ~~~~~~~~~~~~~~~~~~~~
 
-For all Ubuntu Pro customers and users, here you'll find details about the tools included in your Pro subscription and more information about topics such as how active machines are calculated.
+For all Ubuntu Pro customers and users, here you'll find details about the tools included in your Pro subscription.
 
 .. toctree::
    :maxdepth: 1
 
    What is included in Ubuntu Pro? <services-overview>   
    Introduction to Landscape <landscape>
-   Active machine count <active-machines>
-   Manage or renew your Ubuntu Pro subscription online <subscription-management>
-   User management in Ubuntu Pro <user-management>
 
 Canonical support
 ~~~~~~~~~~~~~~~~~~
