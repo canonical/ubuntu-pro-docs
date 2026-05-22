@@ -12,7 +12,8 @@ For all Ubuntu Pro customers and users, here you'll find details about the tools
 .. toctree::
    :maxdepth: 1
 
-   What is included in Ubuntu Pro? <services-overview>   
+   What is included in Ubuntu Pro? <services-overview>
+   Understanding the Ubuntu Pro token <understanding-pro-token>   
    Introduction to Landscape <landscape>
 
 Canonical support
