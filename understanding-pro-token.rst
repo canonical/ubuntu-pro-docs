@@ -15,7 +15,7 @@ When you attach an Ubuntu Pro token to an Ubuntu machine, you authenticate that 
 * Ubuntu Security Guide
 * FIPS
 * Active Directory for Ubuntu desktop
-* Online machines registered to Landscape using the Pro client, i.e. by running <epro nable landscape>
+* Online machines registered to Landscape using the Pro client, i.e. by running <pro enable landscape>
 
 How does my token relate to my Ubuntu Pro subscription?
 -------------------------------------------------------
