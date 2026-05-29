@@ -3,7 +3,7 @@
 How to update your Ubuntu Pro token
 ===================================
 
-When you change your Ubuntu Pro subscription tier, your Ubuntu Pro token will change too. This guide explains how to update the token on your Ubuntu machines while ensuring that the same Ubuntu Pro tools remain enabled as before.
+When you change your Ubuntu Pro subscription tier, your :ref:`Ubuntu Pro token <understanding-pro-token>` will change too. This guide explains how to update the token on your Ubuntu machines while ensuring that the same Ubuntu Pro tools remain enabled as before.
 
 Check which Ubuntu Pro tools are enabled
 ----------------------------------------
