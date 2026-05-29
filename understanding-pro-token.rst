@@ -26,7 +26,7 @@ For customers who have subscriptions to different tiers of Ubuntu Pro, you will 
 
 Your tokens will remain the same as long as you remain subscribed to the same tiers of Ubuntu Pro, including if you renew your subscription late and if you renew via a different channel.
 
-If you change your tier of Ubuntu Pro, your token will change too. Instructions on how to update your token can be found :ref:`here <update-token>`.
+If you change your tier of Ubuntu Pro, your token will change too and you will need to :ref:`update it <update-token>`.
 
 After a subscription update, e.g. after renewal or after adding additional seats, you may need to run <pro refresh> to get the Ubuntu Pro client to pick up your new contract.
 
