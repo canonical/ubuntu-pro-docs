@@ -50,12 +50,12 @@ Consumption of the following services is registered under active machines:
 
 Machines registered to Landscape using license.txt files are not included.
 
-Occasionally after attaching new machines to your token, you may observe that the active machine count is doubled, e.g. you have attached 10 machines but the active machine count shows 20. Over time the count will stabilise to the correct number of machines, usually within 48 hours.
+Occasionally after attaching new machines to your token, you may observe that the active machine count is doubled, e.g. you have attached 10 machines but the active machine count shows 20. Over time the count will stabilise to the correct number of machines, usually within 48 hours. Your active machine count is intended to be informational; discrepancies like these will not impact your access to the Ubuntu Pro services and you can continue attaching your token to further machines as required.
 
 
 .. tip::
 
-   If you detach a machine from your Ubuntu Pro token, the reduction in active machine count will take place 24 hours later.
+   If you detach a machine from your Ubuntu Pro token or take an attached machine offline, the reduction in active machine count will take place 24 hours later.
 
 Customers with unlimited guest support
 --------------------------------------
