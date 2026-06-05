@@ -55,7 +55,7 @@ Occasionally after attaching new machines to your token, you may observe that th
 
 .. tip::
 
-   If you detach a machine from your Ubuntu Pro token, the reduction in active machine count will take place 24 hours later.
+   If you detach a machine from your Ubuntu Pro token or take an attached machine offline, the reduction in active machine count will take place 24 hours later.
 
 Customers with unlimited guest support
 --------------------------------------
