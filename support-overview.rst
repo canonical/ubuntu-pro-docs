@@ -26,8 +26,8 @@ Your account will include different levels of support according to the options i
 
 **Coverage options**
 
-* *Infra-only*: Ubuntu main repository (~2,300 packages)
-* *Full Pro*: Ubuntu main and universe repositories (~25,000 packages)
+* *Infra-only*: Ubuntu main repository (~3,00 packages)
+* *Full Pro*: Ubuntu main and universe repositories (~30,000 packages)
 
 **Storage**: up to 384TB of Ceph or Swift raw storage per covered machine
 
@@ -40,17 +40,17 @@ Severity levels and response times
 
 For support contracts only; self-service support does not qualify.
 
-+-------------------------------------------------------+-------------------------------------+----------+
-|                    Severity Level                     |               Weekday               |   24.7   |
-+=======================================================+=====================================+==========+
-| 1 - Core functionality critical impact / service down | 4 hours excl. weekends and holidays |  1 hour  |
-+-------------------------------------------------------+-------------------------------------+----------+
-|       2 - Core functionality severely degraded        |          8 business hours           | 2 hours  |
-+-------------------------------------------------------+-------------------------------------+----------+
-|             3 - Standard support request              |          12 business hours          | 6 hours  |
-+-------------------------------------------------------+-------------------------------------+----------+
-|                4 - Non-urgent request                 |          24 business hours          | 12 hours |
-+-------------------------------------------------------+-------------------------------------+----------+
++-------------------------------------------------------+-------------------------------------+-------------------+
+|                    Severity Level                     |               Weekday               |       24.7        |
++=======================================================+=====================================+===================+
+| 1 - Core functionality critical impact / service down | 4 hours excl. weekends and holidays |    1 hour         |
++-------------------------------------------------------+-------------------------------------+-------------------+
+|       2 - Core functionality severely degraded        |          8 business hours           |  2 business hours |
++-------------------------------------------------------+-------------------------------------+-------------------+
+|             3 - Standard support request              |          12 business hours          |  6 business hours |
++-------------------------------------------------------+-------------------------------------+-------------------+
+|                4 - Non-urgent request                 |          24 business hours          | 12 business hours |
++-------------------------------------------------------+-------------------------------------+-------------------+
 
 Business hours are defined as 08:00 to 18:00 Monday to Friday, local to the customer HQ, unless another location has been agreed.
 
