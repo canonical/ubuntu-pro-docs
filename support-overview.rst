@@ -1,12 +1,12 @@
 .. _support-overview:
 
-Canonical Support: overview and process
-========================================
+Canonical Support overview and process
+=======================================
 
 Ubuntu Pro includes self-service support, which can be upgraded to a comprehensive support contract.
 
 Knowledge Base
--------------------
+---------------
 
 All Ubuntu Pro customers, including those on self-service support contracts, have access to our Knowledge Base which is found in the `Canonical Support Portal <https://support-portal.canonical.com/>`_. It contains articles on troubleshooting open source software written by our experts. 
 
@@ -21,13 +21,13 @@ Your account will include different levels of support according to the options i
 
 **Response options**
 
-* *24/5*: Monday to Friday (in your timezone)
+* *8/5*: Monday to Friday (in your timezone)
 * *24/7*: any time of day, every day
 
 **Coverage options**
 
-* *Infra-only*: Ubuntu main repository (~2,300 packages)
-* *Full Pro*: Ubuntu main and universe repositories (~25,000 packages)
+* *Infra-only*: Ubuntu main repository
+* *Full Pro*: Ubuntu main and universe repositories
 
 **Storage**: up to 384TB of Ceph or Swift raw storage per covered machine
 
@@ -40,19 +40,21 @@ Severity levels and response times
 
 For support contracts only; self-service support does not qualify.
 
-+-------------------------------------------------------+-------------------------------------+----------+
-|                    Severity Level                     |               Weekday               |   24.7   |
-+=======================================================+=====================================+==========+
-| 1 - Core functionality critical impact / service down | 4 hours excl. weekends and holidays |  1 hour  |
-+-------------------------------------------------------+-------------------------------------+----------+
-|       2 - Core functionality severely degraded        |          8 business hours           | 2 hours  |
-+-------------------------------------------------------+-------------------------------------+----------+
-|             3 - Standard support request              |          12 business hours          | 6 hours  |
-+-------------------------------------------------------+-------------------------------------+----------+
-|                4 - Non-urgent request                 |          24 business hours          | 12 hours |
-+-------------------------------------------------------+-------------------------------------+----------+
++-------------------------------------------------------+----------------------------------------------------------------+------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|                                                       |               Weekday                                          |       24/7                               |                                                                          Firefighting support (24/7 support add-on)                                                                           |
++=======================================================+=====================================+==========================+===================+======================+====================+==========================================================================================================================================================================+
+|                    **Response times**                 |          **First response**         |   **Ongoing response**   |**First response** | **Ongoing response** | **First response** |                       **Ongoing response**                                                                                                                               |
++-------------------------------------------------------+-------------------------------------+--------------------------+-------------------+----------------------+--------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 1 - Core functionality critical impact / service down |           4 business hours          |    2 business hours      |    1 hour         |  2 hours             |   1 hour           | Continuous response until issue is de-escalated to level 2 if issues affects all users or 4 hours of enhanced support since initial response if issue affects some users |
++-------------------------------------------------------+-------------------------------------+--------------------------+-------------------+----------------------+--------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|       2 - Core functionality severely degraded        |          8 business hours           |    8 business hours      | 2 business hours  | 8 business hours     | 2 business hours   |                       8 business hours                                                                                                                                   |
++-------------------------------------------------------+-------------------------------------+--------------------------+-------------------+----------------------+--------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|             3 - Standard support request              |          12 business hours          |        Weekly            |  6 business hours |   Weekly             | 6 business hours   |                        Weekly                                                                                                                                            |
++-------------------------------------------------------+-------------------------------------+--------------------------+-------------------+----------------------+--------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|                4 - Non-urgent request                 |          24 business hours          |         NA               | 12 business hours |      NA              | 12 business hours  |                       NA                                                                                                                                                 |
++-------------------------------------------------------+-------------------------------------+--------------------------+-------------------+----------------------+--------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Business hours are defined as 08:00 to 18:00 Monday to Friday, local to the customer HQ, unless another location has been agreed.
+Business hours are defined as 08:00 to 17:00 Monday to Friday, local to the customer HQ, unless another location has been agreed.
 
 For further information about what is covered under your support contract, refer to the `Ubuntu Pro Service Description <https://ubuntu.com/legal/ubuntu-pro-description>`_.
 
