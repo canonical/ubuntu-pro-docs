@@ -19,6 +19,7 @@ crypto
 CTRL
 CVE
 CVEs
+de
 dropdown
 Diátaxis
 DISA
