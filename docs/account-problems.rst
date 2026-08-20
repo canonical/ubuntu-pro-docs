@@ -12,7 +12,7 @@ The first thing to check is that you have created an Ubuntu One account (note th
 
 If that hasn't solved your problem, next check that you are using the correct email address: ask the person who set up your organisation's Ubuntu Pro subscription and try again.
 
-Find the original "Welcome to Ubuntu Pro" message we sent you, and contact the Customer Success team with the details provided. If you cannot find the welcome message, go to `https://ubuntu.com/ <https://ubuntu.com/>`_ and ask for Customer Success contact details using the LiveChat service.
+Find the original "Welcome to Ubuntu Pro" message we sent you, and contact the Customer Success team with the details provided. If you cannot find the welcome message, go to `https://ubuntu.com/ <https://ubuntu.com/>`_ and ask for Customer Success contact details using the LiveChat service. 
 
 .. _email-validation-problems:
 
