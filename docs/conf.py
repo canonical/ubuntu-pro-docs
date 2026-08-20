@@ -34,12 +34,10 @@ html_title = project + " documentation"
 
 # Documentation website URL
 #
-# Set the URL where the documentation will be hosted so that it is used for the
-# Open Graph link preview and the sitemap. On Read the Docs the canonical URL is
-# provided automatically.
-ogp_site_url = os.environ.get(
-    "READTHEDOCS_CANONICAL_URL", "https://documentation.ubuntu.com/pro/"
-)
+# NOTE: The Ubuntu Pro documentation is published at ubuntu.com/pro/docs, so the
+# canonical and Open Graph URLs are set explicitly rather than derived from
+# READTHEDOCS_CANONICAL_URL.
+ogp_site_url = "https://ubuntu.com/pro/docs/"
 
 # Preview name of the documentation website
 ogp_site_name = project
@@ -90,20 +88,23 @@ html_theme_options = {
 }
 
 # Project slug
-# This documentation is hosted on https://documentation.ubuntu.com/pro/.
-slug = "pro"
+# This documentation is hosted on https://ubuntu.com/pro/docs/.
+slug = "pro/docs"
 
 #######################
 # Sitemap configuration: https://sphinx-sitemap.readthedocs.io/
 #######################
 
-# Use RTD canonical URL to ensure duplicate pages have a specific canonical URL
-html_baseurl = os.environ.get(
-    "READTHEDOCS_CANONICAL_URL", "https://documentation.ubuntu.com/pro/"
-)
+# The base URL is set explicitly because the Ubuntu Pro documentation is served
+# from ubuntu.com/pro/docs (it was changed during the Read the Docs domain
+# migration).
+html_baseurl = "https://ubuntu.com/pro/docs/"
 
 # sphinx-sitemap uses html_baseurl to generate the full URL for each page:
 sitemap_url_scheme = "{link}"
+
+# Custom sitemap filename for the ubuntu.com/pro/docs publishing path:
+sitemap_filename = "doc-sitemap.xml"
 
 # Include `lastmod` dates in the sitemap:
 sitemap_show_lastmod = True
@@ -115,6 +116,12 @@ sitemap_excludes = [
     "search/",
 ]
 
+# The base URL for references built by sphinx-markdown-builder (llms.txt).
+# The trailing slash is stripped because the builder joins this value with a
+# leading-slash path, which would otherwise produce a doubled slash.
+if os.environ.get("READTHEDOCS"):
+    markdown_http_base = html_baseurl.rstrip("/")
+
 ################################
 # Template and asset locations #
 ################################
@@ -122,8 +129,9 @@ sitemap_excludes = [
 # The custom Ubuntu Pro header (Pro services dropdown) and footer templates.
 templates_path = ["_templates"]
 
-# Custom static assets (Pro tag image and Pro header CSS/JS overrides).
-html_static_path = ["_dev/_static"]
+# Custom static assets (Pro tag image, Pro header CSS/JS overrides and the
+# Read the Docs link rewriting script).
+html_static_path = ["_static"]
 
 #############
 # Redirects #
@@ -222,10 +230,13 @@ html_css_files = [
 
 # Adds custom JavaScript files, located in 'html_static_path' or remotely.
 # The remote bundle.js provides the cookie policy banner and analytics;
-# 'pro-header-nav.js' toggles the Ubuntu Pro "Pro services" header dropdown.
+# 'pro-header-nav.js' toggles the Ubuntu Pro "Pro services" header dropdown;
+# 'overwrite_links.js' rewrites the Read the Docs-hosted domain to the published
+# ubuntu.com/pro/docs domain in the header and Read the Docs addons.
 html_js_files = [
     "https://assets.ubuntu.com/v1/287a5e8f-bundle.js",
     "pro-header-nav.js",
+    "overwrite_links.js",
 ]
 
 # NOTE: Reusable Ubuntu Pro link definitions live in 'reuse/links.txt'. They are

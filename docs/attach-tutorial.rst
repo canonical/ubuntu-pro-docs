@@ -10,7 +10,7 @@ In this tutorial you will learn how to find your Ubuntu Pro token and attach it 
 
 .. Note::
 
-   This tutorial is for machines with internet access. If you have an airgapped environment, see `Ubuntu Pro for airgapped environments <https://documentation.ubuntu.com/pro/airgapped-setup/>`_.
+   This tutorial is for machines with internet access. If you have an airgapped environment, see :ref:`Ubuntu Pro for airgapped environments <airgapped>`.
 
 What you’ll learn
 ~~~~~~~~~~~~~~~~~
@@ -21,7 +21,7 @@ What you’ll learn
 What you’ll need
 ~~~~~~~~~~~~~~~~
 
-1. An Ubuntu Pro subscription - free or paid - with access to the `Ubuntu Pro dashboard <https://ubuntu.com/pro/dashboard>`_ already set up. If you have not done so, follow `Initial account setup <https://documentation.ubuntu.com/pro/account-setup/>`_
+1. An Ubuntu Pro subscription - free or paid - with access to the `Ubuntu Pro dashboard <https://ubuntu.com/pro/dashboard>`_ already set up. If you have not done so, follow :ref:`Initial account setup <account-setup>`
 2. An Ubuntu machine running any LTS version of Ubuntu from 16.04 onwards
 3. Sudo access
 4. Ubuntu Pro client
@@ -47,7 +47,7 @@ Check or create your Ubuntu Pro subscription
 
 Log in to the `Ubuntu Pro dashboard <https://ubuntu.com/pro/dashboard>`_.
 
-You access your Ubuntu Pro token from the Ubuntu Pro dashboard. Make sure you have followed the steps under `Initial account setup <https://documentation.ubuntu.com/pro/account-setup/>`_ to log in to this dashboard.
+You access your Ubuntu Pro token from the Ubuntu Pro dashboard. Make sure you have followed the steps under :ref:`Initial account setup <account-setup>` to log in to this dashboard.
 
 Next, retrieve the token under ‘Your subscriptions’:
 
@@ -99,7 +99,7 @@ This output depends on your Ubuntu LTS version, for instance ‘fips’, ‘fips
 Congratulations - Ubuntu Pro is now enabled on your machine
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Well done! Your machine now has access to Ubuntu Pro repositories. Now every time you update your software, you will be downloading patches from Ubuntu Pro’s Expanded Security Maintenance repositories. You can continue performing updates as you normally would - with 'unattended-upgrades', the Software Updater on desktops, the 'apt upgrade' command in the CLI, or `Landscape <https://documentation.ubuntu.com/pro/landscape/>`_.
+Well done! Your machine now has access to Ubuntu Pro repositories. Now every time you update your software, you will be downloading patches from Ubuntu Pro’s Expanded Security Maintenance repositories. You can continue performing updates as you normally would - with 'unattended-upgrades', the Software Updater on desktops, the 'apt upgrade' command in the CLI, or :ref:`Landscape <landscape>`.
 
 To ensure that all available CVE fixes are applied, run:
 

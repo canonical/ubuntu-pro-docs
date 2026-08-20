@@ -89,6 +89,8 @@ Landscape
 
 If you have a paid Ubuntu Pro subscription, you are entitled to use Landscape. You can use it either :ref:`Self-hosted <self-hosted-landscape>` or as a service (Landscape SaaS).
 
+.. _landscape-saas-account:
+
 Set up a new Landscape SaaS account
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 

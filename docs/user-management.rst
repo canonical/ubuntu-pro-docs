@@ -13,7 +13,7 @@ User management is not integrated across these portals, meaning you will need to
 
 .. Important::
   
-   The named technical contact on an Ubuntu Pro subscription will automatically be granted administrator-level access to the Ubuntu Pro dashboard and the Support Portal. `Landscape accounts are created separately <https://documentation.ubuntu.com/pro/account-setup/#set-up-a-new-landscape-saas-account>`_.
+   The named technical contact on an Ubuntu Pro subscription will automatically be granted administrator-level access to the Ubuntu Pro dashboard and the Support Portal. :ref:`Landscape accounts are created separately <landscape-saas-account>`.
 
 The Ubuntu Pro dashboard
 ~~~~~~~~~~~~~~~~~~~~~~~~
@@ -28,7 +28,7 @@ Add a new user
     * Technical contacts can access the Pro token but cannot manage users and, for online shop customers, cannot manage subscriptions and invoices.
     * Billing contacts can manage subscriptions and invoices, for online shop customers, but cannot access the Pro token and cannot manage users.
     
-* New users should follow the instructions under `Initial account setup <https://documentation.ubuntu.com/pro/account-setup/>`_ to log into the Pro dashboard.
+* New users should follow the instructions under :ref:`Initial account setup <account-setup>` to log into the Pro dashboard.
 
 Remove a user
 -------------
@@ -54,7 +54,7 @@ To create non-administrator level users:
 * Review the list of contacts and users on your account - your new user may already be added as a non-user contact to your account.
 * If you can see your new user’s details already added, click to edit them, then check the box “Active Support Portal user” and hit save.
 * If you cannot see your new user’s details, click *Add contact* and provide their name, email address and job title. Select the box “Active Support Portal user” and hit save.
-* New users should follow the instructions `here <https://documentation.ubuntu.com/pro/account-setup/>`_ to log in to the Support Portal.
+* New users should follow the instructions in :ref:`Initial account setup <account-setup>` to log in to the Support Portal.
 
 To create administrator-level users, please open a case in the Support Portal to request that they are added as a new user to your account. Include the new user’s name, email address and job title, and specify that they should be enabled as an administrator.
 
