@@ -40,7 +40,7 @@ In this documentation
    .. grid-item-card:: :ref:`Managing Ubuntu Pro <manage-ubuntu-pro>`
        :columns: 6
 
-       Find out how to :ref:`manage your Ubuntu Pro subscription online <subscription_management>`,
+       Find out how to :ref:`manage a subscription purchased from the online shop <subscription_management>`,
        :ref:`add and remove users <user-management>`, and :ref:`manage your Ubuntu Pro token <update-token>`
 
    .. grid-item-card:: `Using the Ubuntu Pro Client <https://documentation.ubuntu.com/pro-client/en/latest/>`_
