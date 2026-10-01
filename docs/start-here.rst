@@ -1,7 +1,7 @@
 .. _start-here:
 
 Start here
-==========test
+==========
 
 For new customers, new users on existing accounts, and new free token users, we recommend the following documentation for a quick start with Ubuntu Pro.
 
