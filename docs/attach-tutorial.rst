@@ -34,13 +34,13 @@ Make sure that the Ubuntu Pro client is installed and up to date:
 
 .. code-block:: bash
 
-   $ sudo apt install ubuntu-advantage-tools
+   sudo apt install ubuntu-advantage-tools
 
 When you get the latest client, run apt update again to make sure all package data is up to date.
 
 .. code-block:: bash
 
-   $ sudo apt update
+   sudo apt update
 
 Check or create your Ubuntu Pro subscription
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -70,7 +70,7 @@ Some of the Ubuntu Pro services are automatically enabled while others remain di
 
 .. code-block:: bash
 
-   $ sudo pro attach [YOUR_TOKEN]
+   sudo pro attach [YOUR_TOKEN]
    Enabling default service esm-infra
    Updating package lists
    Ubuntu Pro: ESM Infra enabled
@@ -105,7 +105,7 @@ To ensure that all available CVE fixes are applied, run:
 
 .. code-block:: bash
 
-   $ sudo apt update && sudo apt upgrade
+   sudo apt update && sudo apt upgrade
 
 That’s all, folks
 ~~~~~~~~~~~~~~~~~
